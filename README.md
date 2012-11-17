@@ -13,3 +13,9 @@ A fresh green and blue theme.
 A romantic red and purple theme.
 
 ![Potpourri](https://raw.github.com/daylerees/colour-schemes/master/screenshots/potpourri.png)
+
+## Frontier
+
+Strong rich colours.
+
+![Frontier](https://raw.github.com/daylerees/colour-schemes/master/screenshots/frontier.png)
