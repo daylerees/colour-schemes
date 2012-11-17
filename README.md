@@ -12,4 +12,4 @@ A fresh green and blue theme.
 
 A romantic red and purple theme.
 
-![FreshCut](https://raw.github.com/daylerees/colour-schemes/master/screenshots/freshcut.png)
+![Potpourri](https://raw.github.com/daylerees/colour-schemes/master/screenshots/potpourri.png)
