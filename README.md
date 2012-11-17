@@ -19,3 +19,9 @@ A romantic red and purple theme.
 Strong rich colours.
 
 ![Frontier](https://raw.github.com/daylerees/colour-schemes/master/screenshots/frontier.png)
+
+## Goldfish
+
+Orange and blue theme.
+
+![Goldfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/goldfish.png)
