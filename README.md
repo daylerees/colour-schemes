@@ -75,3 +75,9 @@ A chilly breeze.
 Based on Pink Floyd's 'dark side of the moon', a request by Jamie Rumbelow.
 
 ![Darkside](https://raw.github.com/daylerees/colour-schemes/master/screenshots/darkside.png)
+
+## Lavender
+
+Here's one for the ladies, Lavender.
+
+![Lavender](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lavender.png)
