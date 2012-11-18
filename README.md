@@ -81,3 +81,9 @@ Based on Pink Floyd's 'dark side of the moon', a request by Jamie Rumbelow.
 Here's one for the ladies, Lavender.
 
 ![Lavender](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lavender.png)
+
+## Userscape
+
+Ian Landsman requested a light theme, I give you Userscape.
+
+![Userscape](https://raw.github.com/daylerees/colour-schemes/master/screenshots/userscape.png)
