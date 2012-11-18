@@ -49,3 +49,9 @@ Orange and lime green, sharp sweetness.
 Smart blue and yellow.
 
 ![Revelation](https://raw.github.com/daylerees/colour-schemes/master/screenshots/revelation.png)
+
+## Carbonight
+
+For boring people.
+
+![Carbonight](https://raw.github.com/daylerees/colour-schemes/master/screenshots/carbonight.png)
