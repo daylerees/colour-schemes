@@ -31,3 +31,9 @@ Orange and blue theme.
 A grungy green theme with some highlights.
 
 ![Grunge](https://raw.github.com/daylerees/colour-schemes/master/screenshots/grunge.png)
+
+## Laravel
+
+An orange tribute to the Laravel PHP Framework.
+
+![Laravel](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laravel.png)
