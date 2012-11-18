@@ -93,3 +93,9 @@ Ian Landsman requested a light theme, I give you Userscape.
 With added fresh breath.
 
 ![Spearmint](https://raw.github.com/daylerees/colour-schemes/master/screenshots/spearmint.png)
+
+## Patriot
+
+Salute the flag.
+
+![Patriot](https://raw.github.com/daylerees/colour-schemes/master/screenshots/patriot.png)
