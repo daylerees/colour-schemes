@@ -99,3 +99,9 @@ With added fresh breath.
 Salute the flag.
 
 ![Patriot](https://raw.github.com/daylerees/colour-schemes/master/screenshots/patriot.png)
+
+## Stark
+
+Suit up.
+
+![Stark](https://raw.github.com/daylerees/colour-schemes/master/screenshots/stark.png)
