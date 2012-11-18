@@ -37,3 +37,9 @@ A grungy green theme with some highlights.
 An orange tribute to the Laravel PHP Framework.
 
 ![Laravel](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laravel.png)
+
+## Sourlick
+
+Orange and lime green, sharp sweetness.
+
+![Sourlick](https://raw.github.com/daylerees/colour-schemes/master/screenshots/sourlick.png)
