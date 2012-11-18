@@ -69,3 +69,9 @@ An earthy request by Mr Dan Horrigan, happy to try.
 A chilly breeze.
 
 ![Iceberg](https://raw.github.com/daylerees/colour-schemes/master/screenshots/iceberg.png)
+
+## Darkside
+
+Based on Pink Floyd's 'dark side of the moon', a request by Jamie Rumbelow.
+
+![Darkside](https://raw.github.com/daylerees/colour-schemes/master/screenshots/darkside.png)
