@@ -105,3 +105,9 @@ Salute the flag.
 Suit up.
 
 ![Stark](https://raw.github.com/daylerees/colour-schemes/master/screenshots/stark.png)
+
+## Mellow
+
+Gentle and soothing.
+
+![Mellow](https://raw.github.com/daylerees/colour-schemes/master/screenshots/mellow.png)
