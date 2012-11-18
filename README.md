@@ -2,6 +2,8 @@
 
 Color schemes created for Sublime Text 2 and Textmate created by Dayle Rees.
 
+The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on Mac OSX with the font [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html).
+
 ## FreshCut
 
 A fresh green and blue theme.
