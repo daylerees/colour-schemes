@@ -25,3 +25,9 @@ Strong rich colours.
 Orange and blue theme.
 
 ![Goldfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/goldfish.png)
+
+## Grunge
+
+A grungy green theme with some highlights.
+
+![Grunge](https://raw.github.com/daylerees/colour-schemes/master/screenshots/grunge.png)
