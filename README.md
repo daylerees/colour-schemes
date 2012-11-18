@@ -87,3 +87,9 @@ Here's one for the ladies, Lavender.
 Ian Landsman requested a light theme, I give you Userscape.
 
 ![Userscape](https://raw.github.com/daylerees/colour-schemes/master/screenshots/userscape.png)
+
+## Spearmint
+
+With added fresh breath.
+
+![Spearmint](https://raw.github.com/daylerees/colour-schemes/master/screenshots/spearmint.png)
