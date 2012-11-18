@@ -55,3 +55,9 @@ Smart blue and yellow.
 For boring people.
 
 ![Carbonight](https://raw.github.com/daylerees/colour-schemes/master/screenshots/carbonight.png)
+
+## Earthsong
+
+An earthy request by Mr Dan Horrigan, happy to try.
+
+![Earthsong](https://raw.github.com/daylerees/colour-schemes/master/screenshots/earthsong.png)
