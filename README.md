@@ -111,3 +111,9 @@ Suit up.
 Gentle and soothing.
 
 ![Mellow](https://raw.github.com/daylerees/colour-schemes/master/screenshots/mellow.png)
+
+## Slime
+
+Saved by Meroje.
+
+![Slime](https://raw.github.com/daylerees/colour-schemes/master/screenshots/slime.png)
