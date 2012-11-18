@@ -1,0 +1,19 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Earthsong.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		90
+	],
+	"trim_trailing_white_space_on_save": true
+}
