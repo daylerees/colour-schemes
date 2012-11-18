@@ -43,3 +43,9 @@ An orange tribute to the Laravel PHP Framework.
 Orange and lime green, sharp sweetness.
 
 ![Sourlick](https://raw.github.com/daylerees/colour-schemes/master/screenshots/sourlick.png)
+
+## Revelation
+
+Smart blue and yellow.
+
+![Revelation](https://raw.github.com/daylerees/colour-schemes/master/screenshots/revelation.png)
