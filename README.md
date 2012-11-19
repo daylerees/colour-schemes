@@ -64,6 +64,12 @@ An earthy request by Mr Dan Horrigan, happy to try.
 
 ![Earthsong](https://raw.github.com/daylerees/colour-schemes/master/screenshots/earthsong.png)
 
+## Earthsong Light
+
+A lighter version of Earthsong.
+
+![Earthsong Light](https://raw.github.com/daylerees/colour-schemes/master/screenshots/earthsonglight.png)
+
 ## Iceberg
 
 A chilly breeze.
