@@ -40,6 +40,12 @@ An orange tribute to the Laravel PHP Framework.
 
 ![Laravel](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laravel.png)
 
+## Laravel Darker
+
+A darker version of the Laravel theme requested by Fernando Montoya.
+
+![Laravel Darker](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laraveldarker.png)
+
 ## Sourlick
 
 Orange and lime green, sharp sweetness.
