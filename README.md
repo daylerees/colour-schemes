@@ -147,3 +147,9 @@ Be snappy but lighter!
 Show your colours!
 
 ![Peacock](https://raw.github.com/daylerees/colour-schemes/master/screenshots/peacock.png)
+
+## Yule
+
+Ho Ho Hope you like it!
+
+![Yule](https://raw.github.com/daylerees/colour-schemes/master/screenshots/yule.png)
