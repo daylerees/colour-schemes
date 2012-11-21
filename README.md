@@ -129,3 +129,15 @@ Gentle and soothing.
 Saved by Meroje.
 
 ![Slime](https://raw.github.com/daylerees/colour-schemes/master/screenshots/slime.png)
+
+## Snappy
+
+Be snappy!
+
+![Snappy](https://raw.github.com/daylerees/colour-schemes/master/screenshots/snappy.png)
+
+## Snappy Light
+
+Be snappy but lighter!
+
+![Snappy Light](https://raw.github.com/daylerees/colour-schemes/master/screenshots/snappylight.png)
