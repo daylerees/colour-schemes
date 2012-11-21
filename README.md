@@ -141,3 +141,9 @@ Be snappy!
 Be snappy but lighter!
 
 ![Snappy Light](https://raw.github.com/daylerees/colour-schemes/master/screenshots/snappylight.png)
+
+## Peacock
+
+Show your colours!
+
+![Peacock](https://raw.github.com/daylerees/colour-schemes/master/screenshots/peacock.png)
