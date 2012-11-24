@@ -8,7 +8,7 @@ The themes in this package are currently compatible with Sublime Text 2, Textmat
 
 ### Sublime Text 2
 
-For the sublime text 2 editor the themes can be installed easily by using Package Control to install the 'Dayle Rees Colour Schemes' package from the official repository.
+For the sublime text 2 editor the themes can be installed easily by using [Package Control](http://wbond.net/sublime_packages/package_control) to install the 'Dayle Rees Colour Schemes' package from the official repository.
 
 Otherwise, first find your Sublime Text 2 packages directory, you can find this by using the `Preferences -> Browse Packages` menu from within Sublime Text 2.
 
