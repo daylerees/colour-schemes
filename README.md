@@ -24,9 +24,9 @@ Now simply use the `Color Schemes` option of your preferences menu to switch bet
 
 ### VIM
 
-Download or clone with git, the themes into your `.vim` directory. Now edit your `.vimrc` file and add the following line.
+Download or clone with git, the themes into your `.vim/colors` directory. Now edit your `.vimrc` file and add the following line.
 
-	colourscheme <scheme-name-here>
+	colorscheme <scheme-name-here>
 
 Save and launch vim to use, enjoy!
 
