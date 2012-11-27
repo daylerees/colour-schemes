@@ -13,6 +13,7 @@ let g:colors_name = "Earthsong Light"
 hi Cursor ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#615649 gui=NONE
 hi Visual ctermfg=NONE ctermbg=187 cterm=NONE guifg=NONE guibg=#dbcebf gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#f2f0ee gui=NONE
+hi CursorLineNr guifg=#db9d18 ctermfg=178
 hi CursorColumn ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#f2f0ee gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#f2f0ee gui=NONE
 hi LineNr ctermfg=145 ctermbg=231 cterm=NONE guifg=#beb3a9 guibg=#f2f0ee gui=NONE
@@ -20,12 +21,15 @@ hi VertSplit ctermfg=188 ctermbg=188 cterm=NONE guifg=#d9d3cd guibg=#d9d3cd gui=
 hi MatchParen ctermfg=166 ctermbg=NONE cterm=NONE guifg=#d45c28 guibg=NONE gui=NONE
 hi StatusLine ctermfg=95 ctermbg=188 cterm=bold guifg=#7d6852 guibg=#d9d3cd gui=bold
 hi StatusLineNC ctermfg=95 ctermbg=188 cterm=NONE guifg=#7d6852 guibg=#d9d3cd gui=NONE
-hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
-hi PmenuSel ctermfg=NONE ctermbg=187 cterm=NONE guifg=NONE guibg=#dbcebf gui=NONE
+
+hi Pmenu    guifg=#7d6852 guibg=#baa188 ctermfg=144
+hi PmenuSel ctermfg=NONE  cterm=NONE guifg=NONE guibg=#dbcebf gui=NONE
+
 hi IncSearch ctermfg=NONE ctermbg=223 cterm=NONE guifg=NONE guibg=#f1c9b8 gui=NONE
 hi Search ctermfg=NONE ctermbg=223 cterm=NONE guifg=NONE guibg=#f1c9b8 gui=NONE
 hi Directory ctermfg=107 ctermbg=NONE cterm=NONE guifg=#7ba84d guibg=NONE gui=NONE
 hi Folded ctermfg=144 ctermbg=15 cterm=NONE guifg=#baa188 guibg=#ffffff gui=NONE
+hi WildMenu guibg=#db9d18
 
 hi Normal ctermfg=95 ctermbg=15 cterm=NONE guifg=#7d6852 guibg=#ffffff gui=NONE
 hi Boolean ctermfg=107 ctermbg=NONE cterm=NONE guifg=#7ba84d guibg=NONE gui=NONE
