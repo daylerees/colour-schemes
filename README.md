@@ -18,9 +18,24 @@ Now either create a `daylerees - themes` folder within this directory, and copy 
 
 Now simply use the `Color Schemes` option of your preferences menu to switch between themes, enjoy!
 
-### Textmate
+### TextMate 1.5.x
 
-[ Coming Soon ] - Fork and add this information if you are a Textmate user!
+Clone the repository and copy the theme files into `~/Library/Application\ Support/TextMate/Themes/`:
+    
+    $ git clone https://github.com/daylerees/colour-schemes.git daylerees-themes
+    $ cd daylerees-themes
+    $ mkdir ~/Library/Application\ Support/TextMate/Themes/
+    $ cp *.tmTheme ~/Library/Application\ Support/TextMate/Themes/
+
+### Textmate 2
+
+Clone the repository and copy the theme files into `~/Library/Application\ Support/TextMate/Managed/Bundles/Themes.tmbundle/Themes/`:
+
+    $ git clone https://github.com/daylerees/colour-schemes.git daylerees-themes
+    $ cd daylerees-themes
+    $ cp *.tmTheme ~/Library/Application\ Support/TextMate/Managed/Bundles/Themes.tmbundle/Themes/
+
+Note that you cannot clone the repository into the Themes directory -- as of this writing TextMate 2 will not recursively scan subdirectories searching for themes. Also note that you cannot symlink the themes into the Themes directory either -- TextMate will hang attempting to process them.
 
 ### VIM
 
