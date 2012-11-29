@@ -21,7 +21,7 @@ Now simply use the `Color Schemes` option of your preferences menu to switch bet
 ### TextMate 1.5.x
 
 Clone the repository and copy the theme files into `~/Library/Application\ Support/TextMate/Themes/`:
-    
+
     $ git clone https://github.com/daylerees/colour-schemes.git daylerees-themes
     $ cd daylerees-themes
     $ mkdir ~/Library/Application\ Support/TextMate/Themes/
@@ -211,6 +211,12 @@ A subtle blue and green theme dedicated to my current employer BoxUK, home to pa
 A retro hacker theme, enjoy Glowfish!
 
 ![Glowfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/glowfish.png)
+
+### Tron
+
+Requested by Aurélien Thieriot!
+
+![Tron](https://raw.github.com/daylerees/colour-schemes/master/screenshots/tron.png)
 
 ## Contribute
 
