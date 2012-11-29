@@ -191,6 +191,12 @@ A subtle blue and green theme dedicated to my current employer BoxUK, home to pa
 
 ![BoxUK](https://raw.github.com/daylerees/colour-schemes/master/screenshots/boxuk.png)
 
+### Glowfish
+
+A retro hacker theme, enjoy Glowfish!
+
+![Glowfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/glowfish.png)
+
 ## Contribute
 
 If you would like to request a colourscheme, an alternate version of an existing scheme, or submit your own theme to the collection simply send an Issue or a Pull request.
