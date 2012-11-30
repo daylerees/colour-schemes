@@ -136,7 +136,7 @@ Based on Pink Floyd's 'dark side of the moon', a request by Jamie Rumbelow.
 
 ### Lavender
 
-Here's one for the ladies, Lavender.
+Here's one for those who're extremely down with purple, I give you Lavender.
 
 ![Lavender](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lavender.png)
 
