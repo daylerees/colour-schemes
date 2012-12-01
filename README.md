@@ -224,6 +224,13 @@ First 3rd party submission from Spielberg0, based on the Sublime Text Tomorrow N
 
 ![LastNight](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lastnight.png)
 
+### Tron Legacy
+
+Aurélien Thieriot wasn't happy with just one theme, here's Tron Legacy!
+
+![TronLegacy](https://raw.github.com/daylerees/colour-schemes/master/screenshots/tronlegacy.png)
+
+
 ## Contribute
 
 If you would like to request a colourscheme, an alternate version of an existing scheme, or submit your own theme to the collection simply send an Issue or a Pull request.
