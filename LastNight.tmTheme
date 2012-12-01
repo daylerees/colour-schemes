@@ -1,3 +1,14 @@
+<!--
+======================================================================
+Last Night
+======================================================================
+A Sublime Text 2 / Textmate theme.
+Copyright (c) 2012 Spielberg0.
+Released under the MIT License <http://opensource.org/licenses/MIT>
+----------------------------------------------------------------------
+Find more themes at : https://github.com/daylerees/colour-schemes
+----------------------------------------------------------------------
+-->
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -338,6 +349,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
+	<string>F96224DB-1A60-4617-92F3-D24D4F13DB09</string>
 </dict>
 </plist>
