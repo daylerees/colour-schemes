@@ -136,7 +136,7 @@ Based on Pink Floyd's 'dark side of the moon', a request by Jamie Rumbelow.
 
 ### Lavender
 
-Here's a theme for people of all genders, faiths, height, weight, race and status.
+Here's a theme for people of all genders, faiths, height, weight, race and status, apart from Kevin Bacon, cos those EE adverts are just terrible.
 
 ![Lavender](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lavender.png)
 
