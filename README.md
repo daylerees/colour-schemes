@@ -230,6 +230,11 @@ Aurélien Thieriot wasn't happy with just one theme, here's Tron Legacy!
 
 ![TronLegacy](https://raw.github.com/daylerees/colour-schemes/master/screenshots/tronlegacy.png)
 
+### Github
+
+I love Github, and everything it has done for the open source community, thanks for everything!
+
+![Github](https://raw.github.com/daylerees/colour-schemes/master/screenshots/github.png)
 
 ## Contribute
 
