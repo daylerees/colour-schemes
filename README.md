@@ -2,7 +2,7 @@
 
 Hi there! My name's Dayle Rees and I'm one of the Laravel PHP framework core developers. Part of the Laravel mentality is that coding should be enjoyable for the coder, not just the client receiving your hard work. For this reaon I'd like to share with you a number of themes for some popular text editors that will hopefully be pleasing to your eyes, and allow you to enjoy the time you spend in front of the screen.
 
-The themes in this package are currently compatible with Sublime Text 2, Textmate and VIM. I hope to add more editors in the near future.
+The themes in this package are currently compatible with Sublime Text 2, Textmate, VIM and a whole bunch of Java editors that use the IntelliJ scheme engine like PHPstorm! I hope to add more editors in the near future.
 
 ## Installation
 
@@ -44,6 +44,10 @@ Download or clone with git, the themes into your `.vim/colors` directory. Now ed
 	colorscheme <scheme-name-here>
 
 Save and launch vim to use, enjoy!
+
+### IntelliJ
+
+See the documentation for your editor, this varies between each one!
 
 ## The Themes
 
@@ -241,6 +245,10 @@ I love Github, and everything it has done for the open source community, thanks 
 If you would like to request a colourscheme, an alternate version of an existing scheme, or submit your own theme to the collection simply send an Issue or a Pull request.
 
 If you would like to buy me a beer for the time I have spent on these themes, my paypal address is [thepunkfan@gmail.com](mailto:thepunkfan@gmail.com), thanks a lot! :)
+
+## Thanks!
+
+Thanks to JetBrains for the IntelliJ colour scheme converter tool! https://github.com/JetBrains/colorSchemeTool
 
 ## Enjoy
 
