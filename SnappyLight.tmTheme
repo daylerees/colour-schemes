@@ -334,8 +334,10 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<string>meta.diff, meta.diff.header</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+        			<string>#ebebeb</string>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#4d4d36</string>
 			</dict>
 		</dict>
 		<dict>
