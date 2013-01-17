@@ -116,6 +116,13 @@ I love Github, and everything it has done for the open source community, thanks 
 
 ![Github](https://raw.github.com/daylerees/colour-schemes/master/screenshots/github.png)
 
+### Gloom
+
+Here's a gloomy alternative to peacock! I thought it looked cool, maybe you do too?
+
+![Gloom](https://raw.github.com/daylerees/colour-schemes/master/screenshots/gloom.png)
+
+
 ### Goldfish
 
 Orange and blue theme.
