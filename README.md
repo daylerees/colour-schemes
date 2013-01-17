@@ -54,65 +54,23 @@ See the documentation for your editor, this varies between each one!
 
 The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on Mac OSX with the font [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html).
 
-### FreshCut
+### BoxUK
 
-A fresh green and blue theme.
+A subtle blue and green theme dedicated to my current employer BoxUK, home to passionate web developers. If you are looking for work and passionate about development [see the website](http://www.boxuk.com/careers/overview/) for employment details.
 
-![FreshCut](https://raw.github.com/daylerees/colour-schemes/master/screenshots/freshcut.png)
-
-### Potpourri
-
-A romantic red and purple theme.
-
-![Potpourri](https://raw.github.com/daylerees/colour-schemes/master/screenshots/potpourri.png)
-
-### Frontier
-
-Strong rich colours.
-
-![Frontier](https://raw.github.com/daylerees/colour-schemes/master/screenshots/frontier.png)
-
-### Goldfish
-
-Orange and blue theme.
-
-![Goldfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/goldfish.png)
-
-### Grunge
-
-A grungy green theme with some highlights.
-
-![Grunge](https://raw.github.com/daylerees/colour-schemes/master/screenshots/grunge.png)
-
-### Laravel
-
-An orange tribute to the Laravel PHP Framework.
-
-![Laravel](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laravel.png)
-
-### Laravel Darker
-
-A darker version of the Laravel theme requested by Fernando Montoya.
-
-![Laravel Darker](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laraveldarker.png)
-
-### Sourlick
-
-Orange and lime green, sharp sweetness.
-
-![Sourlick](https://raw.github.com/daylerees/colour-schemes/master/screenshots/sourlick.png)
-
-### Revelation
-
-Smart blue and yellow.
-
-![Revelation](https://raw.github.com/daylerees/colour-schemes/master/screenshots/revelation.png)
+![BoxUK](https://raw.github.com/daylerees/colour-schemes/master/screenshots/boxuk.png)
 
 ### Carbonight
 
 For boring people.
 
 ![Carbonight](https://raw.github.com/daylerees/colour-schemes/master/screenshots/carbonight.png)
+
+### Darkside
+
+Based on Pink Floyd's 'dark side of the moon', a request by Jamie Rumbelow.
+
+![Darkside](https://raw.github.com/daylerees/colour-schemes/master/screenshots/darkside.png)
 
 ### Earthsong
 
@@ -126,17 +84,65 @@ A lighter version of Earthsong.
 
 ![Earthsong Light](https://raw.github.com/daylerees/colour-schemes/master/screenshots/earthsonglight.png)
 
+### FreshCut
+
+A fresh green and blue theme.
+
+![FreshCut](https://raw.github.com/daylerees/colour-schemes/master/screenshots/freshcut.png)
+
+### Frontier
+
+Strong rich colours.
+
+![Frontier](https://raw.github.com/daylerees/colour-schemes/master/screenshots/frontier.png)
+
+### Github
+
+I love Github, and everything it has done for the open source community, thanks for everything!
+
+![Github](https://raw.github.com/daylerees/colour-schemes/master/screenshots/github.png)
+
+### Goldfish
+
+Orange and blue theme.
+
+![Goldfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/goldfish.png)
+
+### Glowfish
+
+A retro hacker theme, enjoy Glowfish!
+
+![Glowfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/glowfish.png)
+
+### Grunge
+
+A grungy green theme with some highlights.
+
+![Grunge](https://raw.github.com/daylerees/colour-schemes/master/screenshots/grunge.png)
+
 ### Iceberg
 
 A chilly breeze.
 
 ![Iceberg](https://raw.github.com/daylerees/colour-schemes/master/screenshots/iceberg.png)
 
-### Darkside
+### Laravel
 
-Based on Pink Floyd's 'dark side of the moon', a request by Jamie Rumbelow.
+An orange tribute to the Laravel PHP Framework.
 
-![Darkside](https://raw.github.com/daylerees/colour-schemes/master/screenshots/darkside.png)
+![Laravel](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laravel.png)
+
+### Laravel Darker
+
+A darker version of the Laravel theme requested by Fernando Montoya.
+
+![Laravel Darker](https://raw.github.com/daylerees/colour-schemes/master/screenshots/laraveldarker.png)
+
+### LastNight
+
+First 3rd party submission from Spielberg0, based on the Sublime Text Tomorrow Night theme, thanks!
+
+![LastNight](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lastnight.png)
 
 ### Lavender
 
@@ -144,17 +150,11 @@ Here's a theme for people of all genders, faiths, height, weight, race and statu
 
 ![Lavender](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lavender.png)
 
-### Userscape
+### Mellow
 
-Ian Landsman requested a light theme, I give you Userscape.
+Gentle and soothing.
 
-![Userscape](https://raw.github.com/daylerees/colour-schemes/master/screenshots/userscape.png)
-
-### Spearmint
-
-With added fresh breath.
-
-![Spearmint](https://raw.github.com/daylerees/colour-schemes/master/screenshots/spearmint.png)
+![Mellow](https://raw.github.com/daylerees/colour-schemes/master/screenshots/mellow.png)
 
 ### Patriot
 
@@ -162,17 +162,23 @@ Salute the flag.
 
 ![Patriot](https://raw.github.com/daylerees/colour-schemes/master/screenshots/patriot.png)
 
-### Stark
+### Peacock
 
-Suit up.
+Show your colours!
 
-![Stark](https://raw.github.com/daylerees/colour-schemes/master/screenshots/stark.png)
+![Peacock](https://raw.github.com/daylerees/colour-schemes/master/screenshots/peacock.png)
 
-### Mellow
+### Potpourri
 
-Gentle and soothing.
+A romantic red and purple theme.
 
-![Mellow](https://raw.github.com/daylerees/colour-schemes/master/screenshots/mellow.png)
+![Potpourri](https://raw.github.com/daylerees/colour-schemes/master/screenshots/potpourri.png)
+
+### Revelation
+
+Smart blue and yellow.
+
+![Revelation](https://raw.github.com/daylerees/colour-schemes/master/screenshots/revelation.png)
 
 ### Slime
 
@@ -192,29 +198,23 @@ Be snappy but lighter!
 
 ![Snappy Light](https://raw.github.com/daylerees/colour-schemes/master/screenshots/snappylight.png)
 
-### Peacock
+### Sourlick
 
-Show your colours!
+Orange and lime green, sharp sweetness.
 
-![Peacock](https://raw.github.com/daylerees/colour-schemes/master/screenshots/peacock.png)
+![Sourlick](https://raw.github.com/daylerees/colour-schemes/master/screenshots/sourlick.png)
 
-### Yule
+### Spearmint
 
-Ho Ho Hope you like it!
+With added fresh breath.
 
-![Yule](https://raw.github.com/daylerees/colour-schemes/master/screenshots/yule.png)
+![Spearmint](https://raw.github.com/daylerees/colour-schemes/master/screenshots/spearmint.png)
 
-### BoxUK
+### Stark
 
-A subtle blue and green theme dedicated to my current employer BoxUK, home to passionate web developers. If you are looking for work and passionate about development [see the website](http://www.boxuk.com/careers/overview/) for employment details.
+Suit up.
 
-![BoxUK](https://raw.github.com/daylerees/colour-schemes/master/screenshots/boxuk.png)
-
-### Glowfish
-
-A retro hacker theme, enjoy Glowfish!
-
-![Glowfish](https://raw.github.com/daylerees/colour-schemes/master/screenshots/glowfish.png)
+![Stark](https://raw.github.com/daylerees/colour-schemes/master/screenshots/stark.png)
 
 ### Tron
 
@@ -222,23 +222,24 @@ Requested by Aurélien Thieriot!
 
 ![Tron](https://raw.github.com/daylerees/colour-schemes/master/screenshots/tron.png)
 
-### LastNight
-
-First 3rd party submission from Spielberg0, based on the Sublime Text Tomorrow Night theme, thanks!
-
-![LastNight](https://raw.github.com/daylerees/colour-schemes/master/screenshots/lastnight.png)
-
 ### Tron Legacy
 
 Aurélien Thieriot wasn't happy with just one theme, here's Tron Legacy!
 
 ![TronLegacy](https://raw.github.com/daylerees/colour-schemes/master/screenshots/tronlegacy.png)
 
-### Github
+### Userscape
 
-I love Github, and everything it has done for the open source community, thanks for everything!
+Ian Landsman requested a light theme, I give you Userscape.
 
-![Github](https://raw.github.com/daylerees/colour-schemes/master/screenshots/github.png)
+![Userscape](https://raw.github.com/daylerees/colour-schemes/master/screenshots/userscape.png)
+
+### Yule
+
+Ho Ho Hope you like it!
+
+![Yule](https://raw.github.com/daylerees/colour-schemes/master/screenshots/yule.png)
+
 
 ## Contribute
 
