@@ -39,9 +39,23 @@ Note that you cannot clone the repository into the Themes directory -- as of thi
 
 ### VIM
 
-Download or clone with git, the themes into your `.vim/colors` directory. Now edit your `.vimrc` file and add the following line.
+## Manual
 
-	colorscheme <scheme-name-here>
+Download or clone with git, the themes into your `.vim/colors` directory.
+
+## Vundle
+
+Add the following to your `.vimrc`:
+
+```viml
+Bundle "daylerees/colour-schemes", { "rtp": "vim-themes/" }
+```
+
+Either way you install it, just add the following line to your `.vimrc`:
+
+```viml
+colorscheme <scheme-name-here>
+```
 
 Save and launch vim to use, enjoy!
 
