@@ -472,6 +472,15 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>#617FA0</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>text.tex.latex string.other.math.tex punctuation.definition.string.end.tex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#617FA0</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>128129AD-81C0-454B-89E3-47256C94D40C</string>
