@@ -391,6 +391,96 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			</dict>
 		</dict>
 
+		<!-- LaTeX specific  -->
+		<!-- #FFBB29 - Gold  -->
+		<!-- #F03113 - Red   -->
+		<!-- #DEDEDE - White -->
+		<!-- #617FA0 - Blue  -->
+		<dict>
+			<key>name</key>
+			<string>LaTeX Functions</string>
+			<key>scope</key>
+			<string>storage.type.function.latex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F03113</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LaTeX Support Functions</string>
+			<key>scope</key>
+			<string>support.function.general.tex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F03113</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>support.function.be.latex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F03113</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>meta.group.braces.tex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DEDEDE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>punctuation.section.group.tex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#617FA0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>string.other.math.block.environment.latex meta.group.braces.tex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFBB29</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>text.tex.latex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DEDEDE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>text.tex.latex string.other.math.tex punctuation.definition.string.begin.tex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#617FA0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>text.tex.latex string.other.math.tex punctuation.definition.string.end.tex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#617FA0</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>128129AD-81C0-454B-89E3-47256C94D40C</string>
