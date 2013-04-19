@@ -68,6 +68,12 @@ See the documentation for your editor, this varies between each one!
 
 The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on Mac OSX with the font [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html).
 
+### Hyrule
+
+Requested by Taylor Otwell of Laravel, a Zelda theme!
+
+![Hyrule](https://raw.github.com/daylerees/colour-schemes/master/screenshots/hyrule.png)
+
 ### BlueDawn
 
 Inspired by Tron Legacy this theme provides increased contrast and brighter comments.
