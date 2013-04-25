@@ -184,9 +184,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic underline</string>
+				<string>underline</string>
 				<key>foreground</key>
-				<string>#606aa1</string>
+				<string>#000</string>
 			</dict>
 		</dict>
 		<dict>
