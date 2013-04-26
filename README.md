@@ -68,6 +68,18 @@ See the documentation for your editor, this varies between each one!
 
 The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on Mac OSX with the font [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html).
 
+### Hyrule
+
+Requested by Taylor Otwell of Laravel, a Zelda theme!
+
+![Hyrule](https://raw.github.com/daylerees/colour-schemes/master/screenshots/hyrule.png)
+
+### BlueDawn
+
+Inspired by Tron Legacy this theme provides increased contrast and brighter comments.
+
+![BlueDawn](https://raw.github.com/daylerees/colour-schemes/master/screenshots/bluedawn.png)
+
 ### BoxUK
 
 A subtle blue and green theme dedicated to my current employer BoxUK, home to passionate web developers. If you are looking for work and passionate about development [see the website](http://www.boxuk.com/careers/overview/) for employment details.
