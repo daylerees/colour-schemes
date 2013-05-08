@@ -201,6 +201,18 @@ Show your colours!
 
 ![Peacock](https://raw.github.com/daylerees/colour-schemes/master/screenshots/peacock.png)
 
+### Poyeyo
+
+A theme with hot/warm colours for code and cold colours for markup.
+
+![Poyeyo](https://raw.github.com/daylerees/colour-schemes/master/screenshots/poyeyo.png)
+
+### Poyeyo Blue
+
+A theme with hot/warm colours for code and cold colours for markup. Blue background.
+
+![PoyeyoBlue](https://raw.github.com/daylerees/colour-schemes/master/screenshots/poyeyoblue.png)
+
 ### Potpourri
 
 A romantic red and purple theme.
