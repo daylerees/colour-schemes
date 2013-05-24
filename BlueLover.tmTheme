@@ -21,7 +21,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#002f4c</string>
+				<string>#0d2136</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -63,7 +63,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#660987</string>
+				<string>#B63099</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e9ee00</string>
+				<string>#65E6B8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,7 +85,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e9ee00</string>
+				<string>#ffcc41</string>
 			</dict>
 		</dict>
 
@@ -390,6 +390,96 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
+		<dict>
+        <key>name</key>
+        <string>css tag-name</string>
+        <key>scope</key>
+        <string>meta.selector.css entity.name.tag</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#d35924</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>css#id</string>
+        <key>scope</key>
+        <string>meta.selector.css entity.other.attribute-name.id</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#56c5c0</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>css.class</string>
+        <key>scope</key>
+        <string>meta.selector.css entity.other.attribute-name.class</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#f1d969</string>
+            <key>fontStyle</key>
+            <string> underline</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>css property-name:</string>
+        <key>scope</key>
+        <string>support.type.property-name.css</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#216ba7</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>css property-value;</string>
+        <key>scope</key>
+        <string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#0694e7</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>css @at-rule</string>
+        <key>scope</key>
+        <string>meta.preprocessor.at-rule keyword.control.at-rule</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#F6AA11</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>css additional-constants</string>
+        <key>scope</key>
+        <string>meta.property-value support.constant.named-color.css, meta.property-value constant</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#FFAA41</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>css constructor.argument</string>
+        <key>scope</key>
+        <string>meta.constructor.argument.css</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#EB939A</string>
+        </dict>
+    </dict>
 
 	</array>
 	<key>uuid</key>
