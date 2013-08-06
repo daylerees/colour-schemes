@@ -1,5 +1,5 @@
 " Vim color file
-" Converted from Textmate theme Oasis using Coloration v0.3.2 (http://github.com/sickill/coloration)
+" Converted from Textmate theme Peacock using Coloration v0.3.2 (http://github.com/sickill/coloration)
 
 set background=dark
 highlight clear
@@ -8,7 +8,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Oasis"
+let g:colors_name = "Peacock"
 
 hi Cursor ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#f8f8f0 gui=NONE
 hi Visual ctermfg=NONE ctermbg=16 cterm=NONE guifg=NONE guibg=#161a1f gui=NONE
