@@ -23,7 +23,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>background</key>
 				<string>#2d2c2b</string>
 				<key>caret</key>
-				<string>#615649</string>
+				<string>#ffffff</string>
 				<key>foreground</key>
 				<string>#c0d5c1</string>
 				<key>invisibles</key>
@@ -31,13 +31,13 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>lineHighlight</key>
 				<string>#3d3934</string>
 				<key>selection</key>
-				<string>#0a0909</string>
+				<string>#000000</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
-				<string>#121110</string>
+				<string>#222222</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 
