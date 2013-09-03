@@ -14,7 +14,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Carbonight</string>
+	<string>Carbonight Blue</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -31,13 +31,13 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>lineHighlight</key>
 				<string>#3B3633</string>
 				<key>selection</key>
-				<string>#433131</string>
+				<string>#ff4500</string>
 				<key>findHighlight</key>
-				<string>#3aa6d0</string>
+				<string>#ff4500</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
-				<string>#222218</string>
+				<string>#ff4500</string>
 				<key>activeGuide</key>
 				<string>#963131</string>
 
