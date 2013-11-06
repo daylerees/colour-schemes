@@ -1,6 +1,6 @@
 # Colour Schemes
 
-Hi there! My name's Dayle Rees and I'm one of the Laravel PHP framework core developers. Part of the Laravel mentality is that coding should be enjoyable for the coder, not just the client receiving your hard work. For this reaon I'd like to share with you a number of themes for some popular text editors that will hopefully be pleasing to your eyes, and allow you to enjoy the time you spend in front of the screen.
+Hi there! My name's Dayle Rees and I'm one of the Laravel PHP framework core developers. Part of the Laravel mentality is that coding should be enjoyable for the coder, not just the client receiving your hard work. For this reason I'd like to share with you a number of themes for some popular text editors that will hopefully be pleasing to your eyes, and allow you to enjoy the time you spend in front of the screen.
 
 The themes in this package are currently compatible with Sublime Text 2, Textmate, VIM and a whole bunch of Java editors that use the IntelliJ scheme engine like PHPstorm! I hope to add more editors in the near future.
 
