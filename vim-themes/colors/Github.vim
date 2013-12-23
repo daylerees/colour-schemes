@@ -1,7 +1,7 @@
 " Vim color file
 " Converted from Textmate theme Github using Coloration v0.3.2 (http://github.com/sickill/coloration)
 
-set background=dark
+set background=light
 highlight clear
 
 if exists("syntax_on")
@@ -11,11 +11,12 @@ endif
 let g:colors_name = "Github"
 
 hi Cursor ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#615649 gui=NONE
-hi Visual ctermfg=NONE ctermbg=152 cterm=NONE guifg=NONE guibg=#afc4da gui=NONE
+hi Visual ctermfg=NONE ctermbg=11 cterm=NONE guifg=NONE guibg=#ffffcc gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#eeeeee gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#eeeeee gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#eeeeee gui=NONE
 hi LineNr ctermfg=248 ctermbg=231 cterm=NONE guifg=#aaaaaa guibg=#eeeeee gui=NONE
+hi CursorLineNr ctermfg=248 ctermbg=11 cterm=NONE guifg=#aaaaaa guibg=#ffffcc gui=NONE
 hi VertSplit ctermfg=252 ctermbg=252 cterm=NONE guifg=#cecece guibg=#cecece gui=NONE
 hi MatchParen ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=NONE
 hi StatusLine ctermfg=240 ctermbg=252 cterm=bold guifg=#555555 guibg=#cecece gui=bold
