@@ -42,12 +42,12 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>#9D550FB0</string>
 
 				<key>bracketsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#585856</string>
 				<key>bracketsOptions</key>
 				<string>underline</string>
 
 				<key>bracketContentsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#585856</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 
