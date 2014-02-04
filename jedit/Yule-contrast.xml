@@ -1,0 +1,21 @@
+# Converted from Textmate theme Oasis using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Oasis
+view.fgColor=\#e5e5e5
+view.bgColor=\#111111
+view.caretColor=\#f8f8f0
+view.selectionColor=\#444444
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#333333
+view.style.comment1=color\:\#888888 style\:
+view.style.literal1=color\:\#ebb626 style\:
+view.style.label=color\:\#d63131 style\:
+view.style.digit=color\:\#ebb626 style\:
+view.style.keyword1=color\:\#39b81f style\:
+view.style.keyword2=color\:\#d63131 style\:
+view.style.keyword3=color\:\#d63131 style\:
+view.style.keyword4=color\:\#e5e5e5 style\:
+view.style.operator=color\:\#39b81f style\:
+view.style.function=color\:\#39b81f style\:
+view.style.literal3=color\:\#ebb626 style\:
+view.style.markup=color\:\#d63131 style\:

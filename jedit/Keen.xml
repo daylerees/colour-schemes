@@ -1,0 +1,21 @@
+# Converted from Textmate theme Keen using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Keen
+view.fgColor=\#cccccc
+view.bgColor=\#111111
+view.caretColor=\#f8f8f0
+view.selectionColor=\#35414b
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#222222
+view.style.comment1=color\:\#374c60 style\:
+view.style.literal1=color\:\#b5db99 style\:
+view.style.label=color\:\#6f8b94 style\:
+view.style.digit=color\:\#b5db99 style\:
+view.style.keyword1=color\:\#8767b7 style\:
+view.style.keyword2=color\:\#6f8b94 style\:
+view.style.keyword3=color\:\#6f8b94 style\:
+view.style.keyword4=color\:\#cccccc style\:
+view.style.operator=color\:\#8767b7 style\:
+view.style.function=color\:\#b5db99 style\:
+view.style.literal3=color\:\#b5db99 style\:
+view.style.markup=color\:\#8767b7 style\:

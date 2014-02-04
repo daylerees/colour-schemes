@@ -1,0 +1,21 @@
+# Converted from Textmate theme BoxUK using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=BoxUK
+view.fgColor=\#414f5c
+view.bgColor=\#ffffff
+view.caretColor=\#615649
+view.selectionColor=\#a9dae5
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#f2f6f6
+view.style.comment1=color\:\#b8b6b1 style\:
+view.style.literal1=color\:\#15b8ae style\:
+view.style.label=color\:\#019d76 style\:
+view.style.digit=color\:\#15b8ae style\:
+view.style.keyword1=color\:\#017c9d style\:
+view.style.keyword2=color\:\#019d76 style\:
+view.style.keyword3=color\:\#019d76 style\:
+view.style.keyword4=color\:\#414f5c style\:
+view.style.operator=color\:\#017c9d style\:
+view.style.function=color\:\#019d76 style\:
+view.style.literal3=color\:\#15b8ae style\:
+view.style.markup=color\:\#019d76 style\:

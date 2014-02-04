@@ -1,0 +1,21 @@
+# Converted from Textmate theme Darkside using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Darkside
+view.fgColor=\#bababa
+view.bgColor=\#222324
+view.caretColor=\#f8f8f0
+view.selectionColor=\#303333
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#303333
+view.style.comment1=color\:\#494b4d style\:
+view.style.literal1=color\:\#f2d42c style\:
+view.style.label=color\:\#8e69c9 style\:
+view.style.digit=color\:\#8e69c9 style\:
+view.style.keyword1=color\:\#f08d24 style\:
+view.style.keyword2=color\:\#8e69c9 style\:
+view.style.keyword3=color\:\#8e69c9 style\:
+view.style.keyword4=color\:\#bababa style\:
+view.style.operator=color\:\#f08d24 style\:
+view.style.function=color\:\#68c244 style\:
+view.style.literal3=color\:\#f2d42c style\:
+view.style.markup=color\:\#e8341c style\:

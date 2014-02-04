@@ -1,0 +1,21 @@
+# Converted from Textmate theme Juicy using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Juicy
+view.fgColor=\#e3e2e0
+view.bgColor=\#222222
+view.caretColor=\#ffffff
+view.selectionColor=\#444444
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#282828
+view.style.comment1=color\:\#777777 style\:
+view.style.literal1=color\:\#3bc7b8 style\:
+view.style.label=color\:\#f9d423 style\:
+view.style.digit=color\:\#ce1836 style\:
+view.style.keyword1=color\:\#edb92e style\:
+view.style.keyword2=color\:\#f85931 style\:
+view.style.keyword3=color\:\#f9d423 style\:
+view.style.keyword4=color\:\#e3e2e0 style\:
+view.style.operator=color\:\#edb92e style\:
+view.style.function=color\:\#f85931 style\:
+view.style.literal3=color\:\#3bc7b8 style\:
+view.style.markup=color\:\#ff4e50 style\:

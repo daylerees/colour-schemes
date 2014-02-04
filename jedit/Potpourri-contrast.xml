@@ -1,0 +1,21 @@
+# Converted from Textmate theme Potpourri using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Potpourri
+view.fgColor=\#f8f8f2
+view.bgColor=\#1c1a1b
+view.caretColor=\#f8f8f0
+view.selectionColor=\#393033
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#292527
+view.style.comment1=color\:\#696363 style\:
+view.style.literal1=color\:\#b866fa style\:
+view.style.label=color\:\#e9d2f7 style\:
+view.style.digit=color\:\#c84ff0 style\:
+view.style.keyword1=color\:\#ed1153 style\:
+view.style.keyword2=color\:\#f76acb style\:
+view.style.keyword3=color\:\#e9d2f7 style\:
+view.style.keyword4=color\:\#f8f8f2 style\:
+view.style.operator=color\:\#ed1153 style\:
+view.style.function=color\:\#bc66ff style\:
+view.style.literal3=color\:\#b866fa style\:
+view.style.markup=color\:\#ed1153 style\:

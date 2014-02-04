@@ -1,0 +1,21 @@
+# Converted from Textmate theme Turnip using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Turnip
+view.fgColor=\#ede0ce
+view.bgColor=\#000000
+view.caretColor=\#f8f8f0
+view.selectionColor=\#52564c
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#232826
+view.style.comment1=color\:\#7a7267 style\:
+view.style.literal1=color\:\#e8da5e style\:
+view.style.label=color\:\#487d76 style\:
+view.style.digit=color\:\#e8da5e style\:
+view.style.keyword1=color\:\#92b55f style\:
+view.style.keyword2=color\:\#487d76 style\:
+view.style.keyword3=color\:\#487d76 style\:
+view.style.keyword4=color\:\#ede0ce style\:
+view.style.operator=color\:\#92b55f style\:
+view.style.function=color\:\#e8da5e style\:
+view.style.literal3=color\:\#e8da5e style\:
+view.style.markup=color\:\#92b55f style\:

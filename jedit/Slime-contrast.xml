@@ -1,0 +1,21 @@
+# Converted from Textmate theme Slime using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Slime
+view.fgColor=\#ffffff
+view.bgColor=\#141617
+view.caretColor=\#f8f8f0
+view.selectionColor=\#333a3f
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#222528
+view.style.comment1=color\:\#63717d style\:
+view.style.literal1=color\:\#faffdb style\:
+view.style.label=color\:\#c7af3f style\:
+view.style.digit=color\:\#c7af3f style\:
+view.style.keyword1=color\:\#9fb3c2 style\:
+view.style.keyword2=color\:\#c7af3f style\:
+view.style.keyword3=color\:\#c7af3f style\:
+view.style.keyword4=color\:\#8ab8a2 style\:
+view.style.operator=color\:\#9fb3c2 style\:
+view.style.function=color\:\#c7af3f style\:
+view.style.literal3=color\:\#faffdb style\:
+view.style.markup=color\:\#c7af3f style\:

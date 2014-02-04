@@ -1,0 +1,66 @@
+# Converted from Textmate theme Last Night using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Last Night]
+Alert=ced2cf,ced2cf,0,0,0,0,df5f5f,,---
+Base-N Integer=de935f,de935f,0,0,0,0,,,---
+Character=8abeb7,8abeb7,0,0,0,0,,,---
+Comment=969896,969896,0,0,0,0,,,---
+Data Type=f0c674,f0c674,0,1,0,1,,,---
+Decimal/Value=de935f,de935f,0,0,0,0,,,---
+Error=ced2cf,ced2cf,0,0,0,0,df5f5f,,---
+Floating Point=de935f,de935f,0,0,0,0,,,---
+Function=80bcae,80bcae,0,0,0,0,,,---
+Keyword=b294bb,b294bb,0,0,0,0,,,---
+Normal=47494a,47494a,0,0,0,0,,,---
+Others=47494a,47494a,0,0,0,0,,,---
+Region Marker=47494a,47494a,0,0,0,0,,,---
+String=b5bd68,b5bd68,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Last Night]
+Ruby:Access Control=0,8379b2,8379b2,0,0,0,0,,,---
+Ruby:Command=0,b5bd68,b5bd68,0,0,0,0,,,---
+Ruby:Constant=0,47494a,47494a,0,0,0,0,,,---
+Ruby:Constant Value=0,ced1cf,ced1cf,0,0,0,0,,,---
+Ruby:Default globals=0,cc6666,cc6666,0,0,0,0,,,---
+Ruby:Definition=0,80bcae,80bcae,0,0,0,0,,,---
+Ruby:Delimiter=0,b294bb,b294bb,0,0,0,0,,,---
+Ruby:Global Constant=0,ced1cf,ced1cf,0,0,0,0,,,---
+Ruby:Global Variable=0,cc6666,cc6666,0,0,0,0,,,---
+Ruby:Instance Variable=0,cc6666,cc6666,0,0,0,0,,,---
+Ruby:Class Variable=0,cc6666,cc6666,0,0,0,0,,,---
+Ruby:Kernel methods=0,81a2be,81a2be,0,0,0,0,,,---
+Ruby:Member=0,80bcae,80bcae,0,0,0,0,,,---
+Ruby:Message=0,47494a,47494a,0,0,0,0,,,---
+Ruby:Operator=0,8abeb7,8abeb7,0,0,0,0,,,---
+Ruby:Pseudo variable=0,cc6666,cc6666,0,0,0,0,,,---
+Ruby:Raw String=0,b5bd68,b5bd68,0,0,0,0,,,---
+Ruby:Regular Expression=0,cc6666,cc6666,0,0,0,0,,,---
+Ruby:Symbol=0,b5bd68,b5bd68,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Last Night]
+JavaScript:Objects=0,cc6666,cc6666,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Last Night]
+Ruby/Rails/RHTML:Message=0,47494a,47494a,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,b5bd68,b5bd68,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,b5bd68,b5bd68,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,b5bd68,b5bd68,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,cc6666,cc6666,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,81a2be,81a2be,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,cc6666,cc6666,0,0,0,0,,,---
+
+[Highlighting XML - Schema Last Night]
+XML:Value=0,b5bd68,b5bd68,0,0,0,0,,,---
+XML:Element=0,cc6666,cc6666,0,0,0,0,,,---
+XML:Attribute=0,cc6666,cc6666,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Last Night]
+Color Background=29,31,33
+Color Highlighted Bracket=29,31,33
+Color Highlighted Line=40,42,46
+Color Selection=55,59,65
+Color Tab Marker=75,78,85
+Color Word Wrap Marker=75,78,85

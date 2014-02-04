@@ -1,0 +1,21 @@
+# Converted from Textmate theme Sourlick using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Sourlick
+view.fgColor=\#f0f0f0
+view.bgColor=\#111111
+view.caretColor=\#f8f8f0
+view.selectionColor=\#444444
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#333333
+view.style.comment1=color\:\#888888 style\:
+view.style.literal1=color\:\#e4ff33 style\:
+view.style.label=color\:\#f38630 style\:
+view.style.digit=color\:\#fc580c style\:
+view.style.keyword1=color\:\#d2eb31 style\:
+view.style.keyword2=color\:\#ffbb29 style\:
+view.style.keyword3=color\:\#f38630 style\:
+view.style.keyword4=color\:\#f0f0f0 style\:
+view.style.operator=color\:\#d2eb31 style\:
+view.style.function=color\:\#bdf522 style\:
+view.style.literal3=color\:\#e4ff33 style\:
+view.style.markup=color\:\#70c910 style\:

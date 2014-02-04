@@ -1,0 +1,21 @@
+# Converted from Textmate theme Goldfish using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Goldfish
+view.fgColor=\#f8f8f2
+view.bgColor=\#2e3336
+view.caretColor=\#f8f8f0
+view.selectionColor=\#161a1f
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#465459
+view.style.comment1=color\:\#505c63 style\:
+view.style.literal1=color\:\#e0e4cc style\:
+view.style.label=color\:\#f38630 style\:
+view.style.digit=color\:\#2ebf7e style\:
+view.style.keyword1=color\:\#a7dbd8 style\:
+view.style.keyword2=color\:\#f38630 style\:
+view.style.keyword3=color\:\#f38630 style\:
+view.style.keyword4=color\:\#f8f8f2 style\:
+view.style.operator=color\:\#a7dbd8 style\:
+view.style.function=color\:\#69d2e7 style\:
+view.style.literal3=color\:\#e0e4cc style\:
+view.style.markup=color\:\#f38630 style\:

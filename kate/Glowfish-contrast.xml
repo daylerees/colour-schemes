@@ -1,0 +1,66 @@
+# Converted from Textmate theme Glowfish using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Glowfish]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=95cc5e,95cc5e,0,0,0,0,,,---
+Character=d65940,d65940,0,0,0,0,,,---
+Comment=566f40,566f40,0,0,0,0,,,---
+Data Type=95cc5e,95cc5e,0,0,0,1,,,---
+Decimal/Value=95cc5e,95cc5e,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=95cc5e,95cc5e,0,0,0,0,,,---
+Function=60a365,60a365,0,0,0,0,,,---
+Keyword=d65940,d65940,0,0,0,0,,,---
+Normal=c3e2a7,c3e2a7,0,0,0,0,,,---
+Others=c3e2a7,c3e2a7,0,0,0,0,,,---
+Region Marker=c3e2a7,c3e2a7,0,0,0,0,,,---
+String=f8bb39,f8bb39,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Glowfish]
+Ruby:Access Control=0,d65940,d65940,0,0,0,0,,,---
+Ruby:Command=0,f8bb39,f8bb39,0,0,0,0,,,---
+Ruby:Constant=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby:Constant Value=0,95cc5e,95cc5e,0,0,0,0,,,---
+Ruby:Default globals=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby:Definition=0,60a365,60a365,0,0,0,0,,,---
+Ruby:Delimiter=0,d65940,d65940,0,0,0,0,,,---
+Ruby:Global Constant=0,95cc5e,95cc5e,0,0,0,0,,,---
+Ruby:Global Variable=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby:Instance Variable=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby:Class Variable=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby:Kernel methods=0,95cc5e,95cc5e,0,0,0,0,,,---
+Ruby:Member=0,60a365,60a365,0,0,0,0,,,---
+Ruby:Message=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby:Operator=0,d65940,d65940,0,0,0,0,,,---
+Ruby:Pseudo variable=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby:Raw String=0,f8bb39,f8bb39,0,0,0,0,,,---
+Ruby:Regular Expression=0,f8bb39,f8bb39,0,0,0,0,,,---
+Ruby:Symbol=0,95cc5e,95cc5e,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Glowfish]
+JavaScript:Objects=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Glowfish]
+Ruby/Rails/RHTML:Message=0,c3e2a7,c3e2a7,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,f8bb39,f8bb39,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,95cc5e,95cc5e,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,f8bb39,f8bb39,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,95cc5e,95cc5e,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,95cc5e,95cc5e,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,db784d,db784d,0,0,0,0,,,---
+
+[Highlighting XML - Schema Glowfish]
+XML:Value=0,f8bb39,f8bb39,0,0,0,0,,,---
+XML:Element=0,95cc5e,95cc5e,0,0,0,0,,,---
+XML:Attribute=0,db784d,db784d,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Glowfish]
+Color Background=14,17,10
+Color Highlighted Bracket=14,17,10
+Color Highlighted Line=34,42,26
+Color Selection=5,8,4
+Color Tab Marker=59,58,50
+Color Word Wrap Marker=59,58,50

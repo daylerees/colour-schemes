@@ -1,0 +1,21 @@
+# Converted from Textmate theme Snappy using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Snappy
+view.fgColor=\#e3e2e0
+view.bgColor=\#111111
+view.caretColor=\#ffffff
+view.selectionColor=\#555555
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#333333
+view.style.comment1=color\:\#777777 style\:
+view.style.literal1=color\:\#4ea1df style\:
+view.style.label=color\:\#808dd3 style\:
+view.style.digit=color\:\#4ea1df style\:
+view.style.keyword1=color\:\#f66153 style\:
+view.style.keyword2=color\:\#808dd3 style\:
+view.style.keyword3=color\:\#808dd3 style\:
+view.style.keyword4=color\:\#e3e2e0 style\:
+view.style.operator=color\:\#f66153 style\:
+view.style.function=color\:\#808dd3 style\:
+view.style.literal3=color\:\#4ea1df style\:
+view.style.markup=color\:\#f66153 style\:

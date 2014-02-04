@@ -1,0 +1,66 @@
+# Converted from Textmate theme Snappy Light using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Snappy Light]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=4687b8,4687b8,0,0,0,0,,,---
+Character=da564a,da564a,0,0,0,0,,,---
+Comment=b8b6b1,b8b6b1,0,0,0,0,,,---
+Data Type=606aa1,606aa1,0,0,0,1,,,---
+Decimal/Value=4687b8,4687b8,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=4687b8,4687b8,0,0,0,0,,,---
+Function=606aa1,606aa1,0,0,0,0,,,---
+Keyword=da564a,da564a,0,0,0,0,,,---
+Normal=585856,585856,0,0,0,0,,,---
+Others=585856,585856,0,0,0,0,,,---
+Region Marker=585856,585856,0,0,0,0,,,---
+String=4687b8,4687b8,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Snappy Light]
+Ruby:Access Control=0,da564a,da564a,0,0,0,0,,,---
+Ruby:Command=0,4687b8,4687b8,0,0,0,0,,,---
+Ruby:Constant=0,585856,585856,0,0,0,0,,,---
+Ruby:Constant Value=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby:Default globals=0,585856,585856,0,0,0,0,,,---
+Ruby:Definition=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby:Delimiter=0,da564a,da564a,0,0,0,0,,,---
+Ruby:Global Constant=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby:Global Variable=0,585856,585856,0,0,0,0,,,---
+Ruby:Instance Variable=0,585856,585856,0,0,0,0,,,---
+Ruby:Class Variable=0,585856,585856,0,0,0,0,,,---
+Ruby:Kernel methods=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby:Member=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby:Message=0,585856,585856,0,0,0,0,,,---
+Ruby:Operator=0,da564a,da564a,0,0,0,0,,,---
+Ruby:Pseudo variable=0,585856,585856,0,0,0,0,,,---
+Ruby:Raw String=0,4687b8,4687b8,0,0,0,0,,,---
+Ruby:Regular Expression=0,4687b8,4687b8,0,0,0,0,,,---
+Ruby:Symbol=0,606aa1,606aa1,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Snappy Light]
+JavaScript:Objects=0,585856,585856,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Snappy Light]
+Ruby/Rails/RHTML:Message=0,585856,585856,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,4687b8,4687b8,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,4687b8,4687b8,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,da564a,da564a,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,606aa1,606aa1,0,0,0,0,,,---
+
+[Highlighting XML - Schema Snappy Light]
+XML:Value=0,4687b8,4687b8,0,0,0,0,,,---
+XML:Element=0,da564a,da564a,0,0,0,0,,,---
+XML:Attribute=0,606aa1,606aa1,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Snappy Light]
+Color Background=255,255,255
+Color Highlighted Bracket=255,255,255
+Color Highlighted Line=240,231,223
+Color Selection=175,196,218
+Color Tab Marker=59,58,50
+Color Word Wrap Marker=59,58,50

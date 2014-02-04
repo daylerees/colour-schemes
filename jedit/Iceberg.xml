@@ -1,0 +1,21 @@
+# Converted from Textmate theme Iceberg using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Iceberg
+view.fgColor=\#bdd6db
+view.bgColor=\#323b3d
+view.caretColor=\#f8f8f0
+view.selectionColor=\#161a1f
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#3e4c4f
+view.style.comment1=color\:\#537178 style\:
+view.style.literal1=color\:\#ffffff style\:
+view.style.label=color\:\#ffffff style\:
+view.style.digit=color\:\#ffffff style\:
+view.style.keyword1=color\:\#b1e2f2 style\:
+view.style.keyword2=color\:\#ffffff style\:
+view.style.keyword3=color\:\#ffffff style\:
+view.style.keyword4=color\:\#bdd6db style\:
+view.style.operator=color\:\#b1e2f2 style\:
+view.style.function=color\:\#ffffff style\:
+view.style.literal3=color\:\#ffffff style\:
+view.style.markup=color\:\#2d8da1 style\:

@@ -1,0 +1,66 @@
+# Converted from Textmate theme Userscape using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Userscape]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=de4d3a,de4d3a,0,0,0,0,,,---
+Character=808c9c,808c9c,0,0,0,0,,,---
+Comment=c1cddb,c1cddb,0,0,0,0,,,---
+Data Type=de4d3a,de4d3a,0,0,0,1,,,---
+Decimal/Value=de4d3a,de4d3a,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=de4d3a,de4d3a,0,0,0,0,,,---
+Function=e3bd14,e3bd14,0,0,0,0,,,---
+Keyword=808c9c,808c9c,0,0,0,0,,,---
+Normal=879bb0,879bb0,0,0,0,0,,,---
+Others=879bb0,879bb0,0,0,0,0,,,---
+Region Marker=879bb0,879bb0,0,0,0,0,,,---
+String=e3bd14,e3bd14,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Userscape]
+Ruby:Access Control=0,355b8c,355b8c,0,0,0,0,,,---
+Ruby:Command=0,e3bd14,e3bd14,0,0,0,0,,,---
+Ruby:Constant=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby:Constant Value=0,de4d3a,de4d3a,0,0,0,0,,,---
+Ruby:Default globals=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby:Definition=0,e3bd14,e3bd14,0,0,0,0,,,---
+Ruby:Delimiter=0,808c9c,808c9c,0,0,0,0,,,---
+Ruby:Global Constant=0,de4d3a,de4d3a,0,0,0,0,,,---
+Ruby:Global Variable=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby:Instance Variable=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby:Class Variable=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby:Kernel methods=0,de4d3a,de4d3a,0,0,0,0,,,---
+Ruby:Member=0,e3bd14,e3bd14,0,0,0,0,,,---
+Ruby:Message=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby:Operator=0,808c9c,808c9c,0,0,0,0,,,---
+Ruby:Pseudo variable=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby:Raw String=0,e3bd14,e3bd14,0,0,0,0,,,---
+Ruby:Regular Expression=0,e3bd14,e3bd14,0,0,0,0,,,---
+Ruby:Symbol=0,de4d3a,de4d3a,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Userscape]
+JavaScript:Objects=0,879bb0,879bb0,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Userscape]
+Ruby/Rails/RHTML:Message=0,879bb0,879bb0,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,e3bd14,e3bd14,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,de4d3a,de4d3a,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,e3bd14,e3bd14,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,355b8c,355b8c,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,de4d3a,de4d3a,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,a8c0e0,a8c0e0,0,0,0,0,,,---
+
+[Highlighting XML - Schema Userscape]
+XML:Value=0,e3bd14,e3bd14,0,0,0,0,,,---
+XML:Element=0,355b8c,355b8c,0,0,0,0,,,---
+XML:Attribute=0,a8c0e0,a8c0e0,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Userscape]
+Color Background=245,248,252
+Color Highlighted Bracket=245,248,252
+Color Highlighted Line=206,221,240
+Color Selection=196,224,255
+Color Tab Marker=255,255,255
+Color Word Wrap Marker=255,255,255

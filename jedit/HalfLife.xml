@@ -1,0 +1,21 @@
+# Converted from Textmate theme HalfLife using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=HalfLife
+view.fgColor=\#cccccc
+view.bgColor=\#222222
+view.caretColor=\#ffffff
+view.selectionColor=\#333333
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#282828
+view.style.comment1=color\:\#555555 style\:
+view.style.literal1=color\:\#f9d423 style\:
+view.style.label=color\:\#f9d423 style\:
+view.style.digit=color\:\#f9d423 style\:
+view.style.keyword1=color\:\#7d8991 style\:
+view.style.keyword2=color\:\#f85931 style\:
+view.style.keyword3=color\:\#f9d423 style\:
+view.style.keyword4=color\:\#cccccc style\:
+view.style.operator=color\:\#7d8991 style\:
+view.style.function=color\:\#f85931 style\:
+view.style.literal3=color\:\#f9d423 style\:
+view.style.markup=color\:\#7d8991 style\:

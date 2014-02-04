@@ -1,0 +1,21 @@
+# Converted from Textmate theme Tron using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Tron
+view.fgColor=\#aec2e0
+view.bgColor=\#14191f
+view.caretColor=\#f8f8f0
+view.selectionColor=\#183c66
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#1b232c
+view.style.comment1=color\:\#516a88 style\:
+view.style.literal1=color\:\#6ee2ff style\:
+view.style.label=color\:\#4cbbff style\:
+view.style.digit=color\:\#6ee2ff style\:
+view.style.keyword1=color\:\#748aa6 style\:
+view.style.keyword2=color\:\#267fb5 style\:
+view.style.keyword3=color\:\#6ee2ff style\:
+view.style.keyword4=color\:\#d0dfe6 style\:
+view.style.operator=color\:\#748aa6 style\:
+view.style.function=color\:\#effbff style\:
+view.style.literal3=color\:\#6ee2ff style\:
+view.style.markup=color\:\#ffffff style\:

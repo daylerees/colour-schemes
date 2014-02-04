@@ -1,0 +1,21 @@
+# Converted from Textmate theme Poyeyo Blue using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Poyeyo Blue
+view.fgColor=\#ffffff
+view.bgColor=\#131324
+view.caretColor=\#514da3
+view.selectionColor=\#3c3aff
+view.eolMarkerColor=\#000050
+view.lineHighlightColor=\#000e71
+view.style.comment1=color\:\#565656 bgColor\:\#131324 style\:
+view.style.literal1=color\:\#9e6eff style\:
+view.style.label=color\:\#ffce4a style\:
+view.style.digit=color\:\#cc9bff style\:
+view.style.keyword1=color\:\#ff5845 style\:
+view.style.keyword2=color\:\#ed954d style\:
+view.style.keyword3=color\:\#ffce4a style\:
+view.style.keyword4=color\:\#ffa082 style\:
+view.style.operator=color\:\#ff4e5e style\:
+view.style.function=color\:\#ff6476 style\:
+view.style.literal3=color\:\#ffa05c style\:
+view.style.markup=color\:\#00fffd style\:

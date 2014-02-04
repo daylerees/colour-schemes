@@ -1,0 +1,66 @@
+# Converted from Textmate theme Laravel using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Laravel]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=fc580c,fc580c,0,0,0,0,,,---
+Character=ffa927,ffa927,0,0,0,0,,,---
+Comment=615953,615953,0,0,0,0,,,---
+Data Type=ffc48c,ffc48c,0,0,0,1,,,---
+Decimal/Value=fc580c,fc580c,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=fc580c,fc580c,0,0,0,0,,,---
+Function=fc580c,fc580c,0,0,0,0,,,---
+Keyword=ffa927,ffa927,0,0,0,0,,,---
+Normal=dedede,dedede,0,0,0,0,,,---
+Others=dedede,dedede,0,0,0,0,,,---
+Region Marker=dedede,dedede,0,0,0,0,,,---
+String=fdca49,fdca49,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Laravel]
+Ruby:Access Control=0,fc6b0a,fc6b0a,0,0,0,0,,,---
+Ruby:Command=0,fdca49,fdca49,0,0,0,0,,,---
+Ruby:Constant=0,dedede,dedede,0,0,0,0,,,---
+Ruby:Constant Value=0,f38630,f38630,0,0,0,0,,,---
+Ruby:Default globals=0,dedede,dedede,0,0,0,0,,,---
+Ruby:Definition=0,fc580c,fc580c,0,0,0,0,,,---
+Ruby:Delimiter=0,ffa927,ffa927,0,0,0,0,,,---
+Ruby:Global Constant=0,f38630,f38630,0,0,0,0,,,---
+Ruby:Global Variable=0,dedede,dedede,0,0,0,0,,,---
+Ruby:Instance Variable=0,dedede,dedede,0,0,0,0,,,---
+Ruby:Class Variable=0,dedede,dedede,0,0,0,0,,,---
+Ruby:Kernel methods=0,ffc48c,ffc48c,0,0,0,0,,,---
+Ruby:Member=0,fc580c,fc580c,0,0,0,0,,,---
+Ruby:Message=0,dedede,dedede,0,0,0,0,,,---
+Ruby:Operator=0,ffa927,ffa927,0,0,0,0,,,---
+Ruby:Pseudo variable=0,dedede,dedede,0,0,0,0,,,---
+Ruby:Raw String=0,fdca49,fdca49,0,0,0,0,,,---
+Ruby:Regular Expression=0,fdca49,fdca49,0,0,0,0,,,---
+Ruby:Symbol=0,f38630,f38630,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Laravel]
+JavaScript:Objects=0,dedede,dedede,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Laravel]
+Ruby/Rails/RHTML:Message=0,dedede,dedede,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,fdca49,fdca49,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,f38630,f38630,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,fdca49,fdca49,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,fc580c,fc580c,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,ffc48c,ffc48c,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,ffc48c,ffc48c,0,0,0,0,,,---
+
+[Highlighting XML - Schema Laravel]
+XML:Value=0,fdca49,fdca49,0,0,0,0,,,---
+XML:Element=0,fc580c,fc580c,0,0,0,0,,,---
+XML:Attribute=0,ffc48c,ffc48c,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Laravel]
+Color Background=46,44,43
+Color Highlighted Bracket=46,44,43
+Color Highlighted Line=59,54,51
+Color Selection=22,26,31
+Color Tab Marker=59,58,50
+Color Word Wrap Marker=59,58,50

@@ -1,0 +1,21 @@
+# Converted from Textmate theme Natural Contrast Theme using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Natural Contrast Theme
+view.fgColor=\#ffffff
+view.bgColor=\#1b2016
+view.caretColor=\#9ebb80
+view.selectionColor=\#687c55
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#343d4c
+view.style.comment1=color\:\#1b2016 bgColor\:\#fff1c0 style\:
+view.style.literal1=color\:\#aeceff style\:
+view.style.label=color\:\#ffe792 style\:
+view.style.digit=color\:\#aeceff style\:
+view.style.keyword1=color\:\#9ebb80 style\:
+view.style.keyword2=color\:\#ff6363 style\:
+view.style.keyword3=color\:\#ffe792 bgColor\:\#5c6d4a style\:b
+view.style.keyword4=color\:\#ffe792 style\:
+view.style.operator=color\:\#9ebb80 style\:
+view.style.function=color\:\#9ebb80 style\:
+view.style.literal3=color\:\#aeceff style\:
+view.style.markup=color\:\#ffe792 style\:

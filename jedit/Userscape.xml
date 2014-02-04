@@ -1,0 +1,21 @@
+# Converted from Textmate theme Userscape using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Userscape
+view.fgColor=\#879bb0
+view.bgColor=\#f5f8fc
+view.caretColor=\#f8f8f0
+view.selectionColor=\#c4e0ff
+view.eolMarkerColor=\#ffffff
+view.lineHighlightColor=\#ceddf0
+view.style.comment1=color\:\#c1cddb style\:
+view.style.literal1=color\:\#e3bd14 style\:
+view.style.label=color\:\#de4d3a style\:
+view.style.digit=color\:\#de4d3a style\:
+view.style.keyword1=color\:\#808c9c style\:
+view.style.keyword2=color\:\#de4d3a style\:
+view.style.keyword3=color\:\#de4d3a style\:
+view.style.keyword4=color\:\#879bb0 style\:
+view.style.operator=color\:\#808c9c style\:
+view.style.function=color\:\#e3bd14 style\:
+view.style.literal3=color\:\#e3bd14 style\:
+view.style.markup=color\:\#355b8c style\:

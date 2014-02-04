@@ -1,0 +1,66 @@
+# Converted from Textmate theme Github using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Github]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=dd1144,dd1144,0,0,0,0,,,---
+Character=222222,222222,1,0,0,0,,,---
+Comment=b8b6b1,b8b6b1,0,0,0,0,,,---
+Data Type=606aa1,606aa1,0,0,0,1,,,---
+Decimal/Value=dd1144,dd1144,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=dd1144,dd1144,0,0,0,0,,,---
+Function=990000,990000,1,0,0,0,,,---
+Keyword=222222,222222,1,0,0,0,,,---
+Normal=555555,555555,0,0,0,0,,,---
+Others=555555,555555,0,0,0,0,,,---
+Region Marker=555555,555555,0,0,0,0,,,---
+String=dd1144,dd1144,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Github]
+Ruby:Access Control=0,222222,222222,1,0,0,0,,,---
+Ruby:Command=0,dd1144,dd1144,0,0,0,0,,,---
+Ruby:Constant=0,555555,555555,0,0,0,0,,,---
+Ruby:Constant Value=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby:Default globals=0,008080,008080,0,0,0,0,,,---
+Ruby:Definition=0,990000,990000,1,0,0,0,,,---
+Ruby:Delimiter=0,222222,222222,1,0,0,0,,,---
+Ruby:Global Constant=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby:Global Variable=0,008080,008080,0,0,0,0,,,---
+Ruby:Instance Variable=0,008080,008080,0,0,0,0,,,---
+Ruby:Class Variable=0,008080,008080,0,0,0,0,,,---
+Ruby:Kernel methods=0,445588,445588,0,0,0,0,,,---
+Ruby:Member=0,990000,990000,1,0,0,0,,,---
+Ruby:Message=0,555555,555555,0,0,0,0,,,---
+Ruby:Operator=0,222222,222222,1,0,0,0,,,---
+Ruby:Pseudo variable=0,008080,008080,0,0,0,0,,,---
+Ruby:Raw String=0,dd1144,dd1144,0,0,0,0,,,---
+Ruby:Regular Expression=0,dd1144,dd1144,0,0,0,0,,,---
+Ruby:Symbol=0,606aa1,606aa1,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Github]
+JavaScript:Objects=0,008080,008080,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Github]
+Ruby/Rails/RHTML:Message=0,555555,555555,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,dd1144,dd1144,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,606aa1,606aa1,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,dd1144,dd1144,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,008080,008080,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,445588,445588,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,445588,445588,0,0,0,0,,,---
+
+[Highlighting XML - Schema Github]
+XML:Value=0,dd1144,dd1144,0,0,0,0,,,---
+XML:Element=0,008080,008080,0,0,0,0,,,---
+XML:Attribute=0,445588,445588,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Github]
+Color Background=255,255,255
+Color Highlighted Bracket=255,255,255
+Color Highlighted Line=238,238,238
+Color Selection=175,196,218
+Color Tab Marker=59,58,50
+Color Word Wrap Marker=59,58,50

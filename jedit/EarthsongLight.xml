@@ -1,0 +1,21 @@
+# Converted from Textmate theme Earthsong Light using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Earthsong Light
+view.fgColor=\#7d6852
+view.bgColor=\#ffffff
+view.caretColor=\#615649
+view.selectionColor=\#dbcebf
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#f0e7df
+view.style.comment1=color\:\#baa188 style\:
+view.style.literal1=color\:\#db9d18 style\:
+view.style.label=color\:\#7ba84d style\:
+view.style.digit=color\:\#7ba84d style\:
+view.style.keyword1=color\:\#d45c28 style\:
+view.style.keyword2=color\:\#7ba84d style\:
+view.style.keyword3=color\:\#7ba84d style\:
+view.style.keyword4=color\:\#7d6852 style\:
+view.style.operator=color\:\#d45c28 style\:
+view.style.function=color\:\#448048 style\:
+view.style.literal3=color\:\#db9d18 style\:
+view.style.markup=color\:\#bf2608 style\:

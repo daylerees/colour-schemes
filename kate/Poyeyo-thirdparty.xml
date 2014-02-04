@@ -1,0 +1,66 @@
+# Converted from Textmate theme Poyeyo using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Poyeyo]
+Alert=ffffff,ffffff,0,0,0,0,,,---
+Base-N Integer=a998ff,a998ff,0,0,0,0,,,---
+Character=ff4e5e,ff4e5e,0,0,0,0,,,---
+Comment=949494,949494,0,0,0,0,232323,,---
+Data Type=ff6476,ff6476,0,0,0,0,,,---
+Decimal/Value=a998ff,a998ff,0,0,0,0,,,---
+Error=ffffff,ffffff,0,0,0,0,,,---
+Floating Point=a998ff,a998ff,0,0,0,0,,,---
+Function=ff6476,ff6476,0,0,0,0,,,---
+Keyword=ff5845,ff5845,0,0,0,0,,,---
+Normal=ffffff,ffffff,0,0,0,0,,,---
+Others=ffffff,ffffff,0,0,0,0,,,---
+Region Marker=ffffff,ffffff,0,0,0,0,,,---
+String=9e6eff,9e6eff,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Poyeyo]
+Ruby:Access Control=0,ff4037,ff4037,0,0,0,0,,,---
+Ruby:Command=0,9e6eff,9e6eff,0,0,0,0,,,---
+Ruby:Constant=0,ffd24a,ffd24a,0,0,0,0,,,---
+Ruby:Constant Value=0,ffd24a,ffd24a,0,0,0,0,,,---
+Ruby:Default globals=0,ffa082,ffa082,0,0,0,0,,,---
+Ruby:Definition=0,ff6476,ff6476,0,0,0,0,,,---
+Ruby:Delimiter=0,ff5845,ff5845,0,0,0,0,,,---
+Ruby:Global Constant=0,ffd24a,ffd24a,0,0,0,0,,,---
+Ruby:Global Variable=0,ffa082,ffa082,0,0,0,0,,,---
+Ruby:Instance Variable=0,ffa082,ffa082,0,0,0,0,,,---
+Ruby:Class Variable=0,ffa082,ffa082,0,0,0,0,,,---
+Ruby:Kernel methods=0,ed954d,ed954d,0,0,0,0,,,---
+Ruby:Member=0,ff6476,ff6476,0,0,0,0,,,---
+Ruby:Message=0,ffffff,ffffff,0,0,0,0,,,---
+Ruby:Operator=0,ff4e5e,ff4e5e,0,0,0,0,,,---
+Ruby:Pseudo variable=0,ffa082,ffa082,0,0,0,0,,,---
+Ruby:Raw String=0,9e6eff,9e6eff,0,0,0,0,,,---
+Ruby:Regular Expression=0,ffa05c,ffa05c,0,0,0,0,,,---
+Ruby:Symbol=0,ffd24a,ffd24a,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Poyeyo]
+JavaScript:Objects=0,ffa082,ffa082,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Poyeyo]
+Ruby/Rails/RHTML:Message=0,ffffff,ffffff,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,9e6eff,9e6eff,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,ffd24a,ffd24a,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,9e6eff,9e6eff,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,00fffd,00fffd,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,ed954d,ed954d,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,00f094,00f094,0,0,0,0,,,---
+
+[Highlighting XML - Schema Poyeyo]
+XML:Value=0,9e6eff,9e6eff,0,0,0,0,,,---
+XML:Element=0,00fffd,00fffd,0,0,0,0,,,---
+XML:Attribute=0,00f094,00f094,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Poyeyo]
+Color Background=35,35,35
+Color Highlighted Bracket=35,35,35
+Color Highlighted Line=113,113,113
+Color Selection=64,64,64
+Color Tab Marker=80,80,80
+Color Word Wrap Marker=80,80,80

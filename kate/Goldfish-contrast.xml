@@ -1,0 +1,66 @@
+# Converted from Textmate theme Goldfish using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Goldfish]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=2ebf7e,2ebf7e,0,0,0,0,,,---
+Character=a7dbd8,a7dbd8,0,0,0,0,,,---
+Comment=798b95,798b95,0,0,0,0,,,---
+Data Type=69d2e7,69d2e7,0,0,0,1,,,---
+Decimal/Value=2ebf7e,2ebf7e,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=2ebf7e,2ebf7e,0,0,0,0,,,---
+Function=69d2e7,69d2e7,0,0,0,0,,,---
+Keyword=a7dbd8,a7dbd8,0,0,0,0,,,---
+Normal=f8f8f2,f8f8f2,0,0,0,0,,,---
+Others=f8f8f2,f8f8f2,0,0,0,0,,,---
+Region Marker=f8f8f2,f8f8f2,0,0,0,0,,,---
+String=e0e4cc,e0e4cc,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Goldfish]
+Ruby:Access Control=0,fa6900,fa6900,0,0,0,0,,,---
+Ruby:Command=0,e0e4cc,e0e4cc,0,0,0,0,,,---
+Ruby:Constant=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby:Constant Value=0,f38630,f38630,0,0,0,0,,,---
+Ruby:Default globals=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby:Definition=0,69d2e7,69d2e7,0,0,0,0,,,---
+Ruby:Delimiter=0,a7dbd8,a7dbd8,0,0,0,0,,,---
+Ruby:Global Constant=0,f38630,f38630,0,0,0,0,,,---
+Ruby:Global Variable=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby:Instance Variable=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby:Class Variable=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby:Kernel methods=0,f38630,f38630,0,0,0,0,,,---
+Ruby:Member=0,69d2e7,69d2e7,0,0,0,0,,,---
+Ruby:Message=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby:Operator=0,a7dbd8,a7dbd8,0,0,0,0,,,---
+Ruby:Pseudo variable=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby:Raw String=0,e0e4cc,e0e4cc,0,0,0,0,,,---
+Ruby:Regular Expression=0,e0e4cc,e0e4cc,0,0,0,0,,,---
+Ruby:Symbol=0,f38630,f38630,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Goldfish]
+JavaScript:Objects=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Goldfish]
+Ruby/Rails/RHTML:Message=0,f8f8f2,f8f8f2,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,e0e4cc,e0e4cc,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,f38630,f38630,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,e0e4cc,e0e4cc,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,f38630,f38630,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,f38630,f38630,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,a7dbd8,a7dbd8,0,0,0,0,,,---
+
+[Highlighting XML - Schema Goldfish]
+XML:Value=0,e0e4cc,e0e4cc,0,0,0,0,,,---
+XML:Element=0,f38630,f38630,0,0,0,0,,,---
+XML:Attribute=0,a7dbd8,a7dbd8,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Goldfish]
+Color Background=21,24,25
+Color Highlighted Bracket=21,24,25
+Color Highlighted Line=34,39,42
+Color Selection=63,72,77
+Color Tab Marker=59,58,50
+Color Word Wrap Marker=59,58,50

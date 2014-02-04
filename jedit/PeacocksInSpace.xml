@@ -1,0 +1,21 @@
+# Converted from Textmate theme PeacocksInSpace using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=PeacocksInSpace
+view.fgColor=\#dee3ec
+view.bgColor=\#2b303b
+view.caretColor=\#f8f8f0
+view.selectionColor=\#161a1f
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#272b34
+view.style.comment1=color\:\#6e7a94 style\:
+view.style.literal1=color\:\#bcd42a style\:
+view.style.label=color\:\#ff5d38 style\:
+view.style.digit=color\:\#bcd42a style\:
+view.style.keyword1=color\:\#26a6a6 style\:
+view.style.keyword2=color\:\#ff5d38 style\:
+view.style.keyword3=color\:\#ff5d38 style\:
+view.style.keyword4=color\:\#dee3ec style\:
+view.style.operator=color\:\#26a6a6 style\:
+view.style.function=color\:\#bcd42a style\:
+view.style.literal3=color\:\#bcd42a style\:
+view.style.markup=color\:\#26a6a6 style\:

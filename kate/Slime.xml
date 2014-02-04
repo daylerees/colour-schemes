@@ -1,0 +1,66 @@
+# Converted from Textmate theme Slime using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Slime]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=c7af3f,c7af3f,0,0,0,0,,,---
+Character=9fb3c2,9fb3c2,0,0,0,0,,,---
+Comment=4f5a63,4f5a63,0,0,0,0,,,---
+Data Type=c7af3f,c7af3f,0,0,0,1,,,---
+Decimal/Value=c7af3f,c7af3f,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=c7af3f,c7af3f,0,0,0,0,,,---
+Function=c7af3f,c7af3f,0,0,0,0,,,---
+Keyword=9fb3c2,9fb3c2,0,0,0,0,,,---
+Normal=ffffff,ffffff,0,0,0,0,,,---
+Others=ffffff,ffffff,0,0,0,0,,,---
+Region Marker=ffffff,ffffff,0,0,0,0,,,---
+String=faffdb,faffdb,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Slime]
+Ruby:Access Control=0,9fb3c2,9fb3c2,0,0,0,0,,,---
+Ruby:Command=0,faffdb,faffdb,0,0,0,0,,,---
+Ruby:Constant=0,ffffff,ffffff,0,0,0,0,,,---
+Ruby:Constant Value=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby:Default globals=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+Ruby:Definition=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby:Delimiter=0,9fb3c2,9fb3c2,0,0,0,0,,,---
+Ruby:Global Constant=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby:Global Variable=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+Ruby:Instance Variable=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+Ruby:Class Variable=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+Ruby:Kernel methods=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby:Member=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby:Message=0,ffffff,ffffff,0,0,0,0,,,---
+Ruby:Operator=0,9fb3c2,9fb3c2,0,0,0,0,,,---
+Ruby:Pseudo variable=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+Ruby:Raw String=0,faffdb,faffdb,0,0,0,0,,,---
+Ruby:Regular Expression=0,faffdb,faffdb,0,0,0,0,,,---
+Ruby:Symbol=0,c7af3f,c7af3f,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Slime]
+JavaScript:Objects=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Slime]
+Ruby/Rails/RHTML:Message=0,ffffff,ffffff,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,faffdb,faffdb,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,faffdb,faffdb,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,c7af3f,c7af3f,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+
+[Highlighting XML - Schema Slime]
+XML:Value=0,faffdb,faffdb,0,0,0,0,,,---
+XML:Element=0,c7af3f,c7af3f,0,0,0,0,,,---
+XML:Attribute=0,8ab8a2,8ab8a2,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Slime]
+Color Background=41,45,48
+Color Highlighted Bracket=41,45,48
+Color Highlighted Line=56,65,71
+Color Selection=22,26,31
+Color Tab Marker=59,58,50
+Color Word Wrap Marker=59,58,50

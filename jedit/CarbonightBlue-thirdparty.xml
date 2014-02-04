@@ -1,0 +1,21 @@
+# Converted from Textmate theme Carbonight Blue using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Carbonight Blue
+view.fgColor=\#b0b0b0
+view.bgColor=\#25292a
+view.caretColor=\#f83333
+view.selectionColor=\#ff4500
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#3b3633
+view.style.comment1=color\:\#3f5b69 style\:
+view.style.literal1=color\:\#77acc5 style\:
+view.style.label=color\:\#b0b0b0 style\:
+view.style.digit=color\:\#b0b0b0 style\:
+view.style.keyword1=color\:\#e3e3e3 style\:
+view.style.keyword2=color\:\#b0b0b0 style\:
+view.style.keyword3=color\:\#b0b0b0 style\:
+view.style.keyword4=color\:\#b0b0b0 style\:
+view.style.operator=color\:\#e3e3e3 style\:
+view.style.function=color\:\#cccccc style\:
+view.style.literal3=color\:\#77acc5 style\:
+view.style.markup=color\:\#8c8c8c style\:

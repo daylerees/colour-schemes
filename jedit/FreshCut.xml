@@ -1,0 +1,21 @@
+# Converted from Textmate theme FreshCut using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=FreshCut
+view.fgColor=\#f8f8f2
+view.bgColor=\#2f3030
+view.caretColor=\#f8f8f0
+view.selectionColor=\#161a1f
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#424c57
+view.style.comment1=color\:\#556270 style\:
+view.style.literal1=color\:\#e9ee00 style\:
+view.style.label=color\:\#8fbe00 style\:
+view.style.digit=color\:\#8fbe00 style\:
+view.style.keyword1=color\:\#c8d7e8 style\:
+view.style.keyword2=color\:\#4ecdc4 style\:
+view.style.keyword3=color\:\#8fbe00 style\:
+view.style.keyword4=color\:\#f8f8f2 style\:
+view.style.operator=color\:\#c8d7e8 style\:
+view.style.function=color\:\#aee239 style\:
+view.style.literal3=color\:\#e9ee00 style\:
+view.style.markup=color\:\#00a8c6 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme Blue Dawn using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Blue Dawn
+view.fgColor=\#bbd0ef
+view.bgColor=\#0f1318
+view.caretColor=\#f8f8f0
+view.selectionColor=\#183c66
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#1b232c
+view.style.comment1=color\:\#eeb900 style\:
+view.style.literal1=color\:\#e9ee00 style\:
+view.style.label=color\:\#4cbbff style\:
+view.style.digit=color\:\#e9ee00 style\:
+view.style.keyword1=color\:\#a3c1e8 style\:
+view.style.keyword2=color\:\#36aaf1 style\:
+view.style.keyword3=color\:\#e9ee00 style\:
+view.style.keyword4=color\:\#effbff style\:
+view.style.operator=color\:\#a3c1e8 style\:
+view.style.function=color\:\#effbff style\:
+view.style.literal3=color\:\#e9ee00 style\:
+view.style.markup=color\:\#ffffff style\:

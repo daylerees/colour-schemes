@@ -1,0 +1,21 @@
+# Converted from Textmate theme Lavender using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Lavender
+view.fgColor=\#e0ceed
+view.bgColor=\#29222e
+view.caretColor=\#f8f8f0
+view.selectionColor=\#161a1f
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#3a2f42
+view.style.comment1=color\:\#51415c style\:
+view.style.literal1=color\:\#f5b0ef style\:
+view.style.label=color\:\#8e69c9 style\:
+view.style.digit=color\:\#f25ae6 style\:
+view.style.keyword1=color\:\#8e6da6 style\:
+view.style.keyword2=color\:\#8e69c9 style\:
+view.style.keyword3=color\:\#8e69c9 style\:
+view.style.keyword4=color\:\#e0ceed style\:
+view.style.operator=color\:\#8e6da6 style\:
+view.style.function=color\:\#ecc0fa style\:
+view.style.literal3=color\:\#f5b0ef style\:
+view.style.markup=color\:\#b657ff style\:

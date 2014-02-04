@@ -1,0 +1,21 @@
+# Converted from Textmate theme Last Night using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Last Night
+view.fgColor=\#47494a
+view.bgColor=\#1d1f21
+view.caretColor=\#00bdff
+view.selectionColor=\#373b41
+view.eolMarkerColor=\#4b4e55
+view.lineHighlightColor=\#282a2e
+view.style.comment1=color\:\#969896 style\:
+view.style.literal1=color\:\#b5bd68 style\:
+view.style.label=color\:\#b5bd68 style\:
+view.style.digit=color\:\#de935f style\:
+view.style.keyword1=color\:\#b294bb style\:
+view.style.keyword2=color\:\#81a2be style\:
+view.style.keyword3=color\:\#de935f style\:
+view.style.keyword4=color\:\#cc6666 style\:
+view.style.operator=color\:\#8abeb7 style\:
+view.style.function=color\:\#80bcae style\:
+view.style.literal3=color\:\#cc6666 style\:
+view.style.markup=color\:\#cc6666 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme Solarflare using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Solarflare
+view.fgColor=\#e3e2e0
+view.bgColor=\#222222
+view.caretColor=\#ffffff
+view.selectionColor=\#282828
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#282828
+view.style.comment1=color\:\#777777 style\:i
+view.style.literal1=color\:\#ede574 style\:
+view.style.label=color\:\#f9d423 style\:
+view.style.digit=color\:\#ff4e50 style\:
+view.style.keyword1=color\:\#f66153 style\:
+view.style.keyword2=color\:\#f9d423 style\:
+view.style.keyword3=color\:\#f9d423 style\:
+view.style.keyword4=color\:\#e3e2e0 style\:
+view.style.operator=color\:\#f66153 style\:
+view.style.function=color\:\#f9d423 style\:
+view.style.literal3=color\:\#ede574 style\:
+view.style.markup=color\:\#ff4e50 style\:

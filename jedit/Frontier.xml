@@ -1,0 +1,21 @@
+# Converted from Textmate theme Frontier using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Frontier
+view.fgColor=\#f8f8f2
+view.bgColor=\#36312c
+view.caretColor=\#f8f8f0
+view.selectionColor=\#161a1f
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#45403b
+view.style.comment1=color\:\#7a7267 style\:
+view.style.literal1=color\:\#f8bb39 style\:
+view.style.label=color\:\#2ebf7e style\:
+view.style.digit=color\:\#2ebf7e style\:
+view.style.keyword1=color\:\#fc803d style\:
+view.style.keyword2=color\:\#2ebf7e style\:
+view.style.keyword3=color\:\#2ebf7e style\:
+view.style.keyword4=color\:\#f8f8f2 style\:
+view.style.operator=color\:\#fc803d style\:
+view.style.function=color\:\#f8bb39 style\:
+view.style.literal3=color\:\#f8bb39 style\:
+view.style.markup=color\:\#f23a3a style\:

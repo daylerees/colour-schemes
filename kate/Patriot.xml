@@ -1,0 +1,66 @@
+# Converted from Textmate theme Patriot using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Patriot]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=2e6fd9,2e6fd9,0,0,0,0,,,---
+Character=bbbcc4,bbbcc4,0,0,0,0,,,---
+Comment=515e66,515e66,0,0,0,0,,,---
+Data Type=2e6fd9,2e6fd9,0,0,0,1,,,---
+Decimal/Value=2e6fd9,2e6fd9,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=2e6fd9,2e6fd9,0,0,0,0,,,---
+Function=ffffff,ffffff,0,0,0,0,,,---
+Keyword=bbbcc4,bbbcc4,0,0,0,0,,,---
+Normal=cad9e3,cad9e3,0,0,0,0,,,---
+Others=cad9e3,cad9e3,0,0,0,0,,,---
+Region Marker=cad9e3,cad9e3,0,0,0,0,,,---
+String=3790de,3790de,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Patriot]
+Ruby:Access Control=0,2e6fd9,2e6fd9,0,0,0,0,,,---
+Ruby:Command=0,3790de,3790de,0,0,0,0,,,---
+Ruby:Constant=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby:Constant Value=0,2e6fd9,2e6fd9,0,0,0,0,,,---
+Ruby:Default globals=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby:Definition=0,ffffff,ffffff,0,0,0,0,,,---
+Ruby:Delimiter=0,bbbcc4,bbbcc4,0,0,0,0,,,---
+Ruby:Global Constant=0,2e6fd9,2e6fd9,0,0,0,0,,,---
+Ruby:Global Variable=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby:Instance Variable=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby:Class Variable=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby:Kernel methods=0,de333c,de333c,0,0,0,0,,,---
+Ruby:Member=0,ffffff,ffffff,0,0,0,0,,,---
+Ruby:Message=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby:Operator=0,bbbcc4,bbbcc4,0,0,0,0,,,---
+Ruby:Pseudo variable=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby:Raw String=0,3790de,3790de,0,0,0,0,,,---
+Ruby:Regular Expression=0,3790de,3790de,0,0,0,0,,,---
+Ruby:Symbol=0,2e6fd9,2e6fd9,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Patriot]
+JavaScript:Objects=0,cad9e3,cad9e3,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Patriot]
+Ruby/Rails/RHTML:Message=0,cad9e3,cad9e3,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,3790de,3790de,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,2e6fd9,2e6fd9,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,3790de,3790de,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,25808a,25808a,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,de333c,de333c,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,69adb5,69adb5,0,0,0,0,,,---
+
+[Highlighting XML - Schema Patriot]
+XML:Value=0,3790de,3790de,0,0,0,0,,,---
+XML:Element=0,25808a,25808a,0,0,0,0,,,---
+XML:Attribute=0,69adb5,69adb5,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Patriot]
+Color Background=45,49,51
+Color Highlighted Bracket=45,49,51
+Color Highlighted Line=64,72,77
+Color Selection=95,123,148
+Color Tab Marker=255,255,255
+Color Word Wrap Marker=255,255,255

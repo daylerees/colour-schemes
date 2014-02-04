@@ -1,0 +1,21 @@
+# Converted from Textmate theme Glowfish using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Glowfish
+view.fgColor=\#c3e2a7
+view.bgColor=\#0e110a
+view.caretColor=\#f8f8f0
+view.selectionColor=\#050804
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#222a1a
+view.style.comment1=color\:\#566f40 style\:
+view.style.literal1=color\:\#f8bb39 style\:
+view.style.label=color\:\#95cc5e style\:
+view.style.digit=color\:\#95cc5e style\:
+view.style.keyword1=color\:\#d65940 style\:
+view.style.keyword2=color\:\#95cc5e style\:
+view.style.keyword3=color\:\#95cc5e style\:
+view.style.keyword4=color\:\#c3e2a7 style\:
+view.style.operator=color\:\#d65940 style\:
+view.style.function=color\:\#60a365 style\:
+view.style.literal3=color\:\#f8bb39 style\:
+view.style.markup=color\:\#95cc5e style\:

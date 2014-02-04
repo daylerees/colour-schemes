@@ -1,0 +1,21 @@
+# Converted from Textmate theme Stark using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Stark
+view.fgColor=\#dedede
+view.bgColor=\#111111
+view.caretColor=\#f8f8f0
+view.selectionColor=\#333333
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#222222
+view.style.comment1=color\:\#888888 style\:
+view.style.literal1=color\:\#ffbb29 style\:
+view.style.label=color\:\#ffbb29 style\:
+view.style.digit=color\:\#617fa0 style\:
+view.style.keyword1=color\:\#a3a3a3 style\:
+view.style.keyword2=color\:\#ffbb29 style\:
+view.style.keyword3=color\:\#ffbb29 style\:
+view.style.keyword4=color\:\#dedede style\:
+view.style.operator=color\:\#a3a3a3 style\:
+view.style.function=color\:\#f03113 style\:
+view.style.literal3=color\:\#ffbb29 style\:
+view.style.markup=color\:\#f03113 style\:

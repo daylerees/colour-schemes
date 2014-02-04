@@ -1,0 +1,21 @@
+# Converted from Textmate theme Patriot using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Patriot
+view.fgColor=\#cad9e3
+view.bgColor=\#181a1b
+view.caretColor=\#f8f8f0
+view.selectionColor=\#313a3e
+view.eolMarkerColor=\#ffffff
+view.lineHighlightColor=\#232628
+view.style.comment1=color\:\#515e66 style\:
+view.style.literal1=color\:\#3790de style\:
+view.style.label=color\:\#2e6fd9 style\:
+view.style.digit=color\:\#2e6fd9 style\:
+view.style.keyword1=color\:\#bbbcc4 style\:
+view.style.keyword2=color\:\#de333c style\:
+view.style.keyword3=color\:\#2e6fd9 style\:
+view.style.keyword4=color\:\#cad9e3 style\:
+view.style.operator=color\:\#bbbcc4 style\:
+view.style.function=color\:\#ffffff style\:
+view.style.literal3=color\:\#3790de style\:
+view.style.markup=color\:\#25808a style\:

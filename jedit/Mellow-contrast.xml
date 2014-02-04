@@ -1,0 +1,21 @@
+# Converted from Textmate theme Mellow using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Mellow
+view.fgColor=\#f8f8f2
+view.bgColor=\#1c1917
+view.caretColor=\#f8f8f0
+view.selectionColor=\#54473e
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#292522
+view.style.comment1=color\:\#968e84 style\:
+view.style.literal1=color\:\#f8bb39 style\:
+view.style.label=color\:\#f8bb39 style\:
+view.style.digit=color\:\#f8bb39 style\:
+view.style.keyword1=color\:\#f2bc79 style\:
+view.style.keyword2=color\:\#f55d79 style\:
+view.style.keyword3=color\:\#f8bb39 style\:
+view.style.keyword4=color\:\#f8f8f2 style\:
+view.style.operator=color\:\#f2bc79 style\:
+view.style.function=color\:\#f28972 style\:
+view.style.literal3=color\:\#f8bb39 style\:
+view.style.markup=color\:\#f55d79 style\:

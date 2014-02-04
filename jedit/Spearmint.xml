@@ -1,0 +1,21 @@
+# Converted from Textmate theme Spearmint using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Spearmint
+view.fgColor=\#719692
+view.bgColor=\#e1f0ee
+view.caretColor=\#f8f8f0
+view.selectionColor=\#c4e0ff
+view.eolMarkerColor=\#ffffff
+view.lineHighlightColor=\#ceebe7
+view.style.comment1=color\:\#93c7c0 style\:
+view.style.literal1=color\:\#4cd7e0 style\:
+view.style.label=color\:\#199fa8 style\:
+view.style.digit=color\:\#199fa8 style\:
+view.style.keyword1=color\:\#4fa89c style\:
+view.style.keyword2=color\:\#199fa8 style\:
+view.style.keyword3=color\:\#199fa8 style\:
+view.style.keyword4=color\:\#719692 style\:
+view.style.operator=color\:\#4fa89c style\:
+view.style.function=color\:\#4cd7e0 style\:
+view.style.literal3=color\:\#4cd7e0 style\:
+view.style.markup=color\:\#25808a style\:

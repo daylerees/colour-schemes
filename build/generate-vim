@@ -1,5 +1,0 @@
-#!/bin/bash
-
-for file in ../*.tmTheme; do
-    tm2vim $file ../vim-themes/colors/`basename $file .tmTheme`.vim
-done

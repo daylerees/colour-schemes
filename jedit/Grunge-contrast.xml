@@ -1,0 +1,21 @@
+# Converted from Textmate theme Grunge using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Grunge
+view.fgColor=\#f8f8f2
+view.bgColor=\#131411
+view.caretColor=\#f8f8f0
+view.selectionColor=\#2d3421
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#1e2119
+view.style.comment1=color\:\#7d8b63 style\:
+view.style.literal1=color\:\#d1f2a5 style\:
+view.style.label=color\:\#f38630 style\:
+view.style.digit=color\:\#f56991 style\:
+view.style.keyword1=color\:\#91a374 style\:
+view.style.keyword2=color\:\#ffc48c style\:
+view.style.keyword3=color\:\#f38630 style\:
+view.style.keyword4=color\:\#f8f8f2 style\:
+view.style.operator=color\:\#91a374 style\:
+view.style.function=color\:\#ffc48c style\:
+view.style.literal3=color\:\#d1f2a5 style\:
+view.style.markup=color\:\#f56991 style\:

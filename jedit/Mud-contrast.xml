@@ -1,0 +1,21 @@
+# Converted from Textmate theme Mud using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Mud
+view.fgColor=\#ffffff
+view.bgColor=\#1b1515
+view.caretColor=\#f8f8f0
+view.selectionColor=\#221d1c
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#322a29
+view.style.comment1=color\:\#c3b8b7 style\:
+view.style.literal1=color\:\#b5db99 style\:
+view.style.label=color\:\#e9c865 style\:
+view.style.digit=color\:\#b5db99 style\:
+view.style.keyword1=color\:\#ff9787 style\:
+view.style.keyword2=color\:\#e9c865 style\:
+view.style.keyword3=color\:\#e9c865 style\:
+view.style.keyword4=color\:\#ffffff style\:
+view.style.operator=color\:\#ff9787 style\:
+view.style.function=color\:\#b5db99 style\:
+view.style.literal3=color\:\#b5db99 style\:
+view.style.markup=color\:\#ff9787 style\:

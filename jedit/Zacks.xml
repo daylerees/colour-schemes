@@ -1,0 +1,21 @@
+# Converted from Textmate theme Zacks using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Zacks
+view.fgColor=\#f0f0f0
+view.bgColor=\#111111
+view.caretColor=\#f8f8f0
+view.selectionColor=\#2e2e2e
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#222222
+view.style.comment1=color\:\#777777 style\:
+view.style.literal1=color\:\#bcd42a style\:
+view.style.label=color\:\#ff6a38 style\:
+view.style.digit=color\:\#bcd42a style\:
+view.style.keyword1=color\:\#9c7ddb style\:
+view.style.keyword2=color\:\#ff6a38 style\:
+view.style.keyword3=color\:\#ff6a38 style\:
+view.style.keyword4=color\:\#f0f0f0 style\:
+view.style.operator=color\:\#9c7ddb style\:
+view.style.function=color\:\#bcd42a style\:
+view.style.literal3=color\:\#bcd42a style\:
+view.style.markup=color\:\#9c7ddb style\:

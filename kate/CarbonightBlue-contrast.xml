@@ -1,0 +1,66 @@
+# Converted from Textmate theme Carbonight using Coloration v0.3.3 (http://github.com/sickill/coloration)
+# -------------------- Put following in katesyntaxhighlightingrc --------------------
+
+[Default Item Styles - Schema Carbonight]
+Alert=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Base-N Integer=b0b0b0,b0b0b0,0,0,0,0,,,---
+Character=e3e3e3,e3e3e3,0,0,0,0,,,---
+Comment=3f5b69,3f5b69,0,0,0,0,,,---
+Data Type=cccccc,cccccc,0,0,0,1,,,---
+Decimal/Value=b0b0b0,b0b0b0,0,0,0,0,,,---
+Error=f8f8f0,f8f8f0,0,0,0,0,00a8c6,,---
+Floating Point=b0b0b0,b0b0b0,0,0,0,0,,,---
+Function=cccccc,cccccc,0,0,0,0,,,---
+Keyword=e3e3e3,e3e3e3,0,0,0,0,,,---
+Normal=b0b0b0,b0b0b0,0,0,0,0,,,---
+Others=b0b0b0,b0b0b0,0,0,0,0,,,---
+Region Marker=b0b0b0,b0b0b0,0,0,0,0,,,---
+String=77acc5,77acc5,0,0,0,0,,,---
+
+[Highlighting Ruby - Schema Carbonight]
+Ruby:Access Control=0,9e9e9e,9e9e9e,0,0,0,0,,,---
+Ruby:Command=0,77acc5,77acc5,0,0,0,0,,,---
+Ruby:Constant=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Constant Value=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Default globals=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Definition=0,cccccc,cccccc,0,0,0,0,,,---
+Ruby:Delimiter=0,e3e3e3,e3e3e3,0,0,0,0,,,---
+Ruby:Global Constant=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Global Variable=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Instance Variable=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Class Variable=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Kernel methods=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Member=0,cccccc,cccccc,0,0,0,0,,,---
+Ruby:Message=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Operator=0,e3e3e3,e3e3e3,0,0,0,0,,,---
+Ruby:Pseudo variable=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby:Raw String=0,77acc5,77acc5,0,0,0,0,,,---
+Ruby:Regular Expression=0,77acc5,77acc5,0,0,0,0,,,---
+Ruby:Symbol=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+
+[Highlighting JavaScript - Schema Carbonight]
+JavaScript:Objects=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+
+[Highlighting Ruby/Rails/RHTML - Schema Carbonight]
+Ruby/Rails/RHTML:Message=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby/Rails/RHTML:Raw String=0,77acc5,77acc5,0,0,0,0,,,---
+Ruby/Rails/RHTML:Symbol=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby/Rails/RHTML:Value=0,77acc5,77acc5,0,0,0,0,,,---
+Ruby/Rails/RHTML:Element=0,8c8c8c,8c8c8c,0,0,0,0,,,---
+Ruby/Rails/RHTML:Kernel methods=0,b0b0b0,b0b0b0,0,0,0,0,,,---
+Ruby/Rails/RHTML:Attribute=0,c4c4c4,c4c4c4,0,0,0,0,,,---
+
+[Highlighting XML - Schema Carbonight]
+XML:Value=0,77acc5,77acc5,0,0,0,0,,,---
+XML:Element=0,8c8c8c,8c8c8c,0,0,0,0,,,---
+XML:Attribute=0,c4c4c4,c4c4c4,0,0,0,0,,,---
+
+# -------------------- Put following in kateschemarc --------------------
+
+[Carbonight]
+Color Background=24,27,28
+Color Highlighted Bracket=24,27,28
+Color Highlighted Line=59,54,51
+Color Selection=67,49,49
+Color Tab Marker=59,58,50
+Color Word Wrap Marker=59,58,50

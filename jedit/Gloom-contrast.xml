@@ -1,0 +1,21 @@
+# Converted from Textmate theme GloomDark using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=GloomDark
+view.fgColor=\#d8ebe5
+view.bgColor=\#191919
+view.caretColor=\#f8f8f0
+view.selectionColor=\#000000
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#222222
+view.style.comment1=color\:\#444444 style\:
+view.style.literal1=color\:\#bcd42a style\:
+view.style.label=color\:\#ff5d38 style\:
+view.style.digit=color\:\#bcd42a style\:
+view.style.keyword1=color\:\#26a6a6 style\:
+view.style.keyword2=color\:\#ff5d38 style\:
+view.style.keyword3=color\:\#ff5d38 style\:
+view.style.keyword4=color\:\#d8ebe5 style\:
+view.style.operator=color\:\#26a6a6 style\:
+view.style.function=color\:\#bcd42a style\:
+view.style.literal3=color\:\#bcd42a style\:
+view.style.markup=color\:\#26a6a6 style\:

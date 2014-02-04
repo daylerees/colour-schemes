@@ -1,0 +1,21 @@
+# Converted from Textmate theme Laravel Darker using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=Laravel Darker
+view.fgColor=\#dedede
+view.bgColor=\#000000
+view.caretColor=\#f8f8f0
+view.selectionColor=\#444444
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#222222
+view.style.comment1=color\:\#615953 style\:
+view.style.literal1=color\:\#fdca49 style\:
+view.style.label=color\:\#f38630 style\:
+view.style.digit=color\:\#fc580c style\:
+view.style.keyword1=color\:\#ffa927 style\:
+view.style.keyword2=color\:\#ffc48c style\:
+view.style.keyword3=color\:\#f38630 style\:
+view.style.keyword4=color\:\#dedede style\:
+view.style.operator=color\:\#ffa927 style\:
+view.style.function=color\:\#fc580c style\:
+view.style.literal3=color\:\#fdca49 style\:
+view.style.markup=color\:\#fc580c style\:
