@@ -1,5 +1,5 @@
 " ======================================================================
-" Tron Light
+" Piggy
 " ======================================================================
 " A Sublime Text 2 / Textmate theme.
 " Copyright (c) 2014 Dayle Rees.
@@ -16,8 +16,8 @@ syntax reset
 
 hi Cursor      guibg=#cc4455  guifg=white     ctermbg=4 ctermfg=15
 hi link CursorIM Cursor
-hi Normal      guibg=#14191f  guifg=#aec2e0    gui=none ctermbg=0 ctermfg=15
-hi NonText     guibg=#445566  guifg=#aec2e0   ctermbg=8 ctermfg=14
+hi Normal      guibg=#1c1618  guifg=#EDEBE6    gui=none ctermbg=0 ctermfg=15
+hi NonText     guibg=#445566  guifg=#EDEBE6   ctermbg=8 ctermfg=14
 hi Visual      guibg=#557799  guifg=white    gui=none ctermbg=9 ctermfg=15
 
 hi Linenr      guibg=bg       guifg=#aaaaaa  gui=none ctermbg=bg ctermfg=7
@@ -33,7 +33,7 @@ hi Titled      guibg=bg guifg=fg       gui=none ctermbg=bg ctermfg=fg
 hi ErrorMsg    guibg=bg guifg=#ff0000   ctermbg=bg ctermfg=12
 hi ModeMsg     guibg=bg guifg=#ffeecc  gui=none ctermbg=bg ctermfg=14
 hi link  MoreMsg     ModeMsg
-hi Question    guibg=bg guifg=#7a9bc2   ctermbg=bg ctermfg=10
+hi Question    guibg=bg guifg=#F52E62   ctermbg=bg ctermfg=10
 hi link  WarningMsg  ErrorMsg
 
 hi StatusLine     guibg=#ffeecc  guifg=black     ctermbg=14 ctermfg=0
@@ -47,47 +47,47 @@ hi DiffText    guibg=#884444  guifg=fg     ctermbg=4 ctermfg=fg
 
 " Colors for Syntax Highlighting.
 
-hi Comment  guibg=bg  guifg=#516a88  gui=none    ctermbg=8   ctermfg=7
+hi Comment  guibg=bg  guifg=#3f3236  gui=none    ctermbg=8   ctermfg=7
 
 hi Constant    guibg=bg    guifg=white        ctermbg=8   ctermfg=15
-hi String      guibg=bg    guifg=#6ee2ff    ctermbg=bg  ctermfg=14
-hi Character   guibg=bg    guifg=#ffffff      ctermbg=bg  ctermfg=14
-hi Number      guibg=bg    guifg=#6ee2ff      ctermbg=1   ctermfg=15
-hi Boolean     guibg=bg    guifg=#6ee2ff  gui=none    ctermbg=1   ctermfg=15
-hi Float       guibg=bg    guifg=#6ee2ff      ctermbg=1   ctermfg=15
+hi String      guibg=bg    guifg=#FF453E    ctermbg=bg  ctermfg=14
+hi Character   guibg=bg    guifg=#FD6A5D      ctermbg=bg  ctermfg=14
+hi Number      guibg=bg    guifg=#FF453E      ctermbg=1   ctermfg=15
+hi Boolean     guibg=bg    guifg=#FF453E  gui=none    ctermbg=1   ctermfg=15
+hi Float       guibg=bg    guifg=#FF453E      ctermbg=1   ctermfg=15
 
-hi Identifier  guibg=bg    guifg=#aec2e0      ctermbg=bg  ctermfg=12
-hi Function    guibg=bg    guifg=#ffffff      ctermbg=bg  ctermfg=12
-hi Statement   guibg=bg    guifg=#ffffff      ctermbg=bg  ctermfg=14
+hi Identifier  guibg=bg    guifg=#EDEBE6      ctermbg=bg  ctermfg=12
+hi Function    guibg=bg    guifg=#FD6A5D      ctermbg=bg  ctermfg=12
+hi Statement   guibg=bg    guifg=#FD6A5D      ctermbg=bg  ctermfg=14
 
-hi Conditional guibg=bg    guifg=#748aa6      ctermbg=bg  ctermfg=12
-hi Repeat      guibg=bg    guifg=#748aa6      ctermbg=4   ctermfg=14
+hi Conditional guibg=bg    guifg=#FD6A5D      ctermbg=bg  ctermfg=12
+hi Repeat      guibg=bg    guifg=#FD6A5D      ctermbg=4   ctermfg=14
 hi Label       guibg=bg    guifg=#ffccff      ctermbg=bg   ctermfg=13
-hi Operator    guibg=bg    guifg=#748aa6      ctermbg=6   ctermfg=15
-hi Keyword     guibg=bg    guifg=#748aa6      ctermbg=bg  ctermfg=10
-hi Exception   guibg=bg    guifg=#ffffff      ctermbg=bg  ctermfg=10
+hi Operator    guibg=bg    guifg=#FD6A5D      ctermbg=6   ctermfg=15
+hi Keyword     guibg=bg    guifg=#FD6A5D      ctermbg=bg  ctermfg=10
+hi Exception   guibg=bg    guifg=#FD6A5D      ctermbg=bg  ctermfg=10
 
 hi PreProc    guibg=bg   guifg=#ffcc99   ctermbg=4  ctermfg=14
-hi Include    guibg=bg   guifg=#7a9bc2   ctermbg=bg ctermfg=10
+hi Include    guibg=bg   guifg=#F52E62   ctermbg=bg ctermfg=10
 hi link Define    Include
 hi link Macro     Include
 hi link PreCondit Include
 
-hi Type       guibg=bg   guifg=#7a9bc2      ctermbg=bg  ctermfg=12
-hi StorageClass   guibg=bg   guifg=#ffffff      ctermbg=bg  ctermfg=10
-hi Structure      guibg=bg   guifg=#aec2e0      ctermbg=bg  ctermfg=10
-hi Typedef    guibg=bg   guifg=#7a9bc2    ctermbg=bg  ctermfg=10
+hi Type       guibg=bg   guifg=#F52E62      ctermbg=bg  ctermfg=12
+hi StorageClass   guibg=bg   guifg=#FD6A5D      ctermbg=bg  ctermfg=10
+hi Structure      guibg=bg   guifg=#EDEBE6      ctermbg=bg  ctermfg=10
+hi Typedef    guibg=bg   guifg=#F52E62    ctermbg=bg  ctermfg=10
 
 hi Special    guibg=bg   guifg=#bbddff      ctermbg=1   ctermfg=15
 hi SpecialChar    guibg=bg   guifg=#bbddff      ctermbg=1   ctermfg=15
 hi Tag        guibg=bg   guifg=#bbddff      ctermbg=1   ctermfg=15
 hi Delimiter      guibg=bg   guifg=fg       ctermbg=1   ctermfg=fg
-hi SpecialComment guibg=#334455  guifg=#7d7d7d    ctermbg=1   ctermfg=15
+hi SpecialComment guibg=#334455  guifg=#6a515a    ctermbg=1   ctermfg=15
 hi Debug      guibg=bg   guifg=#ff9999  gui=none    ctermbg=8   ctermfg=12
 
 hi Underlined guibg=bg guifg=#99ccff gui=underline ctermbg=bg ctermfg=9 cterm=underline
 
-hi Title    guibg=bg  guifg=#aec2e0        ctermbg=1   ctermfg=15
+hi Title    guibg=bg  guifg=#EDEBE6        ctermbg=1   ctermfg=15
 hi Ignore   guibg=bg       guifg=#cccccc    ctermbg=bg  ctermfg=8
 hi Error    guibg=#ff0000  guifg=white        ctermbg=12  ctermfg=15
 hi Todo     guibg=#556677  guifg=#ff0000      ctermbg=1   ctermfg=12
@@ -100,6 +100,6 @@ hi link htmlH6 htmlH5
 
 " And finally.
 
-let g:colors_name = "Tron Light"
+let g:colors_name = "Piggy"
 let colors_name   = "theme.name"
 
