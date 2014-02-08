@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 ======================================================================
-Temp
+Peel
 ======================================================================
 A Sublime Text 2 / Textmate theme.
 Copyright (c) 2014 Dayle Rees.
@@ -14,7 +14,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Temp</string>
+    <string>Peel</string>
     <key>settings</key>
     <array>
         <dict>
@@ -489,6 +489,6 @@ Find more themes at : https://github.com/daylerees/colour-schemes
         </dict>
     </array>
     <key>uuid</key>
-    <string>3d801aa5-32c1-cec3-ee82-d87a99fdf63f</string>
+    <string>732dc4b5-09e0-baf7-6683-18e75a81cba6</string>
 </dict>
 </plist>

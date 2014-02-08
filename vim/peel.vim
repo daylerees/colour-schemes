@@ -1,5 +1,5 @@
 " ======================================================================
-" Temp
+" Peel
 " ======================================================================
 " A Sublime Text 2 / Textmate theme.
 " Copyright (c) 2014 Dayle Rees.
@@ -100,6 +100,6 @@ hi link htmlH6 htmlH5
 
 " And finally.
 
-let g:colors_name = "Temp"
+let g:colors_name = "Peel"
 let colors_name   = "theme.name"
 
