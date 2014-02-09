@@ -1,0 +1,46 @@
+<h1 style="background-color:#282f2d; color: #EDEBE6;">Kiwi</h1>
+<pre style="font-family:Monaco, monospace; padding:2em; background-color: #161a19; color: #EDEBE6;">
+&lt;?php
+
+<span style="color: #229986;">namespace</span> Illuminate\Container;
+
+<span style="color: #229986;">use</span> Closure;
+<span style="color: #229986;">use</span> ArrayAccess;
+
+<span style="color: #354341;">/**
+ * Theme: Kiwi
+ * Kiwi
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */</span>
+<span style="color: #229986;">class</span> Container <span style="color: #95C72A;">implements</span> ArrayAccess
+{
+    <span style="color: #354341;">/**
+     * An array of the types that have been resolved.
+     *
+     * <span style="color: #5b7a75;">@var</span> array
+     */</span>
+    <span style="color: #95C72A;">protected</span> <span style="color: #EDEBE6;">$resolved</span> <span style="color: #229986;">=</span> <span style="color: #95C72A;">array</span>();
+
+    <span style="color: #354341;">/**
+     * Determine if a given type is shared.
+     *
+     * <span style="color: #5b7a75;">@param</span>  string  $abstract
+     * <span style="color: #5b7a75;">@return</span> bool
+     */</span>
+    <span style="color: #95C72A;">public</span> <span style="color: #229986;">function</span> <span style="color: #0B6D5C;">isShared</span>(<span style="color: #EDEBE6;">$abstract</span>)
+    {
+        <span style="color: #229986;">if</span> (<span style="color: #95C72A;">isset</span>(<span style="color: #EDEBE6;">$this</span><span style="color: #229986;">-></span><span style="color: #EDEBE6;">bindings</span>[<span style="color: #EDEBE6;">$abstract</span>][<span style="color: #a1e6c1;">'shared'</span>]))
+        {
+            <span style="color: #EDEBE6;">$shared</span> <span style="color: #229986;">=</span> <span style="color: #EDEBE6;">$this</span><span style="color: #229986;">-></span><span style="color: #EDEBE6;">bindings</span>[<span style="color: #EDEBE6;">$abstract</span>][<span style="color: #a1e6c1;">'shared'</span>];
+        }
+        <span style="color: #229986;">else</span>
+        {
+            <span style="color: #EDEBE6;">$shared</span> <span style="color: #229986;">=</span> <span style="color: #95C72A;">false</span>;
+        }
+
+        <span style="color: #229986;">return</span> <span style="color: #95C72A;">isset</span>(<span style="color: #EDEBE6;">$this</span><span style="color: #229986;">-></span><span style="color: #EDEBE6;">instances</span>[<span style="color: #EDEBE6;">$abstract</span>]) <span style="color: #229986;">||</span> <span style="color: #EDEBE6;">$shared</span> <span style="color: #229986;">===</span> <span style="color: #95C72A;">true</span>;
+    }
+
+}
+</pre>

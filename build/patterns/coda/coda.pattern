@@ -1,0 +1,165 @@
+/*
+======================================================================
+{{ theme.name }}
+======================================================================
+A Sublime Text 2 / Textmate theme.
+Copyright (c) {{ year }} {{ theme.author }}.
+Released under the MIT License <http://opensource.org/licenses/MIT>
+======================================================================
+Find more themes at : https://github.com/daylerees/colour-schemes
+======================================================================
+*/
+
+comment {
+  color:{{ comment }};
+  font-style:italic;
+}
+
+constant.numeric {
+  color:{{ number }};
+}
+
+constant.numeric.keyword {
+  color:{{ fourth }};
+}
+
+keyword {
+  color:{{ fourth }};
+  font-weight:normal;
+}
+
+keyword.control {
+  font-weight:normal;
+}
+
+keyword.type {
+  font-weight:normal;
+}
+
+language.function {
+  color:{{ third }};
+}
+
+language.operator {
+  color:{{ fourth }};
+}
+
+language.property {
+  color:{{ second }};
+}
+
+language.variable {
+  color:{{ foreground }};
+}
+
+markup.comment {
+  color:{{ comment }};
+}
+
+markup.constant.entity {
+  color:{{ second }};
+}
+
+markup.declaration {
+  color:{{ comment }};
+}
+
+markup.inline.cdata {
+  color:{{ string }};
+}
+
+markup.processing {
+  color:{{ comment }};
+  font-style:italic;
+}
+
+markup.tag {
+  color:{{ first }};
+  font-weight:bold;
+}
+
+markup.tag.attribute.name {
+  color:{{ second }};
+  font-weight:normal;
+}
+
+markup.tag.attribute.value {
+  color:{{ string }};
+  font-weight:normal;
+}
+
+meta.default {
+  background-color:{{ background }};
+  color:{{ foreground }};
+}
+
+meta.highlight.currentline {
+  background-color:{{ line_highlight }};
+}
+
+meta.important {
+  color:{{ fourth }};
+}
+
+meta.invalid {
+  color:#e1583e;
+  font-weight:bold;
+}
+
+meta.invisible.characters {
+  color:#dd2400;
+}
+
+meta.link {
+  color:{{ string }};
+  font-underline:none;
+}
+
+string {
+  color:{{ string }};
+}
+
+string.regex {
+  color:{{ second }};
+}
+
+string.regex.escaped {
+  color:#355200;
+}
+
+style.at-rule {
+  color:#de7a31;
+  font-style:normal;
+  font-weight:bold;
+}
+
+style.comment {
+  color:{{ comment }};
+  font-style:italic;
+  font-weight:normal;
+}
+
+style.property.name {
+  color:{{ second }};
+}
+
+style.value.color.rgb-value {
+  color:{{ number }};
+}
+
+style.value.keyword {
+  color:{{ fourth }};
+}
+
+style.value.numeric {
+  color:{{ number }};
+}
+
+style.value.string {
+  color:{{ string }};
+}
+
+support {
+  color:{{ second }};
+}
+

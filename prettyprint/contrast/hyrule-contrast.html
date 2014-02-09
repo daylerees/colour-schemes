@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hyrule Contrast</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Hyrule Contrast
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-hyrule-contrast {
+  background-color: #0c0c0c;
+  padding: 2em;
+  font-size:.7em;
+  color: #c0d5c1;
+}
+
+pre.theme-hyrule-contrast code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-hyrule-contrast .pln {
+  color: #c0d5c1;
+}
+
+pre.theme-hyrule-contrast .str {
+  color: #ce830d;
+}
+pre.theme-hyrule-contrast .kwd {
+  color: #f5c504;
+}
+pre.theme-hyrule-contrast .com {
+  color: #716d6a;
+}
+pre.theme-hyrule-contrast .typ {
+  color: #569e16;
+}
+pre.theme-hyrule-contrast .lit {
+  color: #90c93f;
+}
+pre.theme-hyrule-contrast .pun,
+pre.theme-hyrule-contrast .opn,
+pre.theme-hyrule-contrast .clo {
+  color: #c0d5c1;
+}
+pre.theme-hyrule-contrast .tag {
+  color: #f5c504;
+}
+pre.theme-hyrule-contrast .atn {
+  color: #569e16;
+}
+pre.theme-hyrule-contrast .atv {
+  color: #90c93f;
+}
+pre.theme-hyrule-contrast .dec,
+pre.theme-hyrule-contrast .var {
+  color: #ce830d;
+}
+pre.theme-hyrule-contrast .fun {
+  color: #f5c504;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-hyrule-contrast' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-hyrule-contrast"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

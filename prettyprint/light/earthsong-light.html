@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Earthsong Light</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Earthsong Light
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-earthsong-light {
+  background-color: #ffffff;
+  padding: 2em;
+  font-size:.7em;
+  color: #4d463e;
+}
+
+pre.theme-earthsong-light code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-earthsong-light .pln {
+  color: #4d463e;
+}
+
+pre.theme-earthsong-light .str {
+  color: #F8BB39;
+}
+pre.theme-earthsong-light .kwd {
+  color: #95CC5E;
+}
+pre.theme-earthsong-light .com {
+  color: #d6cab9;
+}
+pre.theme-earthsong-light .typ {
+  color: #DB784D;
+}
+pre.theme-earthsong-light .lit {
+  color: #60A365;
+}
+pre.theme-earthsong-light .pun,
+pre.theme-earthsong-light .opn,
+pre.theme-earthsong-light .clo {
+  color: #4d463e;
+}
+pre.theme-earthsong-light .tag {
+  color: #95CC5E;
+}
+pre.theme-earthsong-light .atn {
+  color: #DB784D;
+}
+pre.theme-earthsong-light .atv {
+  color: #60A365;
+}
+pre.theme-earthsong-light .dec,
+pre.theme-earthsong-light .var {
+  color: #F8BB39;
+}
+pre.theme-earthsong-light .fun {
+  color: #95CC5E;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-earthsong-light' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-earthsong-light"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

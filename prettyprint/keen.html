@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Keen</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Keen
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-keen {
+  background-color: #111111;
+  padding: 2em;
+  font-size:.7em;
+  color: #cccccc;
+}
+
+pre.theme-keen code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-keen .pln {
+  color: #cccccc;
+}
+
+pre.theme-keen .str {
+  color: #b5db99;
+}
+pre.theme-keen .kwd {
+  color: #6F8B94;
+}
+pre.theme-keen .com {
+  color: #374c60;
+}
+pre.theme-keen .typ {
+  color: #8767b7;
+}
+pre.theme-keen .lit {
+  color: #b5db99;
+}
+pre.theme-keen .pun,
+pre.theme-keen .opn,
+pre.theme-keen .clo {
+  color: #cccccc;
+}
+pre.theme-keen .tag {
+  color: #6F8B94;
+}
+pre.theme-keen .atn {
+  color: #8767b7;
+}
+pre.theme-keen .atv {
+  color: #b5db99;
+}
+pre.theme-keen .dec,
+pre.theme-keen .var {
+  color: #b5db99;
+}
+pre.theme-keen .fun {
+  color: #6F8B94;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-keen' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-keen"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Slime Contrast</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Slime Contrast
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-slime-contrast {
+  background-color: #0b0c0d;
+  padding: 2em;
+  font-size:.7em;
+  color: #FFFFFF;
+}
+
+pre.theme-slime-contrast code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-slime-contrast .pln {
+  color: #FFFFFF;
+}
+
+pre.theme-slime-contrast .str {
+  color: #FAFFDB;
+}
+pre.theme-slime-contrast .kwd {
+  color: #d8e778;
+}
+pre.theme-slime-contrast .com {
+  color: #4F5A63;
+}
+pre.theme-slime-contrast .typ {
+  color: #6a9ec5;
+}
+pre.theme-slime-contrast .lit {
+  color: #d0b123;
+}
+pre.theme-slime-contrast .pun,
+pre.theme-slime-contrast .opn,
+pre.theme-slime-contrast .clo {
+  color: #FFFFFF;
+}
+pre.theme-slime-contrast .tag {
+  color: #d8e778;
+}
+pre.theme-slime-contrast .atn {
+  color: #6a9ec5;
+}
+pre.theme-slime-contrast .atv {
+  color: #d0b123;
+}
+pre.theme-slime-contrast .dec,
+pre.theme-slime-contrast .var {
+  color: #FAFFDB;
+}
+pre.theme-slime-contrast .fun {
+  color: #d8e778;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-slime-contrast' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-slime-contrast"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

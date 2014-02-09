@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Frontier</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Frontier
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-frontier {
+  background-color: #36312C;
+  padding: 2em;
+  font-size:.7em;
+  color: #F8F8F2;
+}
+
+pre.theme-frontier code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-frontier .pln {
+  color: #F8F8F2;
+}
+
+pre.theme-frontier .str {
+  color: #F8BB39;
+}
+pre.theme-frontier .kwd {
+  color: #2EBF7E;
+}
+pre.theme-frontier .com {
+  color: #7A7267;
+}
+pre.theme-frontier .typ {
+  color: #F23A3A;
+}
+pre.theme-frontier .lit {
+  color: #F8BB39;
+}
+pre.theme-frontier .pun,
+pre.theme-frontier .opn,
+pre.theme-frontier .clo {
+  color: #F8F8F2;
+}
+pre.theme-frontier .tag {
+  color: #2EBF7E;
+}
+pre.theme-frontier .atn {
+  color: #F23A3A;
+}
+pre.theme-frontier .atv {
+  color: #F8BB39;
+}
+pre.theme-frontier .dec,
+pre.theme-frontier .var {
+  color: #F8BB39;
+}
+pre.theme-frontier .fun {
+  color: #2EBF7E;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-frontier' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-frontier"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+
