@@ -1,3 +1,4 @@
+<h1 style="background-color:{{ line_highlight }}; color: {{ foreground }};">{{ theme.name }}</h1>
 <pre style="font-family:Monaco, monospace; padding:2em; background-color: {{ background }}; color: {{ foreground }};">
 &lt;?php
 
