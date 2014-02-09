@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Slime</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Slime
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-slime {
+  background-color: #292D30;
+  padding: 2em;
+  font-size:.7em;
+  color: #FFFFFF;
+}
+
+pre.theme-slime code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-slime .pln {
+  color: #FFFFFF;
+}
+
+pre.theme-slime .str {
+  color: #FAFFDB;
+}
+pre.theme-slime .kwd {
+  color: #FAFFDB;
+}
+pre.theme-slime .com {
+  color: #4F5A63;
+}
+pre.theme-slime .typ {
+  color: #9FB3C2;
+}
+pre.theme-slime .lit {
+  color: #C7AF3F;
+}
+pre.theme-slime .pun,
+pre.theme-slime .opn,
+pre.theme-slime .clo {
+  color: #FFFFFF;
+}
+pre.theme-slime .tag {
+  color: #FAFFDB;
+}
+pre.theme-slime .atn {
+  color: #9FB3C2;
+}
+pre.theme-slime .atv {
+  color: #C7AF3F;
+}
+pre.theme-slime .dec,
+pre.theme-slime .var {
+  color: #FAFFDB;
+}
+pre.theme-slime .fun {
+  color: #FAFFDB;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-slime' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-slime"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

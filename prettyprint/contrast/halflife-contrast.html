@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Halflife Contrast</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Halflife Contrast
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-halflife-contrast {
+  background-color: #000000;
+  padding: 2em;
+  font-size:.7em;
+  color: #cccccc;
+}
+
+pre.theme-halflife-contrast code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-halflife-contrast .pln {
+  color: #cccccc;
+}
+
+pre.theme-halflife-contrast .str {
+  color: #F9D423;
+}
+pre.theme-halflife-contrast .kwd {
+  color: #FC913A;
+}
+pre.theme-halflife-contrast .com {
+  color: #555555;
+}
+pre.theme-halflife-contrast .typ {
+  color: #7D8991;
+}
+pre.theme-halflife-contrast .lit {
+  color: #F9D423;
+}
+pre.theme-halflife-contrast .pun,
+pre.theme-halflife-contrast .opn,
+pre.theme-halflife-contrast .clo {
+  color: #cccccc;
+}
+pre.theme-halflife-contrast .tag {
+  color: #FC913A;
+}
+pre.theme-halflife-contrast .atn {
+  color: #7D8991;
+}
+pre.theme-halflife-contrast .atv {
+  color: #F9D423;
+}
+pre.theme-halflife-contrast .dec,
+pre.theme-halflife-contrast .var {
+  color: #F9D423;
+}
+pre.theme-halflife-contrast .fun {
+  color: #FC913A;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-halflife-contrast' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-halflife-contrast"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

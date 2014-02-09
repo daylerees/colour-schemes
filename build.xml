@@ -2,37 +2,23 @@
 
     <!-- Refresh destination directories. -->
     <target name="clean">
+        <delete dir="${basedir}/sublime"/>
         <delete dir="${basedir}/vim"/>
-        <delete dir="${basedir}/intellij"/>
-        <delete dir="${basedir}/kate"/>
-        <delete dir="${basedir}/jedit"/>
+        <delete dir="${basedir}/preview"/>
+        <delete dir="${basedir}/prettyprint"/>
+        <delete dir="${basedir}/coda"/>
+        <delete dir="${basedir}/jetbrains"/>
+        <delete dir="${basedir}/bootstrap"/>
     </target>
 
-    <target name="vim">
-        <exec dir="${basedir}/build" executable="/bin/bash" failonerror="false">
-            <arg line="generate-vim.sh"></arg>
-        </exec>
-    </target>
-
-    <target name="intellij">
-        <exec dir="${basedir}/build" executable="/bin/bash" failonerror="false">
-            <arg line="generate-intellij.sh"></arg>
-        </exec>
-    </target>
-
-    <target name="jedit">
-        <exec dir="${basedir}/build" executable="/bin/bash" failonerror="false">
-            <arg line="generate-jedit.sh"></arg>
-        </exec>
-    </target>
-
-    <target name="kate">
-        <exec dir="${basedir}/build" executable="/bin/bash" failonerror="false">
-            <arg line="generate-kate.sh"></arg>
+    <!-- Generate themes. -->
+    <target name="generate">
+        <exec dir="${basedir}/build" executable="php" failonerror="true">
+            <arg line="schemes.php"></arg>
         </exec>
     </target>
 
     <!-- Execute the build process. -->
-    <target name="build" depends="clean,vim,intellij,kate,jedit"/>
+    <target name="build" depends="clean, generate"/>
 
 </project>

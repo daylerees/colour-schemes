@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Snappy Light",
+        "description":      "Snappy Light.",
+        "author":           "Dayle Rees",
+        "slug":             "snappy-light",
+        "dir":              "light"
+    },
+
+    "background":               "#ffffff",
+    "foreground":               "#555555",
+    "first":                    "#4ea1df",
+    "second":                   "#f66153",
+    "third":                    "#808dd3",
+    "fourth":                   "#da564a",
+    "fifth":                    "#606aa1",
+    "comment":                  "#bbbbbb",
+    "string":                   "#4ea1df",
+    "number":                   "#4ea1df",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#808dd3",
+    "selection_border":         "#ffffff",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#eeeeee",
+    "caret":                    "#444444",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#808dd3",
+    "bracket_content":          "#f66153",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#7d7d7d"
+}

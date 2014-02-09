@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mud Contrast</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Mud Contrast
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-mud-contrast {
+  background-color: #0d0b0b;
+  padding: 2em;
+  font-size:.7em;
+  color: #ffffff;
+}
+
+pre.theme-mud-contrast code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-mud-contrast .pln {
+  color: #ffffff;
+}
+
+pre.theme-mud-contrast .str {
+  color: #b5db99;
+}
+pre.theme-mud-contrast .kwd {
+  color: #f2c12f;
+}
+pre.theme-mud-contrast .com {
+  color: #524343;
+}
+pre.theme-mud-contrast .typ {
+  color: #f55239;
+}
+pre.theme-mud-contrast .lit {
+  color: #8ee350;
+}
+pre.theme-mud-contrast .pun,
+pre.theme-mud-contrast .opn,
+pre.theme-mud-contrast .clo {
+  color: #ffffff;
+}
+pre.theme-mud-contrast .tag {
+  color: #f2c12f;
+}
+pre.theme-mud-contrast .atn {
+  color: #f55239;
+}
+pre.theme-mud-contrast .atv {
+  color: #8ee350;
+}
+pre.theme-mud-contrast .dec,
+pre.theme-mud-contrast .var {
+  color: #b5db99;
+}
+pre.theme-mud-contrast .fun {
+  color: #f2c12f;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-mud-contrast' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-mud-contrast"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

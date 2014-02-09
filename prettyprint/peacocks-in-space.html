@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Peacocks In Space</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Peacocks In Space
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-peacocks-in-space {
+  background-color: #2b303b;
+  padding: 2em;
+  font-size:.7em;
+  color: #dee3ec;
+}
+
+pre.theme-peacocks-in-space code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-peacocks-in-space .pln {
+  color: #dee3ec;
+}
+
+pre.theme-peacocks-in-space .str {
+  color: #BCD42A;
+}
+pre.theme-peacocks-in-space .kwd {
+  color: #26A6A6;
+}
+pre.theme-peacocks-in-space .com {
+  color: #6e7a94;
+}
+pre.theme-peacocks-in-space .typ {
+  color: #FF5D38;
+}
+pre.theme-peacocks-in-space .lit {
+  color: #BCD42A;
+}
+pre.theme-peacocks-in-space .pun,
+pre.theme-peacocks-in-space .opn,
+pre.theme-peacocks-in-space .clo {
+  color: #dee3ec;
+}
+pre.theme-peacocks-in-space .tag {
+  color: #26A6A6;
+}
+pre.theme-peacocks-in-space .atn {
+  color: #FF5D38;
+}
+pre.theme-peacocks-in-space .atv {
+  color: #BCD42A;
+}
+pre.theme-peacocks-in-space .dec,
+pre.theme-peacocks-in-space .var {
+  color: #BCD42A;
+}
+pre.theme-peacocks-in-space .fun {
+  color: #26A6A6;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-peacocks-in-space' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-peacocks-in-space"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

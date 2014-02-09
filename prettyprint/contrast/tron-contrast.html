@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tron Contrast</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Tron Contrast
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-tron-contrast {
+  background-color: #07090b;
+  padding: 2em;
+  font-size:.7em;
+  color: #aec2e0;
+}
+
+pre.theme-tron-contrast code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-tron-contrast .pln {
+  color: #aec2e0;
+}
+
+pre.theme-tron-contrast .str {
+  color: #6ee2ff;
+}
+pre.theme-tron-contrast .kwd {
+  color: #267fb5;
+}
+pre.theme-tron-contrast .com {
+  color: #324357;
+}
+pre.theme-tron-contrast .typ {
+  color: #ffffff;
+}
+pre.theme-tron-contrast .lit {
+  color: #ffffff;
+}
+pre.theme-tron-contrast .pun,
+pre.theme-tron-contrast .opn,
+pre.theme-tron-contrast .clo {
+  color: #aec2e0;
+}
+pre.theme-tron-contrast .tag {
+  color: #267fb5;
+}
+pre.theme-tron-contrast .atn {
+  color: #ffffff;
+}
+pre.theme-tron-contrast .atv {
+  color: #ffffff;
+}
+pre.theme-tron-contrast .dec,
+pre.theme-tron-contrast .var {
+  color: #6ee2ff;
+}
+pre.theme-tron-contrast .fun {
+  color: #267fb5;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-tron-contrast' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-tron-contrast"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

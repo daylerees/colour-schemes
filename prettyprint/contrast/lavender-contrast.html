@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lavender Contrast</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Lavender Contrast
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-lavender-contrast {
+  background-color: #080709;
+  padding: 2em;
+  font-size:.7em;
+  color: #E0CEED;
+}
+
+pre.theme-lavender-contrast code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-lavender-contrast .pln {
+  color: #E0CEED;
+}
+
+pre.theme-lavender-contrast .str {
+  color: #F5B0EF;
+}
+pre.theme-lavender-contrast .kwd {
+  color: #A29DFA;
+}
+pre.theme-lavender-contrast .com {
+  color: #614e6e;
+}
+pre.theme-lavender-contrast .typ {
+  color: #B657FF;
+}
+pre.theme-lavender-contrast .lit {
+  color: #F5B0EF;
+}
+pre.theme-lavender-contrast .pun,
+pre.theme-lavender-contrast .opn,
+pre.theme-lavender-contrast .clo {
+  color: #E0CEED;
+}
+pre.theme-lavender-contrast .tag {
+  color: #A29DFA;
+}
+pre.theme-lavender-contrast .atn {
+  color: #B657FF;
+}
+pre.theme-lavender-contrast .atv {
+  color: #F5B0EF;
+}
+pre.theme-lavender-contrast .dec,
+pre.theme-lavender-contrast .var {
+  color: #F5B0EF;
+}
+pre.theme-lavender-contrast .fun {
+  color: #A29DFA;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-lavender-contrast' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-lavender-contrast"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+
