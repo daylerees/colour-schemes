@@ -1,6 +1,6 @@
 # Colour Schemes by Dayle Rees.
 
-<script data-gittip-username="daylerees" src="//gttp.co/v1.js"></script>
+[![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.1.0/dist/gittip.png)](https://www.gittip.com/daylerees)
 
 Hi there! My name's Dayle Rees and I'm one of the Laravel PHP framework team. Part of the Laravel mentality is that coding should be enjoyable for the developer and not just for the client receiving your hard work. For this reason, I'd like to share with you a number of themes for some popular text editors that will hopefully be pleasing to your eyes and allow you to enjoy the time you spend in front of the screen.
 
