@@ -487,6 +487,19 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <string>normal</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>Coffeescript Function argument</string>
+            <key>scope</key>
+            <string>variable.parameter.function.coffee</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#4ea1df</string>
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>f95e005b-d9eb-f5b6-9a70-38262a6c2180</string>
