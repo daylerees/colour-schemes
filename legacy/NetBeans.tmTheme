@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>NetBeans</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#EEEEEEEB</string>
+				<key>caret</key>
+				<string>#000000</string>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>invisibles</key>
+				<string>#B3B3B3F4</string>
+				<key>lineHighlight</key>
+				<string>#0000001A</string>
+				<key>selection</key>
+				<string>#BAD6FD</string>
+			</dict>
+		</dict>
+		<!-- Common -->
+		<dict>
+			<key>name</key>
+			<string>Class name</string>
+			<key>scope</key>
+			<string>entity.name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#969696</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function name</string>
+			<key>scope</key>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D27B00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag Begin/End</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag.begin, punctuation.definition.tag.end</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag Name</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag Attribute</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#009900</string>
+			</dict>
+		</dict>
+		<!-- CSS -->
+		<dict>
+			<key>name</key>
+			<string>CSS: Tag</string>
+			<key>scope</key>
+			<string>entity.name.tag.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#009900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Identificator</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.id.css, entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#009900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Class</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#009900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Pseudo Class</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Property Name</string>
+			<key>scope</key>
+			<string>support.type.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Property Value</string>
+			<key>scope</key>
+			<string>support.constant.property-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Numeric Value</string>
+			<key>scope</key>
+			<string>constant.numeric.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Value Units</string>
+			<key>scope</key>
+			<string>keyword.other.unit.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000066</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Function</string>
+			<key>scope</key>
+			<string>support.function.misc.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000066</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Function Args</string>
+			<key>scope</key>
+			<string>variable.parameter.misc.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D27B00</string>
+			</dict>
+		</dict>
+		<!-- HTML -->
+		<dict>
+			<key>name</key>
+			<string>Tag Begin/End</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<!-- Java -->
+		<dict>
+			<key>name</key>
+			<string>Java: Annotation</string>
+			<key>scope</key>
+			<string>storage.type.annotation.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java: Class Name</string>
+			<key>scope</key>
+			<string>entity.name.type.class.java</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java: Function Name</string>
+			<key>scope</key>
+			<string>entity.name.function.java</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java: Javadoc</string>
+			<key>scope</key>
+			<string>keyword.other.documentation.param.javadoc, keyword.other.documentation.return.javadoc, keyword.other.documentation.throws.javadoc, keyword.other.documentation.exception.javadoc, keyword.other.documentation.author.javadoc, keyword.other.documentation.version.javadoc, keyword.other.documentation.see.javadoc, keyword.other.documentation.since.javadoc, keyword.other.documentation.serial.javadoc, keyword.other.documentation.serialField.javadoc, keyword.other.documentation.serialData.javadoc, keyword.other.documentation.deprecated.javadoc, keyword.other.documentation.custom.javadoc</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#969696</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java: Keyword</string>
+			<key>scope</key>
+			<string>constant.language.java, variable.language.java, storage.modifier.extends.java, storage.modifier.implements.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java: Modifier</string>
+			<key>scope</key>
+			<string>storage.modifier.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java: Symbol Operators</string>
+			<key>scope</key>
+			<string>keyword.conditional.java, keyword.operator.arithmetic.java, keyword.operator.assignment.java, keyword.operator.comparison.java, keyword.operator.dereference.java, keyword.operator.increment-decrement.java, keyword.operator.logical.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java: Primitiv</string>
+			<key>scope</key>
+			<string>storage.type.primitive.java, storage.type.primitive.array.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<!-- JavaScript -->
+		<dict>
+			<key>name</key>
+			<string>JavaScript: Function Name</string>
+			<key>scope</key>
+			<string>entity.name.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JavaScript: Keyword</string>
+			<key>scope</key>
+			<string>storage.type.js, storage.modifier.js, storage.type.function.js, constant.language.js, constant.language.boolean.true.js, constant.language.boolean.false.js, constant.language.null.js, variable.language.js, keyword.reserved.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JavaScript: Symbol Operators</string>
+			<key>scope</key>
+			<string>keyword.operator.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<!-- JSP -->
+		<dict>
+			<key>name</key>
+			<string>JSP: Directive</string>
+			<key>scope</key>
+			<string>keyword.other.directive.jsp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSP: Directive Assignment</string>
+			<key>scope</key>
+			<string>keyword.operator.assignment.jsp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSP: Directive Attribute</string>
+			<key>scope</key>
+			<string>constant.other.directive.attribute.jsp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#009900</string>
+			</dict>
+		</dict>
+		<!-- TODO -->
+		<dict>
+			<key>name</key>
+			<string>TODO: Filename</string>
+			<key>scope</key>
+			<string>entity.name.filename.todo-list</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TODO: Number</string>
+			<key>scope</key>
+			<string>constant.numeric.item-number.todo-list, constant.numeric.line-number.todo-list</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#990099</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>B21D6240-8F97-11E2-9E96-0800200C9A66</string>
+</dict>
+</plist>
