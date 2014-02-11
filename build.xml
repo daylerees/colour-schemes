@@ -3,7 +3,7 @@
     <!-- Refresh destination directories. -->
     <target name="clean">
         <delete dir="${basedir}/sublime"/>
-        <delete dir="${basedir}/vim"/>
+        <delete dir="${basedir}/vim/colors"/>
         <delete dir="${basedir}/preview"/>
         <delete dir="${basedir}/prettyprint"/>
         <delete dir="${basedir}/coda"/>
