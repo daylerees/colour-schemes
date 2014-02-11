@@ -9,6 +9,7 @@
         <delete dir="${basedir}/coda"/>
         <delete dir="${basedir}/jetbrains"/>
         <delete dir="${basedir}/bootstrap"/>
+        <delete dir="${basedir}/screenshots"/>
     </target>
 
     <!-- Generate themes. -->
@@ -18,7 +19,14 @@
         </exec>
     </target>
 
+    <!-- Generate screenshots. -->
+    <target name="screenshots">
+        <exec dir="${basedir}/build" executable="php" failonerror="true">
+            <arg line="screenshots.php"></arg>
+        </exec>
+    </target>
+
     <!-- Execute the build process. -->
-    <target name="build" depends="clean, generate"/>
+    <target name="build" depends="clean, generate, screenshots"/>
 
 </project>
