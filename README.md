@@ -1,4 +1,4 @@
-§# Colour Schemes by Dayle Rees.
+# Colour Schemes by Dayle Rees.
 
 [![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.1.0/dist/gittip.png)](https://www.gittip.com/daylerees)
 
