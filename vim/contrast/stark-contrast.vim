@@ -2,7 +2,7 @@
 " Stark Contrast
 " ======================================================================
 " A Sublime Text 2 / Textmate theme.
-" Copyright (c) 2014 Dayle Rees.
+" Copyright (c)  Dayle Rees.
 " Released under the MIT License <http://opensource.org/licenses/MIT>
 " ======================================================================
 " Find more themes at : https://github.com/daylerees/colour-schemes
@@ -101,5 +101,5 @@ hi link htmlH6 htmlH5
 " And finally.
 
 let g:colors_name = "Stark Contrast"
-let colors_name   = "theme.name"
+let colors_name   = "Stark Contrast"
 

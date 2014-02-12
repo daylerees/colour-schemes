@@ -243,7 +243,7 @@ class Processor
         // Build path array from directory locations.
         $path[] = $this->config->dir('output');
         $path[] = $pattern->get('directory');
-        $path[] = $theme->get('directory');
+        $path[] = $theme->get('theme.dir');
         $path[] = $template->get('directory');
         $path[] = $theme->get('theme.slug').$template->get('extension');
 
