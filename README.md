@@ -22,6 +22,21 @@ Instead of spamming this readme file with a thousand screenshots, I've created a
 
 [Colour Schemes Demo Page](http://daylerees.github.io/)
 
+## Compatibility
+
+Themes in this package are generated from a custom theme file. They must be mapped once for each editor. The mapping process varies upon the editor, and for that reason some editors are considered very WIP. Don't worry. We'll get there.
+
+Scheme type                                | Compatibility %
+------------------------------------------ | ------------------------
+Sublime Text (Colour Schemes)              | 98%
+Sublime Text (UI Themes)                   | 90%
+Coda                                       | 90%
+Jetbrains (inc PHPStorm)                   | 60%
+Bootstrap (Variables)                      | 80%
+VIM                                        | 70%
+Google Pretty Print                        | 95%
+HTML Previews                              | 100%
+
 ## Installation
 
 Installation of the colour schemes depends greatly upon the type of software that you intend to use them with. Here are the guides for common editors and libraries.
