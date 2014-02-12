@@ -2,7 +2,7 @@
 " Stark
 " ======================================================================
 " A Sublime Text 2 / Textmate theme.
-" Copyright (c)  Dayle Rees.
+" Copyright (c) 2014 Dayle Rees.
 " Released under the MIT License <http://opensource.org/licenses/MIT>
 " ======================================================================
 " Find more themes at : https://github.com/daylerees/colour-schemes

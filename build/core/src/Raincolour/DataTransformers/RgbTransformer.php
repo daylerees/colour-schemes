@@ -42,6 +42,8 @@ class RgbTransformer implements TransformerInterface
             $data['ui_bg'] = $data['background'];
         }
 
+        $data['year'] = date('Y');
+
         $md5 = md5($data['theme']['name']);
         $md5 = substr_replace($md5, '-', 20, 0);
         $md5 = substr_replace($md5, '-', 16, 0);
