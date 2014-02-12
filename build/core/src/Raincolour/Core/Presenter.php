@@ -151,6 +151,13 @@ class Presenter
         return call_user_func_array([$this->theme, 'first'], $params);
     }
 
+    /**
+     * Twig helper for sublime theme RGB values.
+     *
+     * @param  string  $key
+     * @param  integer $amount
+     * @return string
+     */
     public function uiHelper($key, $amount = 0)
     {
         $r = $this->minMax($this->theme->get($key.'_r') + $amount);
@@ -160,6 +167,12 @@ class Presenter
         return "[{$r}, {$g}, {$b}]";
     }
 
+    /**
+     * Helper to ensure RGB values don't wrap.
+     *
+     * @param  int $value
+     * @return int
+     */
     public function minMax($value)
     {
         if ($value > 255) {

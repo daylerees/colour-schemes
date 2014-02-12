@@ -4,8 +4,18 @@ namespace Raincolour\DataTransformers;
 
 class RgbTransformer implements TransformerInterface
 {
+    /**
+     * Transform theme data.
+     *
+     * @param  array $data
+     * @return array
+     */
     public function transform($data)
     {
+        // All transformers are in here right now.
+        // Will split them up soon.
+
+
         // Iterate data.
         foreach ($data as $key => $value) {
 
@@ -38,12 +48,15 @@ class RgbTransformer implements TransformerInterface
 
         }
 
+        // Set the UI background if it isn't present.
         if(!isset($data['ui_bg'])) {
             $data['ui_bg'] = $data['background'];
         }
 
+        // Set the current year for copyrights.
         $data['year'] = date('Y');
 
+        // Create a UUID for the sublime text themes.
         $md5 = md5($data['theme']['name']);
         $md5 = substr_replace($md5, '-', 20, 0);
         $md5 = substr_replace($md5, '-', 16, 0);
