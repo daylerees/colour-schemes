@@ -7,6 +7,9 @@ Copyright (c) 2014 Dayle Rees.
 ===============================
 */
 
+// Global theme array. Time to OO this me thinks.
+$theme = array();
+
 // Include composer autoloader.
 require __DIR__.'/vendor/autoload.php';
 
@@ -35,6 +38,39 @@ $patternDirs = array(
  * @var string
  */
 $outputDir = __DIR__.'/../';
+
+/**
+ * Get an RGB value with a modifier.
+ *
+ * @param  string  $key
+ * @param  integer $modifier
+ * @return string
+ */
+function uiHelper($key, $modifier = 0)
+{
+    global $theme;
+    $r = minMax($theme[$key.'_r'] + $modifier);
+    $g = minMax($theme[$key.'_g'] + $modifier);
+    $b = minMax($theme[$key.'_b'] + $modifier);
+    return "[{$r}, {$g}, {$b}]";
+}
+
+/**
+ * Ensure a value is between 0 and 255.
+ *
+ * @param  int $val
+ * @return int
+ */
+function minMax($val)
+{
+    if ($val > 255) {
+        return 255;
+    } elseif ($val < 0) {
+        return 0;
+    } else {
+        return $val;
+    }
+}
 
 /**
  * Glob an array of directories into a single result.
@@ -91,6 +127,18 @@ function hashLessify(array $theme)
         if (!is_array($value) && substr($value, 0, 1) === '#') {
             $without = ltrim($value, '#');
             $theme[$key.'_h'] = $without;
+
+            $hex = $without;
+
+            if(strlen($hex) == 3) {
+                $theme[$key.'_r'] = hexdec(substr($hex,0,1).substr($hex,0,1));
+                $theme[$key.'_g'] = hexdec(substr($hex,1,1).substr($hex,1,1));
+                $theme[$key.'_b'] = hexdec(substr($hex,2,1).substr($hex,2,1));
+            } else {
+                $theme[$key.'_r'] = hexdec(substr($hex,0,2));
+                $theme[$key.'_g'] = hexdec(substr($hex,2,2));
+                $theme[$key.'_b'] = hexdec(substr($hex,4,2));
+            }
         }
     }
     return $theme;
@@ -108,6 +156,10 @@ function renderTwig($source, array $data = array())
     $loader = new Twig_Loader_String();
     $twig   = new Twig_Environment($loader);
 
+
+    $function = new Twig_SimpleFunction('ui', 'uiHelper');
+    $twig->addFunction($function);
+
     return $twig->render($source, $data);
 }
 
@@ -115,6 +167,8 @@ function renderTwig($source, array $data = array())
 
 // Iterate theme directories.
 foreach (globArray($themeDirs) as $themePath) {
+
+    global $theme;
 
     // Load theme configuration.
     $theme = readJson($themePath);
@@ -124,6 +178,10 @@ foreach (globArray($themeDirs) as $themePath) {
 
     // Add UUID for sublime themes.
     $theme['uuid'] = generateUuid($theme['theme']['name']);
+
+    if (! isset($theme['ui_bg'])) {
+        $theme['ui_bg'] = $theme['background'];
+    }
 
     // Include non-hashed colours.
     $theme = hashLessify($theme);

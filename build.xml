@@ -10,6 +10,7 @@
         <delete dir="${basedir}/jetbrains"/>
         <delete dir="${basedir}/bootstrap"/>
         <delete dir="${basedir}/screenshots"/>
+        <delete dir="${basedir}/sublimeui"/>
     </target>
 
     <!-- Generate themes. -->

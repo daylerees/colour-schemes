@@ -1,4 +1,4 @@
-# Colour Schemes by Dayle Rees.
+§# Colour Schemes by Dayle Rees.
 
 [![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.1.0/dist/gittip.png)](https://www.gittip.com/daylerees)
 
@@ -92,6 +92,24 @@ Save and re-launch vim to use, enjoy!
 ### IntelliJ
 
 See the documentation for your editor, this varies between each one!
+
+### Sublime UI Themes
+
+**WARNING**: These are work in progress. Light themes will not work. Some themes may look strange.
+
+The Sublime UI themes are based on [Space Gray](http://kkga.github.io/spacegray/) by [kkga_](http://twitter.com/kkga_).
+
+The above theme **MUST** be installed before enabling my UI themes, since it uses its assets. You must also install this colour schemes package as per usual.
+
+Once `Space Gray` is installed (does not need to be active), add the following line to your user configuration file.
+
+    "theme": "<themename>.sublime-theme",
+
+Where `<themename>` is the lowercase filename of the theme located in the `/sublimeui` directory. Choose whichever theme you like, it doesn't need to match the colourscheme. For example:
+
+    "theme": "piggy.sublime-theme",
+
+Enjoy!
 
 ## Requests
 
