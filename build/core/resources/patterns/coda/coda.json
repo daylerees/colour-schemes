@@ -1,0 +1,13 @@
+{
+    "type":         "Coda 2 Theme",
+    "directory":       "coda",
+
+    "templates": [
+        {
+            "file":         "coda.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".sss"
+        }
+    ]
+}

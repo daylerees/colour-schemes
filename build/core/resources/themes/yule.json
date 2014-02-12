@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Yule",
+        "description":      "Yule.",
+        "author":           "Dayle Rees",
+        "slug":             "yule",
+        "type":             "dark"
+    },
+
+    "background":               "#2B2A27",
+    "foreground":               "#EDE0CE",
+    "first":                    "#39B81F",
+    "second":                   "#D63131",
+    "third":                    "#EBB626",
+    "fourth":                   "#39B81F",
+    "fifth":                    "#D63131",
+    "comment":                  "#7A7267",
+    "string":                   "#EBB626",
+    "number":                   "#EBB626",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#D63131",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#52504b",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#39B81F",
+    "bracket_content":          "#D63131",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#bdae9a"
+}

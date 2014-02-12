@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Frontier Contrast",
+        "description":      "Frontier.",
+        "author":           "Dayle Rees",
+        "slug":             "frontier-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#110f0e",
+    "foreground":               "#F8F8F2",
+    "first":                    "#2EBF7E",
+    "second":                   "#F23A3A",
+    "third":                    "#F8BB39",
+    "fourth":                   "#FC803D",
+    "fifth":                    "#2EBF7E",
+    "comment":                  "#7A7267",
+    "string":                   "#F8BB39",
+    "number":                   "#2EBF7E",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#2EBF7E",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#221f1c",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#2EBF7E",
+    "bracket_content":          "#F23A3A",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#a59a8a"
+}

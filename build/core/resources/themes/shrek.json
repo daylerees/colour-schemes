@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Shrek",
+        "description":      "Shrek.",
+        "author":           "Dayle Rees",
+        "slug":             "shrek",
+        "type":             "dark"
+    },
+
+    "background":               "#222222",
+    "foreground":               "#ffffff",
+    "first":                    "#B2DE62",
+    "second":                   "#857a5e",
+    "third":                    "#F0F2EB",
+    "fourth":                   "#bfb59b",
+    "fifth":                    "#B2DE62",
+    "comment":                  "#555555",
+    "string":                   "#81e911",
+    "number":                   "#81e911",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#857a5e",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#333333",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#cba0cd",
+    "bracket_content":          "#765478",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#777777",
+    "variables":                "#ffffff"
+}

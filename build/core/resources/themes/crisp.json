@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Crisp",
+        "description":      "Crisp.",
+        "author":           "Dayle Rees",
+        "slug":             "crisp",
+        "type":             "dark"
+    },
+
+    "background":               "#221a22",
+    "foreground":               "#ffffff",
+    "first":                    "#cba0cd",
+    "second":                   "#765478",
+    "third":                    "#FC6A0F",
+    "fourth":                   "#FC6A0F",
+    "fifth":                    "#cba0cd",
+    "comment":                  "#574457",
+    "string":                   "#fc9a0f",
+    "number":                   "#fc9a0f",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#FC6A0F",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#1c151c",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#cba0cd",
+    "bracket_content":          "#765478",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#776377",
+    "variables":                "#ffffff"
+}

@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Azure",
+        "description":      "Azure.",
+        "author":           "Dayle Rees",
+        "slug":             "azure",
+        "type":             "dark"
+    },
+
+    "background":               "#181D26",
+    "foreground":               "#ffffff",
+    "first":                    "#6AB0A3",
+    "second":                   "#52708b",
+    "third":                    "#508aaa",
+    "fourth":                   "#508aaa",
+    "fifth":                    "#6AB0A3",
+    "comment":                  "#414d62",
+    "string":                   "#64aeb3",
+    "number":                   "#64aeb3",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#47959a",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#33333c",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#c43535",
+    "bracket_content":          "#5f5582",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#5c6b86",
+    "variables":                "#ffffff"
+}

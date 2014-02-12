@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Sourlick Contrast",
+        "description":      "Sourlick.",
+        "author":           "Dayle Rees",
+        "slug":             "sourlick-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#060606",
+    "foreground":               "#DEDEDE",
+    "first":                    "#EDF252",
+    "second":                   "#8AC27A",
+    "third":                    "#BDF522",
+    "fourth":                   "#D2EB31",
+    "fifth":                    "#FFBB29",
+    "comment":                  "#615953",
+    "string":                   "#E4FF33",
+    "number":                   "#FC580C",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#518f0d",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#171615",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#FFBB29",
+    "bracket_content":          "#70C910",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#92867d"
+}

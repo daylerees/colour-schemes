@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Mud Contrast",
+        "description":      "Mud.",
+        "author":           "Dayle Rees",
+        "slug":             "mud-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#0d0b0b",
+    "foreground":               "#ffffff",
+    "first":                    "#f2c12f",
+    "second":                   "#f55239",
+    "third":                    "#8ee350",
+    "fourth":                   "#f8553c",
+    "fifth":                    "#eaba2c",
+    "comment":                  "#524343",
+    "string":                   "#b5db99",
+    "number":                   "#b5db99",
+    "selection_foreground":     "#4e653d",
+    "selection_background":     "#b5db99",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#171413",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#e9c865",
+    "bracket_content":          "#FF9787",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#e3d7d6"
+}

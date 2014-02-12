@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Snappy",
+        "description":      "Snappy.",
+        "author":           "Dayle Rees",
+        "slug":             "snappy",
+        "type":             "dark"
+    },
+
+    "background":               "#393939",
+    "foreground":               "#e3e2e0",
+    "first":                    "#4ea1df",
+    "second":                   "#f66153",
+    "third":                    "#808dd3",
+    "fourth":                   "#f66153",
+    "fifth":                    "#808dd3",
+    "comment":                  "#696969",
+    "string":                   "#4ea1df",
+    "number":                   "#4ea1df",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#f66153",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#282828",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#808dd3",
+    "bracket_content":          "#f66153",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#909090"
+}

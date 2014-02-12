@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Stark Contrast",
+        "description":      "Stark.",
+        "author":           "Dayle Rees",
+        "slug":             "stark-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#0b0a0a",
+    "foreground":               "#DEDEDE",
+    "first":                    "#FFBB29",
+    "second":                   "#F03113",
+    "third":                    "#F03113",
+    "fourth":                   "#aaaaaa",
+    "fifth":                    "#FFBB29",
+    "comment":                  "#615953",
+    "string":                   "#FFBB29",
+    "number":                   "#617FA0",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#F03113",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#181716",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#D1D1D1",
+    "bracket_content":          "#F03113",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#877d76"
+}

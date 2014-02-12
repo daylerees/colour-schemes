@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Mellow",
+        "description":      "Mellow.",
+        "author":           "Dayle Rees",
+        "slug":             "mellow",
+        "type":             "dark"
+    },
+
+    "background":               "#36312C",
+    "foreground":               "#F8F8F2",
+    "first":                    "#F2BC79",
+    "second":                   "#1F8181",
+    "third":                    "#F28972",
+    "fourth":                   "#F2BC79",
+    "fifth":                    "#F55D79",
+    "comment":                  "#7A7267",
+    "string":                   "#F8BB39",
+    "number":                   "#F8BB39",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#F55D79",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#45403B",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#F28972",
+    "bracket_content":          "#F55D79",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#a09688"
+}

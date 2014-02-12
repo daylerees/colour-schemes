@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Gloom Contrast",
+        "description":      "Gloom.",
+        "author":           "Dayle Rees",
+        "slug":             "gloom-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#0f120f",
+    "foreground":               "#D8EBE5",
+    "first":                    "#26A6A6",
+    "second":                   "#FF5D38",
+    "third":                    "#BCD42A",
+    "fourth":                   "#26A6A6",
+    "fifth":                    "#FF5D38",
+    "comment":                  "#4F6E64",
+    "string":                   "#BCD42A",
+    "number":                   "#BCD42A",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#FF5D38",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#1b211c",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#FF5D38",
+    "bracket_content":          "#26A6A6",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#668e81"
+}

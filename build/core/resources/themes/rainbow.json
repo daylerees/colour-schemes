@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Rainbow",
+        "description":      "Rainbow",
+        "author":           "Dayle Rees",
+        "slug":             "rainbow",
+        "type":             "dark"
+    },
+
+    "background":               "#16181a",
+    "foreground":               "#c7d0d9",
+    "first":                    "#B3CC57",
+    "second":                   "#EF746F",
+    "third":                    "#FFBE40",
+    "fourth":                   "#3fb4c5",
+    "fifth":                    "#f86f50",
+    "comment":                  "#424c55",
+    "string":                   "#c78feb",
+    "number":                   "#c78feb",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#B3CC57",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#403c37",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#EF746F",
+    "bracket_content":          "#B3CC57",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#5f6f7f",
+    "variables":                "#f4f7fa"
+}

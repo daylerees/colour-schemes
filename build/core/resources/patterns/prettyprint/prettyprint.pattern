@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ theme.name }}</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * {{ theme.name }}
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) {{ year }} {{ theme.author }}
+ */
+
+pre.theme-{{ theme.slug }} {
+  background-color: {{ background }};
+  padding: 2em;
+  font-size:.7em;
+  color: {{ foreground }};
+}
+
+pre.theme-{{ theme.slug }} code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-{{ theme.slug }} .pln {
+  color: {{ foreground }};
+}
+
+pre.theme-{{ theme.slug }} .str {
+  color: {{ string }};
+}
+pre.theme-{{ theme.slug }} .kwd {
+  color: {{ first }};
+}
+pre.theme-{{ theme.slug }} .com {
+  color: {{ comment }};
+}
+pre.theme-{{ theme.slug }} .typ {
+  color: {{ second }};
+}
+pre.theme-{{ theme.slug }} .lit {
+  color: {{ third }};
+}
+pre.theme-{{ theme.slug }} .pun,
+pre.theme-{{ theme.slug }} .opn,
+pre.theme-{{ theme.slug }} .clo {
+  color: {{ foreground }};
+}
+pre.theme-{{ theme.slug }} .tag {
+  color: {{ first }};
+}
+pre.theme-{{ theme.slug }} .atn {
+  color: {{ second }};
+}
+pre.theme-{{ theme.slug }} .atv {
+  color: {{ third }};
+}
+pre.theme-{{ theme.slug }} .dec,
+pre.theme-{{ theme.slug }} .var {
+  color: {{ string }};
+}
+pre.theme-{{ theme.slug }} .fun {
+  color: {{ first }};
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-{{ theme.slug }}' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-{{ theme.slug }}"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

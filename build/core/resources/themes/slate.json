@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Slate",
+        "description":      "Slate.",
+        "author":           "Dayle Rees",
+        "slug":             "slate",
+        "type":             "dark"
+    },
+
+    "background":               "#19191f",
+    "foreground":               "#ebebf4",
+    "first":                    "#566981",
+    "second":                   "#89A7B1",
+    "third":                    "#CBDAD5",
+    "fourth":                   "#566981",
+    "fifth":                    "#89A7B1",
+    "comment":                  "#515166",
+    "string":                   "#9eb2d9",
+    "number":                   "#9eb2d9",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#566981",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#2a2a33",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#566981",
+    "bracket_content":          "#89A7B1",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#686883"
+}

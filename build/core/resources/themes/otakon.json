@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Otakon",
+        "description":      "Otakon.",
+        "author":           "Dayle Rees",
+        "slug":             "otakon",
+        "type":             "dark"
+    },
+
+    "background":               "#171417",
+    "foreground":               "#f9f3f9",
+    "first":                    "#B1A6CA",
+    "second":                   "#F6E6EB",
+    "third":                    "#E484B2",
+    "fourth":                   "#CACBDD",
+    "fifth":                    "#F0B9D4",
+    "comment":                  "#515166",
+    "string":                   "#9eb2d9",
+    "number":                   "#9eb2d9",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#B1A6CA",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#332d33",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#B1A6CA",
+    "bracket_content":          "#E484B2",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#686883"
+}

@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Glowfish",
+        "description":      "Glowfish.",
+        "author":           "Dayle Rees",
+        "slug":             "glowfish",
+        "type":             "dark"
+    },
+
+    "background":               "#191f13",
+    "foreground":               "#6ea240",
+    "first":                    "#95CC5E",
+    "second":                   "#DB784D",
+    "third":                    "#60A365",
+    "fourth":                   "#D65940",
+    "fifth":                    "#95CC5E",
+    "comment":                  "#3c4e2d",
+    "string":                   "#F8BB39",
+    "number":                   "#95CC5E",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#DB784D",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#222a1a",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#DB784D",
+    "bracket_content":          "#95CC5E",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#67854f"
+}

@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Patriot Contrast",
+        "description":      "Patriot.",
+        "author":           "Dayle Rees",
+        "slug":             "patriot-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#0d0e0f",
+    "foreground":               "#CAD9E3",
+    "first":                    "#DE333C",
+    "second":                   "#2E6FD9",
+    "third":                    "#ffffff",
+    "fourth":                   "#BBBCC4",
+    "fifth":                    "#DE333C",
+    "comment":                  "#515E66",
+    "string":                   "#3790DE",
+    "number":                   "#2E6FD9",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#DE333C",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#191b1c",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#69ADB5",
+    "bracket_content":          "#25808A",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#798b96"
+}

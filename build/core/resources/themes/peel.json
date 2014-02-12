@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Peel",
+        "description":      "Peel",
+        "author":           "Dayle Rees",
+        "slug":             "peel",
+        "type":             "dark"
+    },
+
+    "background":               "#23201c",
+    "foreground":               "#EDEBE6",
+    "first":                    "#94C7B6",
+    "second":                   "#D3643B",
+    "third":                    "#D6E1C7",
+    "fourth":                   "#94C7B6",
+    "fifth":                    "#D3643B",
+    "comment":                  "#585146",
+    "string":                   "#f4d370",
+    "number":                   "#f4d370",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#D3643B",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#403c37",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#EF746F",
+    "bracket_content":          "#B3CC57",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#827766",
+    "variables":                "#EDEBE6"
+}

@@ -1,0 +1,13 @@
+{
+    "type":          "Sublime Text Theme",
+    "directory":     "sublime",
+
+    "templates": [
+        {
+            "file":         "sublime.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".tmTheme"
+        }
+    ]
+}

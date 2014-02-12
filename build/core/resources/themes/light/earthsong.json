@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Earthsong Light",
+        "description":      "Nothing to do with Michael Jackson.",
+        "author":           "Dayle Rees",
+        "slug":             "earthsong-light",
+        "dir":              "light",
+        "type":             "light"
+    },
+
+    "background":               "#ffffff",
+    "foreground":               "#4d463e",
+    "first":                    "#95CC5E",
+    "second":                   "#DB784D",
+    "third":                    "#60A365",
+    "fourth":                   "#DB784D",
+    "fifth":                    "#95CC5E",
+    "comment":                  "#d6cab9",
+    "string":                   "#F8BB39",
+    "number":                   "#F8BB39",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#60A365",
+    "selection_border":         "#ffffff",
+    "find_foreground":          "#ffffff",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#eeeeee",
+    "caret":                    "#111111",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#DB784D",
+    "bracket_content":          "#95CC5E",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#9a9082"
+}

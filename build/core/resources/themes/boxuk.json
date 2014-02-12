@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Box UK",
+        "description":      "Box UK.",
+        "author":           "Dayle Rees",
+        "slug":             "boxuk",
+        "type":             "dark"
+    },
+
+    "background":               "#ffffff",
+    "foreground":               "#414f5c",
+    "first":                    "#017c9d",
+    "second":                   "#019d76",
+    "third":                    "#15b8ae",
+    "fourth":                   "#017c9d",
+    "fifth":                    "#019d76",
+    "comment":                  "#b8b6b1",
+    "string":                   "#15b8ae",
+    "number":                   "#15b8ae",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#017c9d",
+    "selection_border":         "#ffffff",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#eeeeee",
+    "caret":                    "#222222",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#017c9d",
+    "bracket_content":          "#019d76",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#888888"
+}

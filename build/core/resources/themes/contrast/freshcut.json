@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "FreshCut Contrast",
+        "description":      "Freshcut.",
+        "author":           "Dayle Rees",
+        "slug":             "freshcut-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#000000",
+    "foreground":               "#F8F8F2",
+    "first":                    "#4ECDC4",
+    "second":                   "#00A8C6",
+    "third":                    "#AEE239",
+    "fourth":                   "#C8D7E8",
+    "fifth":                    "#4ECDC4",
+    "comment":                  "#737b84",
+    "string":                   "#e9ee00",
+    "number":                   "#8FBE00",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#008097",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#151515",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#4ECDC4",
+    "bracket_content":          "#00A8C6",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#939da8"
+}

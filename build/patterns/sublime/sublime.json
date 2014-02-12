@@ -1,5 +1,14 @@
 {
     "type":         "Sublime Text Theme",
     "folder":       "sublime",
-    "extension":    ".tmTheme"
+    "extension":    ".tmTheme",
+
+    "templates": [
+        {
+            "file":         "sublime.pattern",
+            "name":         "%theme.name%",
+            "directory":    "",
+            "extension":    "xml"
+        }
+    ]
 }

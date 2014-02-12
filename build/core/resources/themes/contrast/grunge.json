@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Grunge Contrast",
+        "description":      "Grunge.",
+        "author":           "Dayle Rees",
+        "slug":             "grunge-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#0c0c0a",
+    "foreground":               "#F8F8F2",
+    "first":                    "#D1F2A5",
+    "second":                   "#F56991",
+    "third":                    "#FFC48C",
+    "fourth":                   "#91A374",
+    "fifth":                    "#FFC48C",
+    "comment":                  "#5C634F",
+    "string":                   "#D1F2A5",
+    "number":                   "#F56991",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#F56991",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#1b1c18",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#FFC48C",
+    "bracket_content":          "#F56991",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#7f886f"
+}
