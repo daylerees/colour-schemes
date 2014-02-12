@@ -1,4 +1,4 @@
-§# Colour Schemes by Dayle Rees.
+# Colour Schemes by Dayle Rees.
 
 [![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.1.0/dist/gittip.png)](https://www.gittip.com/daylerees)
 
@@ -21,6 +21,21 @@ This package currently supports colour schemes for:
 Instead of spamming this readme file with a thousand screenshots, I've created a page where you can preview all of the schemes in HTML.
 
 [Colour Schemes Demo Page](http://daylerees.github.io/)
+
+## Compatibility
+
+Themes in this package are generated from a custom theme file. They must be mapped once for each editor. The mapping process varies upon the editor, and for that reason some editors are considered very WIP. Don't worry. We'll get there.
+
+Scheme type                                | Compatibility %
+------------------------------------------ | ------------------------
+Sublime Text (Colour Schemes)              | 98%
+Sublime Text (UI Themes)                   | 90%
+Coda                                       | 90%
+Jetbrains (inc PHPStorm)                   | 60%
+Bootstrap (Variables)                      | 80%
+VIM                                        | 70%
+Google Pretty Print                        | 95%
+HTML Previews                              | 100%
 
 ## Installation
 

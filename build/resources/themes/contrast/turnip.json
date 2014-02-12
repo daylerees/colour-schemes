@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Turnip Contrast",
+        "description":      "Mmm taste them turnips.",
+        "author":           "Dayle Rees",
+        "slug":             "turnip-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#080809",
+    "foreground":               "#EDE0CE",
+    "first":                    "#92B55F",
+    "second":                   "#487D76",
+    "third":                    "#E8DA5E",
+    "fourth":                   "#92B55F",
+    "fifth":                    "#487D76",
+    "comment":                  "#7A7267",
+    "string":                   "#E8DA5E",
+    "number":                   "#E8DA5E",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#487D76",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#1c1d1f",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#487D76",
+    "bracket_content":          "#92B55F",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#aea395"
+}

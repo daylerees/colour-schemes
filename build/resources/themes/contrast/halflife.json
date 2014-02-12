@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Halflife Contrast",
+        "description":      "Halflife.",
+        "author":           "Dayle Rees",
+        "slug":             "halflife-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#000000",
+    "foreground":               "#cccccc",
+    "first":                    "#FC913A",
+    "second":                   "#7D8991",
+    "third":                    "#F9D423",
+    "fourth":                   "#7D8991",
+    "fifth":                    "#F85931",
+    "comment":                  "#555555",
+    "string":                   "#F9D423",
+    "number":                   "#F9D423",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#F85931",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#151515",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#FC913A",
+    "bracket_content":          "#7D8991",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#808080"
+}

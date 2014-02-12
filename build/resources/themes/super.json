@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Super",
+        "description":      "Super.",
+        "author":           "Dayle Rees",
+        "slug":             "super",
+        "type":             "dark"
+    },
+
+    "background":               "#15191D",
+    "foreground":               "#ffffff",
+    "first":                    "#5d67ad",
+    "second":                   "#D60257",
+    "third":                    "#E45635",
+    "fourth":                   "#5d67ad",
+    "fifth":                    "#E45635",
+    "comment":                  "#465360",
+    "string":                   "#F7A21B",
+    "number":                   "#F7A21B",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#E45635",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#242b32",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#5d67ad",
+    "bracket_content":          "#E45635",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#64778a"
+}

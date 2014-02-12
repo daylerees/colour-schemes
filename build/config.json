@@ -1,0 +1,5 @@
+{
+    "themes":   "resources/themes",
+    "patterns": "resources/patterns",
+    "output":   "../"
+}

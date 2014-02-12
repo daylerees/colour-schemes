@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Goldfish",
+        "description":      "Goldfish.",
+        "author":           "Dayle Rees",
+        "slug":             "goldfish",
+        "type":             "dark"
+    },
+
+    "background":               "#2E3336",
+    "foreground":               "#F8F8F2",
+    "first":                    "#F38630",
+    "second":                   "#FA6900",
+    "third":                    "#69D2E7",
+    "fourth":                   "#A7DBD8",
+    "fifth":                    "#F38630",
+    "comment":                  "#505C63",
+    "string":                   "#f36e3a",
+    "number":                   "#f25619",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#F38630",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#465459",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#A7DBD8",
+    "bracket_content":          "#F38630",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#798891"
+}

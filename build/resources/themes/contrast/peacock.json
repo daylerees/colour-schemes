@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Peacock Contrast",
+        "description":      "Dayle's peacock sublime theme.",
+        "author":           "Dayle Rees",
+        "slug":             "peacock-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#0c0c0b",
+    "foreground":               "#ffffff",
+    "first":                    "#26a6a6",
+    "second":                   "#ff5d38",
+    "third":                    "#bcd42a",
+    "fourth":                   "#26A6A6",
+    "fifth":                    "#FF5D38",
+    "comment":                  "#555555",
+    "string":                   "#bcd42a",
+    "number":                   "#bcd42a",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#ff5d38",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#151513",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#26a6a6",
+    "bracket_content":          "#ff5d38",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#888888"
+}

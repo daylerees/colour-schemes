@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Userscape",
+        "description":      "Userscape.",
+        "author":           "Dayle Rees",
+        "slug":             "userscape",
+        "dir":              "light",
+        "type":             "light"
+    },
+
+    "background":               "#F5F8FC",
+    "foreground":               "#879BB0",
+    "first":                    "#A8C0E0",
+    "second":                   "#355B8C",
+    "third":                    "#E3BD14",
+    "fourth":                   "#808C9C",
+    "fifth":                    "#DE4D3A",
+    "comment":                  "#bbbbbb",
+    "string":                   "#E3BD14",
+    "number":                   "#DE4D3A",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#355B8C",
+    "selection_border":         "#ffffff",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#eeeeee",
+    "caret":                    "#444444",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#A8C0E0",
+    "bracket_content":          "#355B8C",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#7d7d7d"
+}

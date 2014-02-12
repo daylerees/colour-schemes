@@ -1,0 +1,13 @@
+{
+    "type":         "Code Prettify Theme",
+    "directory":       "prettyprint",
+
+    "templates": [
+        {
+            "file":         "prettyprint.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".html"
+        }
+    ]
+}

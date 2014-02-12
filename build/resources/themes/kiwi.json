@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Kiwi",
+        "description":      "Kiwi",
+        "author":           "Dayle Rees",
+        "slug":             "kiwi",
+        "type":             "dark"
+    },
+
+    "background":               "#161a19",
+    "foreground":               "#EDEBE6",
+    "first":                    "#229986",
+    "second":                   "#95C72A",
+    "third":                    "#0B6D5C",
+    "fourth":                   "#229986",
+    "fifth":                    "#95C72A",
+    "comment":                  "#354341",
+    "string":                   "#a1e6c1",
+    "number":                   "#a1e6c1",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#0B6D5C",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#282f2d",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#229986",
+    "bracket_content":          "#95C72A",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#5b7a75",
+    "variables":                "#EDEBE6"
+}

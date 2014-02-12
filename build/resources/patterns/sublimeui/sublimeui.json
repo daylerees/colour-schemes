@@ -1,0 +1,13 @@
+{
+    "type":         "Sublime Text UI",
+    "directory":       "sublimeui",
+
+    "templates": [
+        {
+            "file":         "sublimeui.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".sublime-theme"
+        }
+    ]
+}

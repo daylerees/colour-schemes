@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Solarflare Contrast",
+        "description":      "Solarflare",
+        "author":           "Dayle Rees",
+        "slug":             "solarflare-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#000000",
+    "foreground":               "#e3e2e0",
+    "first":                    "#FC913A",
+    "second":                   "#FF4E50",
+    "third":                    "#EDE574",
+    "fourth":                   "#FF4E50",
+    "fifth":                    "#FC913A",
+    "comment":                  "#777777",
+    "string":                   "#EDE574",
+    "number":                   "#FF4E50",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#FF4E50",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#151515",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#FC913A",
+    "bracket_content":          "#FF4E50",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#9b9b9b"
+}

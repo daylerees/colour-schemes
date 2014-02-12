@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Pastel",
+        "description":      "Pastel.",
+        "author":           "Dayle Rees",
+        "slug":             "pastel",
+        "type":             "dark"
+    },
+
+    "background":               "#222222",
+    "foreground":               "#eeeeee",
+    "first":                    "#9474a9",
+    "second":                   "#04C4A5",
+    "third":                    "#C56C6C",
+    "fourth":                   "#C5906C",
+    "fifth":                    "#E2E060",
+    "comment":                  "#444444",
+    "string":                   "#C56C6C",
+    "number":                   "#C56C6C",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#008D62",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#333333",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#9D8262",
+    "bracket_content":          "#008D62",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#666666"
+}

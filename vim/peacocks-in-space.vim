@@ -101,5 +101,5 @@ hi link htmlH6 htmlH5
 " And finally.
 
 let g:colors_name = "Peacocks In Space"
-let colors_name   = "theme.name"
+let colors_name   = "Peacocks In Space"
 

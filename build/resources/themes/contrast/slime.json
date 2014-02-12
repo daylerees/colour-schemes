@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Slime Contrast",
+        "description":      "Slime.",
+        "author":           "Dayle Rees",
+        "slug":             "slime-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#0b0c0d",
+    "foreground":               "#FFFFFF",
+    "first":                    "#d8e778",
+    "second":                   "#6a9ec5",
+    "third":                    "#d0b123",
+    "fourth":                   "#689dc5",
+    "fifth":                    "#dfbf29",
+    "comment":                  "#4F5A63",
+    "string":                   "#FAFFDB",
+    "number":                   "#C7AF3F",
+    "selection_foreground":     "#4e653d",
+    "selection_background":     "#C7AF3F",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#131516",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#8AB8A2",
+    "bracket_content":          "#C7AF3F",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#80919f"
+}

@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Darkside Contrast",
+        "description":      "Darkside Contrast.",
+        "author":           "Dayle Rees",
+        "slug":             "darkside-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#000000",
+    "foreground":               "#BABABA",
+    "first":                    "#1CC3E8",
+    "second":                   "#E8341C",
+    "third":                    "#68C244",
+    "fourth":                   "#F08D24",
+    "fifth":                    "#8E69C9",
+    "comment":                  "#494B4D",
+    "string":                   "#F2D42C",
+    "number":                   "#8E69C9",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#FF4E50",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#151515",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#68C244",
+    "bracket_content":          "#E8341C",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#696b6e"
+}

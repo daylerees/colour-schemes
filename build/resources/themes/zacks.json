@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Zacks",
+        "description":      "Dayle's zacks theme.",
+        "author":           "Dayle Rees",
+        "slug":             "zacks",
+        "type":             "dark"
+    },
+
+    "background":               "#222222",
+    "foreground":               "#f0f0f0",
+    "first":                    "#9c7ddb",
+    "second":                   "#ff6a38",
+    "third":                    "#bcd42a",
+    "fourth":                   "#ff6a38",
+    "fifth":                    "#9c7ddb",
+    "comment":                  "#777777",
+    "string":                   "#bcd42a",
+    "number":                   "#bcd42a",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#9c7ddb",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#333333",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#9c7ddb",
+    "bracket_content":          "#ff6a38",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#afafaf"
+}

@@ -1,0 +1,13 @@
+{
+    "type":            "Theme Preview",
+    "directory":       "preview",
+
+    "templates": [
+        {
+            "file":         "preview.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".html"
+        }
+    ]
+}

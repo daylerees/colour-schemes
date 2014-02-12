@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Mud",
+        "description":      "Mud.",
+        "author":           "Dayle Rees",
+        "slug":             "mud",
+        "type":             "dark"
+    },
+
+    "background":               "#403635",
+    "foreground":               "#ffffff",
+    "first":                    "#e9c865",
+    "second":                   "#FF9787",
+    "third":                    "#b5db99",
+    "fourth":                   "#FF9787",
+    "fifth":                    "#e9c865",
+    "comment":                  "#c3b8b7",
+    "string":                   "#b5db99",
+    "number":                   "#b5db99",
+    "selection_foreground":     "#4e653d",
+    "selection_background":     "#b5db99",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#322a29",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#e9c865",
+    "bracket_content":          "#FF9787",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#e3d7d6"
+}

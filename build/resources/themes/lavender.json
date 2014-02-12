@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Lavender",
+        "description":      "Lavender.",
+        "author":           "Dayle Rees",
+        "slug":             "lavender",
+        "type":             "dark"
+    },
+
+    "background":               "#29222E",
+    "foreground":               "#E0CEED",
+    "first":                    "#A29DFA",
+    "second":                   "#B657FF",
+    "third":                    "#F5B0EF",
+    "fourth":                   "#8E6DA6",
+    "fifth":                    "#8E69C9",
+    "comment":                  "#614e6e",
+    "string":                   "#F5B0EF",
+    "number":                   "#F25AE6",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#B657FF",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#3A2F42",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#A29DFA",
+    "bracket_content":          "#B657FF",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#9076a1"
+}

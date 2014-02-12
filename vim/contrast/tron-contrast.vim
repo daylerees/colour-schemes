@@ -101,5 +101,5 @@ hi link htmlH6 htmlH5
 " And finally.
 
 let g:colors_name = "Tron Contrast"
-let colors_name   = "theme.name"
+let colors_name   = "Tron Contrast"
 

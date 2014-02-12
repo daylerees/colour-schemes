@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Tribal",
+        "description":      "Tribal.",
+        "author":           "Dayle Rees",
+        "slug":             "tribal",
+        "type":             "dark"
+    },
+
+    "background":               "#19191d",
+    "foreground":               "#ffffff",
+    "first":                    "#c43535",
+    "second":                   "#5f5582",
+    "third":                    "#E0DDEB",
+    "fourth":                   "#5f5582",
+    "fifth":                    "#8f8aa2",
+    "comment":                  "#4a4a54",
+    "string":                   "#64aeb3",
+    "number":                   "#64aeb3",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#47959a",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#33333c",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#c43535",
+    "bracket_content":          "#5f5582",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#62626e",
+    "variables":                "#ffffff"
+}

@@ -1,0 +1,13 @@
+{
+    "type":         "VIM Colour Scheme",
+    "directory":       "vim",
+
+    "templates": [
+        {
+            "file":         "vim.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".vim"
+        }
+    ]
+}

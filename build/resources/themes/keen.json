@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Keen",
+        "description":      "Keen.",
+        "author":           "Dayle Rees",
+        "slug":             "keen",
+        "type":             "dark"
+    },
+
+    "background":               "#111111",
+    "foreground":               "#cccccc",
+    "first":                    "#6F8B94",
+    "second":                   "#8767b7",
+    "third":                    "#b5db99",
+    "fourth":                   "#6F8B94",
+    "fifth":                    "#8767b7",
+    "comment":                  "#374c60",
+    "string":                   "#b5db99",
+    "number":                   "#b5db99",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#8767b7",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#222222",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#6F8B94",
+    "bracket_content":          "#8767b7",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#56738e"
+}

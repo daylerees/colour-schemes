@@ -1,0 +1,13 @@
+{
+    "type":         "Jetbrains IDE Theme",
+    "directory":       "jetbrains",
+
+    "templates": [
+        {
+            "file":         "jetbrains.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".icls"
+        }
+    ]
+}

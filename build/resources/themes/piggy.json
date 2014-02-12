@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Piggy",
+        "description":      "Piggy",
+        "author":           "Dayle Rees",
+        "slug":             "piggy",
+        "type":             "dark"
+    },
+
+    "background":               "#1c1618",
+    "foreground":               "#EDEBE6",
+    "first":                    "#F52E62",
+    "second":                   "#FD6A5D",
+    "third":                    "#FF5D80",
+    "fourth":                   "#FD6A5D",
+    "fifth":                    "#F52E62",
+    "comment":                  "#3f3236",
+    "string":                   "#FF453E",
+    "number":                   "#FF453E",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#F52E62",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#34282c",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#F52E62",
+    "bracket_content":          "#FD6A5D",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#6a515a",
+    "variables":                "#EDEBE6"
+}

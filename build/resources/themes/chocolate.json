@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Chocolate",
+        "description":      "Chocolate.",
+        "author":           "Dayle Rees",
+        "slug":             "chocolate",
+        "type":             "dark"
+    },
+
+    "background":               "#150f08",
+    "foreground":               "#ffffff",
+    "first":                    "#8B6E46",
+    "second":                   "#CCB697",
+    "third":                    "#E2CDB0",
+    "fourth":                   "#B99768",
+    "fifth":                    "#8B6E46",
+    "comment":                  "#795431",
+    "string":                   "#F7A21B",
+    "number":                   "#F7A21B",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#8B6E46",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#362715",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#8B6E46",
+    "bracket_content":          "#CCB697",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#795431"
+}

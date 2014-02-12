@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Juicy Contrast",
+        "description":      "Juicy.",
+        "author":           "Dayle Rees",
+        "slug":             "juicy-contrast",
+        "dir":              "contrast",
+        "type":             "dark"
+    },
+
+    "background":               "#000000",
+    "foreground":               "#e3e2e0",
+    "first":                    "#FF4E50",
+    "second":                   "#3bc7b8",
+    "third":                    "#c3cb4c",
+    "fourth":                   "#EDB92E",
+    "fifth":                    "#F85931",
+    "comment":                  "#777777",
+    "string":                   "#3bc7b8",
+    "number":                   "#CE1836",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#FF4E50",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#151515",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#c3cb4c",
+    "bracket_content":          "#FF4E50",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#9b9b9b"
+}

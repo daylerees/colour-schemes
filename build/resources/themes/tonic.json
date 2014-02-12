@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Tonic",
+        "description":      "Tonic.",
+        "author":           "Dayle Rees",
+        "slug":             "tonic",
+        "type":             "dark"
+    },
+
+    "background":               "#2a2f31",
+    "foreground":               "#eeeeee",
+    "first":                    "#75A1A4",
+    "second":                   "#B8CD44",
+    "third":                    "#FD9F59",
+    "fourth":                   "#EF6E44",
+    "fifth":                    "#B8CD44",
+    "comment":                  "#4a5356",
+    "string":                   "#B8CD44",
+    "number":                   "#B8CD44",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#75A1A4",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#353b3e",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#9D8262",
+    "bracket_content":          "#008D62",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#67757a"
+}

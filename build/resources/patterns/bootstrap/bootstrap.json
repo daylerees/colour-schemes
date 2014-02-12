@@ -1,0 +1,13 @@
+{
+    "type":         "Bootstrap 3 Theme",
+    "directory":       "bootstrap",
+
+    "templates": [
+        {
+            "file":         "bootstrap.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".less"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "theme": {
+        "name":             "Carbonight",
+        "description":      "Carbonight.",
+        "author":           "Dayle Rees",
+        "slug":             "carbonight",
+        "type":             "dark"
+    },
+
+    "background":               "#2E2C2B",
+    "foreground":               "#B0B0B0",
+    "first":                    "#C4C4C4",
+    "second":                   "#8C8C8C",
+    "third":                    "#ffffff",
+    "fourth":                   "#eeeeee",
+    "fifth":                    "#ffffff",
+    "comment":                  "#423F3D",
+    "string":                   "#ffffff",
+    "number":                   "#B0B0B0",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#8C8C8C",
+    "selection_border":         "#222218",
+    "find_foreground":          "#000000",
+    "find_background":          "#ffe792",
+    "line_highlight":           "#3B3633",
+    "caret":                    "#f8f8f0",
+    "invisibles":               "#3b3a32",
+    "scope_guide":              "#9d550fb0",
+    "brackets":                 "#C4C4C4",
+    "bracket_content":          "#8C8C8C",
+    "invalid_foreground":       "#f8f8f0",
+    "invalid_background":       "#00a8c6",
+    "docblock":                 "#5c5856"
+}
