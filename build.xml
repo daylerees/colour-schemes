@@ -15,7 +15,7 @@
 
     <!-- Generate themes. -->
     <target name="generate" depends="clean">
-        <exec dir="${basedir}/build/core" executable="php" failonerror="true">
+        <exec dir="${basedir}/build" executable="php" failonerror="true">
             <arg line="run.php raincolour --ansi"></arg>
         </exec>
     </target>
