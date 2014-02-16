@@ -138,6 +138,9 @@ class Presenter
         $this->twig->addFunction($function);
         $function = new TwigFunction('ui', [$this, 'uiHelper']);
         $this->twig->addFunction($function);
+
+        $colour = new \Raincolour\Twig\Globals\Colour($this->theme->get());
+        $this->twig->addGlobal('colour', $colour);
     }
 
     /**

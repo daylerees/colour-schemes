@@ -87,7 +87,7 @@
         "parents": [{"class": "tab_control"}],
         "attributes": ["hover"],
         "layer0.opacity": 1,
-        "layer0.tint": [149, 194, 232] // 08
+        "layer0.tint": [12, 11, 11] // 08
     },
     {
         "class": "tab_close_button",
@@ -115,7 +115,7 @@
         "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
         "attributes": ["hover"],
         "layer0.opacity": 1,
-        "layer0.tint": [169, 214, 252] // 08
+        "layer0.tint": [32, 31, 31] // 08
     },
     {
         "class": "tab_close_button",
@@ -390,7 +390,7 @@
         "class": "label_control",
         "parents": [{"class": "button_control"}],
         "font.bold": true,
-        "color": [255, 255, 255] // 0C
+        "color": [255, 255, 255]// 0C
     },
 
 //
@@ -599,14 +599,14 @@
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.tint": [78, 93, 132] // 08
+        "layer0.tint": [255, 187, 41] // 08
     },
     {
         "class": "close_button",
         "attributes": ["dirty", "hover"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
-        "layer0.tint": [255, 207, 61] // 08
+        "layer0.tint": [255, 187, 41] // 08
     },
 
 //
@@ -750,7 +750,7 @@
         "fg": [22, 21, 21], // 03
         "match_fg": [2, 1, 1], // 04
         "selected_fg": [172, 171, 171], // 03
-        "selected_match_fg": [78, 93, 132] // 04
+        "selected_match_fg": [149, 194, 232] // 04
     },
     {
         "class": "quick_panel_score_label",

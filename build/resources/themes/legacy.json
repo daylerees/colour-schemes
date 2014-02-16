@@ -31,5 +31,6 @@
     "invalid_foreground":       "#f8f8f0",
     "invalid_background":       "#00a8c6",
     "docblock":                 "#4d6785",
-    "variables":                "#f1f6fb"
+    "variables":                "#f1f6fb",
+    "ui_first":                 "#267fb5"
 }
