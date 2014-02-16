@@ -110,7 +110,7 @@ See the documentation for your editor, this varies between each one!
 
 ### Sublime UI Themes
 
-**WARNING**: These are work in progress. Light themes will not work. Some themes may look strange.
+**WARNING**: These are work in progress. Some themes may look strange. Be sure to raise an issue though! :)
 
 The Sublime UI themes are based on [Space Gray](http://kkga.github.io/spacegray/) by [kkga_](http://twitter.com/kkga_).
 

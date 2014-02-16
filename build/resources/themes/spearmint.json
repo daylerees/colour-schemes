@@ -4,7 +4,7 @@
         "description":      "Spearmint.",
         "author":           "Dayle Rees",
         "slug":             "spearmint",
-        "type":             "dark"
+        "type":             "light"
     },
 
     "background":               "#E1F0EE",

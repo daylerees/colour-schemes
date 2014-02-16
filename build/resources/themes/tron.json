@@ -30,5 +30,6 @@
     "bracket_content":          "#ffffff",
     "invalid_foreground":       "#f8f8f0",
     "invalid_background":       "#00a8c6",
-    "docblock":                 "#4d6785"
+    "docblock":                 "#4d6785",
+    "ui_first":                 "#267fb5"
 }

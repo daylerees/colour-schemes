@@ -50,7 +50,7 @@
         "class": "tab_control",
         "attributes": ["selected"],
         "layer0.texture": "",
-        "layer0.tint": [255, 255, 255] // 00
+        "layer0.tint": [38, 127, 181] // 00
     },
     // Tab dirty state (close button hidden)
     {
@@ -87,7 +87,7 @@
         "parents": [{"class": "tab_control"}],
         "attributes": ["hover"],
         "layer0.opacity": 1,
-        "layer0.tint": [255, 255, 255] // 08
+        "layer0.tint": [20, 25, 31] // 08
     },
     {
         "class": "tab_close_button",
@@ -115,7 +115,7 @@
         "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
         "attributes": ["hover"],
         "layer0.opacity": 1,
-        "layer0.tint": [255, 255, 255] // 08
+        "layer0.tint": [40, 45, 51] // 08
     },
     {
         "class": "tab_close_button",
@@ -330,7 +330,7 @@
         "settings": ["overlay_scroll_bars"],
         "attributes": ["dark"],
         // "layer0.texture": "",
-        "layer0.tint": [255, 255, 255] // 02
+        "layer0.tint": [38, 127, 181] // 02
 
     },
     // Overlay light horizontal puck (for dark content)
@@ -339,7 +339,7 @@
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal","dark"],
         // "layer0.texture": "",
-        "layer0.tint": [255, 255, 255] // 02
+        "layer0.tint": [38, 127, 181] // 02
     },
 
 //
@@ -390,7 +390,7 @@
         "class": "label_control",
         "parents": [{"class": "button_control"}],
         "font.bold": true,
-        "color": [255, 255, 255] // 0C
+        "color": [255, 255, 255]// 0C
     },
 
 //
@@ -462,7 +462,7 @@
     {
         "class": "tree_row",
         // "layer0.texture": "",
-        "layer0.tint": [255, 255, 255], // 01
+        "layer0.tint": [38, 127, 181], // 01
         "layer0.opacity": 0,
         "layer0.inner_margin": [1,1]
     },
@@ -599,14 +599,14 @@
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.tint": [38, 127, 181] // 08
+        "layer0.tint": [110, 226, 255] // 08
     },
     {
         "class": "close_button",
         "attributes": ["dirty", "hover"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
-        "layer0.tint": [130, 246, 255] // 08
+        "layer0.tint": [110, 226, 255] // 08
     },
 
 //
@@ -668,14 +668,14 @@
         "class": "button_control",
         "attributes": ["hover"],
         // "layer0.texture": "",
-        "layer0.tint": [255, 255, 255] // -01
+        "layer0.tint": [38, 127, 181] // -01
     },
     // Pressed button state
     {
         "class": "button_control",
         "attributes": ["pressed"],
         // "layer0.texture": "",
-        "layer0.tint": [215, 215, 215] // -00
+        "layer0.tint": [0, 87, 141] // -00
     },
 //
 // TEXT INPUT FIELD
@@ -743,19 +743,19 @@
         "fg": [140, 145, 151], // 04
         "match_fg": [180, 185, 191], // 05
         "selected_fg": [255, 255, 255], // 05
-        "selected_match_fg": [255, 255, 255] // 07
+        "selected_match_fg": [38, 127, 181] // 07
     },
     {
         "class": "quick_panel_path_label",
         "fg": [30, 35, 41], // 03
         "match_fg": [10, 15, 21], // 04
         "selected_fg": [180, 185, 191], // 03
-        "selected_match_fg": [38, 127, 181] // 04
+        "selected_match_fg": [255, 255, 255] // 04
     },
     {
         "class": "quick_panel_score_label",
         "fg": [20, 25, 31], // 03
-        "selected_fg": [255, 255, 255] // 03
+        "selected_fg": [38, 127, 181] // 03
     },
 
 //
@@ -799,7 +799,7 @@
     {
         "class": "table_row",
         // "layer0.texture": "",
-        "layer0.tint": [255, 255, 255], // 02
+        "layer0.tint": [38, 127, 181], // 02
         "layer0.opacity": 0,
         "layer0.inner_margin": [3,1]
     },
