@@ -21,7 +21,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#111</string>
+                <string>#111111</string>
                 <key>caret</key>
                 <string>#F8F8F0</string>
                 <key>foreground</key>
