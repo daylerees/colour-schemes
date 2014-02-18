@@ -618,14 +618,14 @@
         "class": "disclosure_button_control",
         "content_margin": [8,8],
         "layer0.texture": "Theme - Spacegray/Spacegray/folder-closed.png",
-        "layer0.tint": [93, 84, 78], // 02
+        "layer0.tint": [0, 101, 58], // 02
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
     },
     {
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.tint":[183, 174, 168] // 04
+        "layer0.tint":[0, 141, 98] // 04
     },
     {
         "class": "disclosure_button_control",
@@ -747,14 +747,14 @@
     },
     {
         "class": "quick_panel_path_label",
-        "fg": [53, 44, 38], // 03
-        "match_fg": [33, 24, 18], // 04
+        "fg": [163, 154, 148], // 03
+        "match_fg": [255, 255, 255], // 04
         "selected_fg": [203, 194, 188], // 03
         "selected_match_fg": [0, 224, 140] // 04
     },
     {
         "class": "quick_panel_score_label",
-        "fg": [43, 34, 28], // 03
+        "fg": [255, 255, 255], // 03
         "selected_fg": [0, 141, 98] // 03
     },
 
@@ -793,8 +793,8 @@
         "class": "auto_complete_label",
         "fg": [113, 104, 98], // 03
         "match_fg": [213, 204, 198], // 05
-        "selected_fg": [255, 255, 255], // 03
-        "selected_match_fg": [0, 224, 140] // 05
+        "selected_fg": [0, 61, 18], // 03
+        "selected_match_fg": [255, 255, 255] // 05
     },
     {
         "class": "table_row",
