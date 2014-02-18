@@ -17,7 +17,7 @@ syntax reset
 hi Cursor      guibg=#cc4455  guifg=white     ctermbg=4 ctermfg=15
 hi link CursorIM Cursor
 hi Normal      guibg=#F5F8FC  guifg=#879BB0    gui=none ctermbg=0 ctermfg=15
-hi NonText     guibg=#445566  guifg=#879BB0   ctermbg=8 ctermfg=14
+hi NonText     guibg=bg  guifg=#879BB0   ctermbg=8 ctermfg=14
 hi Visual      guibg=#557799  guifg=white    gui=none ctermbg=9 ctermfg=15
 
 hi Linenr      guibg=bg       guifg=#aaaaaa  gui=none ctermbg=bg ctermfg=7
