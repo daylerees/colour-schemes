@@ -731,7 +731,7 @@
     {
         "class": "quick_panel_row",
         // "layer0.texture": "",
-        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-38) }}], // 01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-8) }}], // 01
         "layer0.inner_margin": 8,
         "layer0.opacity": 1
     },
@@ -768,14 +768,14 @@
     {
         "class": "mini_quick_panel_row",
         // "layer0.texture": "",
-        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(38) }}], // 01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-8) }}], // 01
         "layer0.opacity": 1
     },
     {
         "class": "mini_quick_panel_row",
         "attributes": ["selected"],
         // "layer0.texture": "",
-        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(4) }}] // -01
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}] // -01
     },
 
 //
@@ -785,7 +785,7 @@
     {
         "class": "popup_control",
         "content_margin": [0,0],
-        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(10) }}], // 01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-5) }}], // 01
         "layer0.opacity": 1
     },
     {
@@ -794,21 +794,22 @@
     },
     {
         "class": "auto_complete_label",
-        "fg": [{{ colour.first('ui_bg', 'background').rgb(70) }}], // 03
-        "match_fg": [{{ colour.first('ui_bg', 'background').rgb(170) }}], // 05
-        "selected_fg": [{{ colour.first('ui_bg', 'background').rgb(255) }}], // 03
-        "selected_match_fg": [{{ colour.first('ui_second', 'string').rgb() }}] // 05
+        "fg": [{{ colour.first('ui_bg', 'background').rgb(-100) }}], // 03
+        "match_fg": [{{ colour.first('ui_bg', 'background').rgb(-170) }}], // 05
+        "selected_fg": [{{ colour.first('ui_first', 'second').rgb(180) }}], // 03
+        "selected_match_fg": [{{ colour.first('ui_first', 'second').rgb(255) }}] // 05
     },
     {
         "class": "table_row",
         // "layer0.texture": "",
-        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // 02
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-5) }}], // 02
         "layer0.opacity": 0,
         "layer0.inner_margin": [3,1]
     },
     {
         "class": "table_row",
         "attributes": ["selected"],
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // 02
         "layer0.opacity": 1
     },
 
