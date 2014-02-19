@@ -29,6 +29,8 @@ Find more themes at : https://github.com/daylerees/colour-schemes
         <dict>
             <key>foreground</key>
             <string>#049bf2</string>
+            <key>background</key>
+            <string>#1f2020</string>
         </dict>
     </dict>
     <dict>
