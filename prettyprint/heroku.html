@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Heroku</title>
+<style>
+
+/* ------ START OF THEME ------ */
+
+/*
+ * Heroku
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+
+pre.theme-heroku {
+  background-color: #1b1b24;
+  padding: 2em;
+  font-size:.7em;
+  color: #c8c7d5;
+}
+
+pre.theme-heroku code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+
+pre.theme-heroku .pln {
+  color: #c8c7d5;
+}
+
+pre.theme-heroku .str {
+  color: #a6fa62;
+}
+pre.theme-heroku .kwd {
+  color: #585480;
+}
+pre.theme-heroku .com {
+  color: #505067;
+}
+pre.theme-heroku .typ {
+  color: #7873ae;
+}
+pre.theme-heroku .lit {
+  color: #ffffff;
+}
+pre.theme-heroku .pun,
+pre.theme-heroku .opn,
+pre.theme-heroku .clo {
+  color: #c8c7d5;
+}
+pre.theme-heroku .tag {
+  color: #585480;
+}
+pre.theme-heroku .atn {
+  color: #7873ae;
+}
+pre.theme-heroku .atv {
+  color: #ffffff;
+}
+pre.theme-heroku .dec,
+pre.theme-heroku .var {
+  color: #a6fa62;
+}
+pre.theme-heroku .fun {
+  color: #585480;
+}
+
+
+/* ------- END OF THEME ------- */
+
+</style>
+</head>
+<body>
+
+<h1>PrettyPrint</h1>
+
+<p>This theme is for <a href="https://code.google.com/p/google-code-prettify/">Google Code Prettify</a> which can be used to syntax highlight code within a &ltpre&gt; tag.</p>
+
+<p>To use, simply copy and paste the CSS from the source of this document into your project, and use with an existing code prettify setup. You can either add the 'theme-heroku' class each &ltpre&gt; element, or just remove it from the CSS to style all of them.</p>
+
+<p>Enjoy!</p>
+
+<pre class="theme-heroku"><code><span class="pun">&lt;?</span><span class="pln">php
+
+</span><span class="com">// app/controllers/ArticleController.php</span><span class="pln">
+
+</span><span class="kwd">class</span><span class="pln"> </span><span class="typ">ArticleController</span><span class="pln"> </span><span class="kwd">extends</span><span class="pln"> </span><span class="typ">BaseController</span><span class="pln">
+</span><span class="pun">{</span><span class="pln">
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showIndex</span><span class="pun">()</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'index'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+
+    </span><span class="kwd">public</span><span class="pln"> </span><span class="kwd">function</span><span class="pln"> showSingle</span><span class="pun">(</span><span class="pln">$articleId</span><span class="pun">)</span><span class="pln">
+    </span><span class="pun">{</span><span class="pln">
+        </span><span class="kwd">return</span><span class="pln"> </span><span class="typ">View</span><span class="pun">::</span><span class="pln">make</span><span class="pun">(</span><span class="str">'single'</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span><span class="pln">
+</span><span class="pun">}</span></code></pre>
+
+</body>
+</html>
+

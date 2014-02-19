@@ -1,0 +1,13 @@
+{
+    "type":         "Highlight.js theme",
+    "directory":       "highlightjs",
+
+    "templates": [
+        {
+            "file":         "highlightjs.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".css"
+        }
+    ]
+}
