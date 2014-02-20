@@ -61,7 +61,7 @@ Clone the repository and copy the theme files into `~/Library/Application\ Suppo
 
 ```sh
 $ git clone https://github.com/daylerees/colour-schemes.git daylerees-themes
-$ cd daylerees-themes
+$ cd daylerees-themes/legacy
 $ mkdir ~/Library/Application\ Support/TextMate/Themes/
 $ cp *.tmTheme ~/Library/Application\ Support/TextMate/Themes/
 ```
@@ -72,7 +72,7 @@ Clone the repository and copy the theme files into `~/Library/Application\ Suppo
 
 ```sh
 $ git clone https://github.com/daylerees/colour-schemes.git daylerees-themes
-$ cd daylerees-themes
+$ cd daylerees-themes/legacy
 $ cp *.tmTheme ~/Library/Application\ Support/TextMate/Managed/Bundles/Themes.tmbundle/Themes/
 ```
 
