@@ -126,6 +126,14 @@ Where `<themename>` is the lowercase filename of the theme located in the `/subl
 
 Enjoy!
 
+### X Code Colour Schemes
+
+Copy the schemes that you choose from the `xcode` folder to:
+
+    ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+
+Now the schemes will be available within the XCode preferences.
+
 ## Requests
 
 - **Hyrule** - Requested by Taylor Otwell of Laravel, a Zelda theme!
