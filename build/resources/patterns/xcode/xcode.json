@@ -1,0 +1,13 @@
+{
+    "type":          "XCode Theme",
+    "directory":     "xcode",
+
+    "templates": [
+        {
+            "file":         "xcode.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".dvtcolortheme"
+        }
+    ]
+}

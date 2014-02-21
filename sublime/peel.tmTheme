@@ -668,6 +668,17 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <string>#f7b83d</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS Class</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.class.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D6E1C7</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>2dc90997-31a1-ef0b-ccbf-27b0139c11d1</string>

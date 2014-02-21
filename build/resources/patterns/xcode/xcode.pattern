@@ -1,0 +1,153 @@
+<!--
+======================================================================
+{{ theme.name }}
+======================================================================
+An XCode theme.
+Copyright (c) {{ year }} {{ theme.author }}.
+Released under the MIT License <http://opensource.org/licenses/MIT>
+======================================================================
+Find more themes at : https://github.com/daylerees/colour-schemes
+======================================================================
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DVTConsoleDebuggerInputTextColor</key>
+    <string>{{ colour.first('xcode_output_text', 'foreground').fraction }} 1</string>
+    <key>DVTConsoleDebuggerInputTextFont</key>
+    <string>Menlo-Bold - 12.0</string>
+    <key>DVTConsoleDebuggerOutputTextColor</key>
+    <string>{{ colour.first('xcode_output_text', 'foreground').fraction }} 1</string>
+    <key>DVTConsoleDebuggerOutputTextFont</key>
+    <string>Menlo-Bold - 12.0</string>
+    <key>DVTConsoleDebuggerPromptTextColor</key>
+    <string>{{ colour.first('xcode_prompt_text', 'second').fraction }} 1</string>
+    <key>DVTConsoleDebuggerPromptTextFont</key>
+    <string>Menlo-Bold - 12.0</string>
+    <key>DVTConsoleExectuableInputTextColor</key>
+    <string>{{ colour.first('xcode_input_text', 'first').fraction }} 1</string>
+    <key>DVTConsoleExectuableInputTextFont</key>
+    <string>Menlo-Bold - 12.0</string>
+    <key>DVTConsoleExectuableOutputTextColor</key>
+    <string>{{ colour.first('xcode_output_text', 'foreground').fraction }} 1</string>
+    <key>DVTConsoleExectuableOutputTextFont</key>
+    <string>Menlo-Bold - 12.0</string>
+    <key>DVTConsoleTextBackgroundColor</key>
+    <string>{{ colour.first('xcode_background', 'background').fraction }} 1</string>
+    <key>DVTConsoleTextInsertionPointColor</key>
+    <string>{{ colour.first('xcode_output_text', 'foreground').fraction }} 1</string>
+    <key>DVTConsoleTextSelectionColor</key>
+    <string>{{ colour.first('xcode_selection_background', 'selection_background').fraction }} 1</string>
+    <key>DVTDebuggerInstructionPointerColor</key>
+    <string>{{ colour.first('xcode_output_text', 'foreground').fraction }} 1</string>
+    <key>DVTSourceTextBackground</key>
+    <string>{{ colour.first('xcode_background', 'background').fraction }} 1</string>
+    <key>DVTSourceTextBlockDimBackgroundColor</key>
+    <string>{{ colour.first('xcode_background', 'background').fraction(-20) }} 1</string>
+    <key>DVTSourceTextInsertionPointColor</key>
+    <string>{{ colour.first('xcode_output_text', 'foreground').fraction }} 1</string>
+    <key>DVTSourceTextInvisiblesColor</key>
+    <string>{{ colour.first('xcode_background', 'background').fraction(+10) }} 1</string>
+    <key>DVTSourceTextSelectionColor</key>
+    <string>{{ colour.first('xcode_selection_background', 'selection_background').fraction }} 1</string>
+    <key>DVTSourceTextSyntaxColors</key>
+    <dict>
+        <key>xcode.syntax.attribute</key>
+        <string>{{ colour.first('xcode_attribute', 'second').fraction }} 1</string>
+        <key>xcode.syntax.character</key>
+        <string>{{ colour.first('xcode_character', 'second').fraction }} 1</string>
+        <key>xcode.syntax.comment</key>
+        <string>{{ colour.first('xcode_comment', 'comment').fraction }} 1</string>
+        <key>xcode.syntax.comment.doc</key>
+        <string>{{ colour.first('xcode_docblock', 'docblock').fraction }} 1</string>
+        <key>xcode.syntax.comment.doc.keyword</key>
+        <string>{{ colour.first('xcode_docblock', 'docblock').fraction }} 1</string>
+        <key>xcode.syntax.identifier.class</key>
+        <string>{{ colour.first('xcode_class', 'second').fraction }} 1</string>
+        <key>xcode.syntax.identifier.class.system</key>
+        <string>{{ colour.first('xcode_class', 'second').fraction }} 1</string>
+        <key>xcode.syntax.identifier.constant</key>
+        <string>{{ colour.first('xcode_constant', 'third').fraction }} 1</string>
+        <key>xcode.syntax.identifier.constant.system</key>
+        <string>{{ colour.first('xcode_system_constant', 'third').fraction }} 1</string>
+        <key>xcode.syntax.identifier.function</key>
+        <string>{{ colour.first('xcode_third', 'third').fraction }} 1</string>
+        <key>xcode.syntax.identifier.function.system</key>
+        <string>{{ colour.first('xcode_third', 'third').fraction }} 1</string>
+        <key>xcode.syntax.identifier.macro</key>
+        <string>{{ colour.first('xcode_macro', 'third').fraction }} 1</string>
+        <key>xcode.syntax.identifier.macro.system</key>
+        <string>{{ colour.first('xcode_system_macro', 'third').fraction }} 1</string>
+        <key>xcode.syntax.identifier.type</key>
+        <string>{{ colour.first('xcode_third', 'third').fraction }} 1</string>
+        <key>xcode.syntax.identifier.type.system</key>
+        <string>{{ colour.first('xcode_system_type', 'second').fraction }} 1</string>
+        <key>xcode.syntax.identifier.variable</key>
+        <string>{{ colour.first('xcode_variable', 'variables', 'foreground').fraction(50) }} 1</string>
+        <key>xcode.syntax.identifier.variable.system</key>
+        <string>{{ colour.first('xcode_system_variable', 'variables', 'foreground').fraction(50) }} 1</string>
+        <key>xcode.syntax.keyword</key>
+        <string>{{ colour.first('xcode_keyword', 'fourth').fraction }} 1</string>
+        <key>xcode.syntax.number</key>
+        <string>{{ colour.first('xcode_number', 'number').fraction }} 1</string>
+        <key>xcode.syntax.plain</key>
+        <string>{{ colour.first('xcode_foreground', 'foreground').fraction }} 1</string>
+        <key>xcode.syntax.preprocessor</key>
+        <string>{{ colour.first('xcode_class', 'second').fraction }} 1</string>
+        <key>xcode.syntax.string</key>
+        <string>{{ colour.first('xcode_string', 'string').fraction }} 1</string>
+        <key>xcode.syntax.url</key>
+        <string>{{ colour.first('xcode_url', 'fourth').fraction(50) }} 1</string>
+    </dict>
+    <key>DVTSourceTextSyntaxFonts</key>
+    <dict>
+        <key>xcode.syntax.attribute</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.character</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.comment</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.comment.doc</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.comment.doc.keyword</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.class</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.class.system</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.constant</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.constant.system</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.function</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.function.system</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.macro</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.macro.system</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.type</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.type.system</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.variable</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.identifier.variable.system</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.keyword</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.number</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.plain</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.preprocessor</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.string</key>
+        <string>Menlo-Regular - 12.0</string>
+        <key>xcode.syntax.url</key>
+        <string>Menlo-Regular - 12.0</string>
+    </dict>
+</dict>
+</plist>

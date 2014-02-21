@@ -97,6 +97,30 @@ class Colour
         return "{$r}, {$g}, {$b}";
     }
 
+    public function fraction($amount = null)
+    {
+        $amount = ($amount === null) ? $this->amount : $amount;
+        $hex = $this->without();
+
+        // Calculate RGB values.
+        if(strlen($hex) == 3) {
+            $r = hexdec(substr($hex,0,1).substr($hex,0,1));
+            $g = hexdec(substr($hex,1,1).substr($hex,1,1));
+            $b = hexdec(substr($hex,2,1).substr($hex,2,1));
+        } else {
+            $r = hexdec(substr($hex,0,2));
+            $g = hexdec(substr($hex,2,2));
+            $b = hexdec(substr($hex,4,2));
+        }
+
+        $r = number_format($this->minMax($r + $amount) / 255, 7);
+        $g = number_format($this->minMax($g + $amount) / 255, 7);
+        $b = number_format($this->minMax($b + $amount) / 255, 7);
+
+        $this->reset();
+        return "{$r} {$g} {$b}";
+    }
+
     /**
      * Helper to ensure RGB values don't wrap.
      *
