@@ -9,11 +9,15 @@ Oh also, I'm British. I'm not making a spelling mistake. It is COLOUR. With the 
 This package currently supports colour schemes for:
 
 - [Sublime Text](http://www.sublimetext.com/) (2 & 3)
+- [Sublime Text UI](http://www.sublimetext.com/) (2 & 3)
 - [Textmate](http://macromates.com/) (Use sublime schemes)
 - [Coda 2](https://panic.com/coda/)
 - [VIM](http://www.vim.org/)
 - [Jetbrains Editors](http://www.jetbrains.com/) (inc. PHPStorm)
 - [Google Code Prettify](https://code.google.com/p/google-code-prettify/)
+- [Highlight JS](http://highlightjs.org/)
+- [Xcode](https://developer.apple.com/xcode/)
+- [Bootstrap](http://getbootstrap.com/)
 - Previews - HTML previews of all schemes.
 
 ## Preview
@@ -36,6 +40,8 @@ Bootstrap (Variables)                      | 80%
 VIM                                        | 70%
 Google Pretty Print                        | 95%
 HTML Previews                              | 100%
+Highlight.JS                               | 60%
+XCode                                      | 90%
 
 ## Installation
 
@@ -133,6 +139,18 @@ Copy the schemes that you choose from the `xcode` folder to:
     ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 Now the schemes will be available within the XCode preferences.
+
+### Bootstrap
+
+To use the bootstrap colour themes, you must be using the `LESS` version of bootstrap. Simply replace the contents of `variables.less` with one of the files within the `bootstrap` directory.
+
+### HighlightJS
+
+To use the Highlight.JS themes, simply use the appropriate CSS file from within the `highlightjs` directory.
+
+### Coda 2
+
+To install a Coda theme, enter the preferences for Code, click the 'Colors' tab, hit the cog icon and choose import to select a theme from the `coda` directory.
 
 ## Requests
 
