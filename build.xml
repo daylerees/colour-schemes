@@ -11,6 +11,8 @@
         <delete dir="${basedir}/bootstrap"/>
         <delete dir="${basedir}/screenshots"/>
         <delete dir="${basedir}/sublimeui"/>
+        <delete dir="${basedir}/xcode"/>
+        <delete dir="${basedir}/highlightjs"/>
     </target>
 
     <!-- Generate themes. -->

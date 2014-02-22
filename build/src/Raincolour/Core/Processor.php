@@ -245,12 +245,36 @@ class Processor
         $path[] = $pattern->get('directory');
         $path[] = $theme->get('theme.dir');
         $path[] = $template->get('directory');
-        $path[] = $theme->get('theme.slug').$template->get('extension');
+        $name = $this->buildFileName($template->get('name'), $theme);
+        $path[] = $name.$template->get('extension');
 
         // Concatonate paths with a slash.
         $path = implode('/', $path);
 
         // Trim extra slashes, just for fun.
         return preg_replace('/\/+/', '/', $path);
+    }
+
+    /**
+     * Replace theme name placeholders.
+     *
+     * @param  string                     $name
+     * @param  Raincolor\Containers\Theme $theme
+     * @return string
+     */
+    protected function buildFileName($name, $theme)
+    {
+        if ($name == null) {
+            return $theme->get('theme.slug');
+        }
+        preg_match('/%(.+)%/i', $name, $matches);
+        foreach ($matches as $match) {
+            if (strpos($match, '%') !== false) {
+                $key = trim($match, '%');
+                $value = $theme->get($key);
+                $name = str_replace($match, $value, $name);
+            }
+        }
+        return $name;
     }
 }
