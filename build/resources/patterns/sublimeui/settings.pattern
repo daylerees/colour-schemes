@@ -1,0 +1,4 @@
+{
+    "color_scheme": "Packages/sublimeui/{{ theme.slug }}/Widget - {{ theme.slug }}.stTheme",
+    "draw_shadows": false
+}

@@ -688,7 +688,7 @@
     {
         "class": "text_line_control",
         // "layer0.texture": "",
-        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-40) }}], // -01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb() }}], // -01
         "layer0.opacity": 1,
         "content_margin": 6
     },
@@ -1755,7 +1755,7 @@
     {
         "class": "text_line_control",
         // "layer0.texture": "",
-        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(10) }}], // -01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb() }}], // -01
         "layer0.opacity": 1,
         "content_margin": 6
     },

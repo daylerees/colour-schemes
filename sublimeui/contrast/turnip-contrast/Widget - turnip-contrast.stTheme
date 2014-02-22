@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>author</key>
+    <string>Dayle Rees</string>
+    <key>comment</key>
+    <string>Turnip Contrast</string>
+    <key>name</key>
+    <string>Turnip Contrast</string>
+    <key>settings</key>
+    <array>
+        <dict>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#080809</string>
+                <key>caret</key>
+                <string>#f8f8f0</string>
+                <key>foreground</key>
+                <string>#EDE0CE</string>
+                <key>invisibles</key>
+                <string>#65737e</string>
+                <key>selection</key>
+                <string>#487D76</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>

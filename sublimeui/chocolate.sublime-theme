@@ -685,7 +685,7 @@
     {
         "class": "text_line_control",
         // "layer0.texture": "",
-        "layer0.tint": [31, 25, 18], // -01
+        "layer0.tint": [21, 15, 8], // -01
         "layer0.opacity": 1,
         "content_margin": 6
     },

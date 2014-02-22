@@ -8,6 +8,18 @@
             "name":         "",
             "directory":    "",
             "extension":    ".sublime-theme"
+        },
+        {
+            "file":         "widget.pattern",
+            "name":         "%theme.slug%/Widget - %theme.slug%",
+            "directory":    "",
+            "extension":    ".stTheme"
+        },
+        {
+            "file":         "settings.pattern",
+            "name":         "%theme.slug%/Widget - %theme.slug%",
+            "directory":    "",
+            "extension":    ".sublime-settings"
         }
     ]
 }

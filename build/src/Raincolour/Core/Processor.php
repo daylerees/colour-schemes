@@ -271,7 +271,7 @@ class Processor
         }
 
         // Find variable substitution matches...
-        preg_match('/%(.+)%/i', $name, $matches);
+        preg_match('/%(.*?)%/i', $name, $matches);
 
         // Iterate the matches...
         foreach ($matches as $match) {
