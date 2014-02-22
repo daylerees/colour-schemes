@@ -264,17 +264,33 @@ class Processor
      */
     protected function buildFileName($name, $theme)
     {
+        // If we have no theme name...
         if ($name == null) {
+            // .. set it to the slug.
             return $theme->get('theme.slug');
         }
+
+        // Find variable substitution matches...
         preg_match('/%(.+)%/i', $name, $matches);
+
+        // Iterate the matches...
         foreach ($matches as $match) {
+
+            // Check for existance of marker...
             if (strpos($match, '%') !== false) {
+
+                // Build a key for replacement.
                 $key = trim($match, '%');
+
+                // Get replacement value.
                 $value = $theme->get($key);
+
+                // Perform substitution.
                 $name = str_replace($match, $value, $name);
             }
         }
+
+        // Return new value.
         return $name;
     }
 }
