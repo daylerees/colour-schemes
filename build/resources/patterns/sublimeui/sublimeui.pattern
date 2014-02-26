@@ -229,7 +229,7 @@
     {
         "class": "scroll_bar_control",
         "layer0.texture": "",
-        "layer0.tint": [35, 40, 48], // -01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-10) }}], // -01
         "layer0.opacity": 1,
         "layer0.inner_margin": [0,0],
         "blur": true
@@ -239,7 +239,7 @@
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
         "layer0.texture": "",
-        "layer0.tint": [35, 40, 48], // -01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-10) }}], // -01
         "layer0.inner_margin": [0,0],
         "blur": true
     },
@@ -247,7 +247,7 @@
     {
         "class": "scroll_corner_control",
         "layer0.texture": "",
-        "layer0.tint": [35, 40, 48], // -01
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // -01
         "layer0.inner_margin": [0,0],
         "layer0.opacity": 1
     },
@@ -255,7 +255,7 @@
     {
         "class": "puck_control",
         "layer0.texture": "",
-        "layer0.tint": [52, 61, 70], // 01
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // 01
         "layer0.opacity": 1,
         "layer0.inner_margin": [0,0],
         "content_margin": [6,0],
@@ -266,7 +266,7 @@
         "class": "puck_control",
         "attributes": ["horizontal"],
         // "layer0.texture": "",
-        "layer0.tint": [52, 61, 70], // 01
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // 01
         "layer0.inner_margin": [0,0],
         "content_margin": [12,6],
         "blur": false
@@ -1298,7 +1298,7 @@
     {
         "class": "scroll_bar_control",
         "layer0.texture": "",
-        "layer0.tint": [35, 40, 48], // -01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-10) }}], // -01
         "layer0.opacity": 1,
         "layer0.inner_margin": [0,0],
         "blur": true
@@ -1308,7 +1308,7 @@
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
         "layer0.texture": "",
-        "layer0.tint": [35, 40, 48], // -01
+        "layer0.tint": [{{ colour.first('ui_bg', 'background').rgb(-10) }}], // -01
         "layer0.inner_margin": [0,0],
         "blur": true
     },
@@ -1316,7 +1316,7 @@
     {
         "class": "scroll_corner_control",
         "layer0.texture": "",
-        "layer0.tint": [35, 40, 48], // -01
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // -01
         "layer0.inner_margin": [0,0],
         "layer0.opacity": 1
     },
@@ -1324,7 +1324,7 @@
     {
         "class": "puck_control",
         "layer0.texture": "",
-        "layer0.tint": [52, 61, 70], // 01
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // 01
         "layer0.opacity": 1,
         "layer0.inner_margin": [0,0],
         "content_margin": [6,0],
@@ -1335,7 +1335,7 @@
         "class": "puck_control",
         "attributes": ["horizontal"],
         // "layer0.texture": "",
-        "layer0.tint": [52, 61, 70], // 01
+        "layer0.tint": [{{ colour.first('ui_first', 'second').rgb() }}], // 01
         "layer0.inner_margin": [0,0],
         "content_margin": [12,6],
         "blur": false
