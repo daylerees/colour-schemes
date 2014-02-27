@@ -1,0 +1,147 @@
+@import "ui-variables";
+
+@base03: #23201c;
+@base02: #073642;
+@base01: #586e75;
+@base00: #657b83;
+@base0: #839496;
+@base1: #93a1a1;
+@base2: #eee8d5;
+@base3: #fdf6e3;
+
+@yellow: #b58900;
+@orange: #cb4b16;
+@red: #dc322f;
+@magenta: #d33682;
+@violet: #6c71c4;
+@blue: #268bd2;
+@cyan: #2aa198;
+@green: #859900;
+
+
+.editor-colors {
+  background-color: #23201c;
+  color: #EDEBE6;
+}
+
+.editor {
+  .invisible-character,
+  .indent-guide {
+    color: #403c37;
+  }
+
+  .gutter {
+    background-color: #23201c;
+  }
+
+  .gutter .line-number {
+    opacity: 0.3;
+  }
+
+  .gutter .line-number.folded,
+  .gutter .line-number:after,
+  .fold-marker:after {
+    color: #D3643B;
+  }
+
+  .cursor {
+    border-color: #f8f8f0;
+  }
+
+  .selection .region {
+    background-color: #D3643B;
+    color: #ffffff;
+  }
+
+  .line-number.cursor-line-no-selection {
+    background-color: #403c37;
+  }
+}
+
+.bracket-matcher {
+  background-color: #D3643B;
+  opacity: 0.4;
+}
+
+.comment {
+  color: #585146;
+}
+
+.entity {
+  color: #D6E1C7;
+}
+
+.entity.name.type.class {
+  color: #EDEBE6;
+}
+
+.keyword {
+  color: #94C7B6;
+}
+
+.storage.type {
+  color: #94C7B6;
+}
+
+.storage.modifier {
+  color: #D3643B;
+}
+
+.constant {
+  color: #D3643B;
+
+  &.numeric,
+  &.boolean {
+    color: #f4d370;
+  }
+}
+
+.variable {
+  color: #EDEBE6;
+}
+
+.delimiter, .brace {
+  color: #EDEBE6;
+}
+
+.delimiter.period {
+  color: #D3643B;
+}
+
+.invalid.deprecated {
+  text-decoration: underline;
+  color: @red;
+}
+
+.invalid.illegal {
+  color: @red;
+}
+
+.string {
+  color: #f4d370;
+
+  .constant.character.escape {
+    color: @red;
+  }
+
+  &.regexp {
+    color: #f4d370;
+
+    .source.ruby.embedded,
+    .string.regexp.arbitrary-repitition {
+      color: @red;
+    }
+  }
+}
+
+.keyword.other.phpdoc {
+  color: #827766;
+}
+
+.entity.name.tag {
+  color: #94C7B6;
+}
+
+.entity.other.attribute-name {
+  color: #D3643B;
+}

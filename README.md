@@ -152,6 +152,10 @@ To use the Highlight.JS themes, simply use the appropriate CSS file from within 
 
 To install a Coda theme, enter the preferences for Code, click the 'Colors' tab, hit the cog icon and choose import to select a theme from the `coda` directory.
 
+### Atom
+
+To install an atom theme, simply copy it from the `atom` directory to `~/.atom/packages`. Now you can select it from the settings menu. Enjoy!
+
 ## Requests
 
 - **Hyrule** - Requested by Taylor Otwell of Laravel, a Zelda theme!

@@ -1,0 +1,12 @@
+{
+  "name": "Mintchoc",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Theme by Dayle Rees.",
+  "repository": "https://github.com/daylerees/colour-schemes",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
