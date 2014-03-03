@@ -632,9 +632,10 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#EDB92E</string>
+                <string>#00a8c6</string>
             </dict>
         </dict>
+
         <dict>
             <key>name</key>
             <string>GitGutter deleted</string>
