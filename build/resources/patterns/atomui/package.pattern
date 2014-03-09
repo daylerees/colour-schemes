@@ -1,0 +1,11 @@
+{
+  "name": "{{ theme.name }}",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "Theme by Dayle Rees.",
+  "license": "MIT",
+  "repository": "https://github.com/daylerees/colour-schemes",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}

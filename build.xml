@@ -16,7 +16,7 @@
     </target>
 
     <!-- Generate themes. -->
-    <target name="generate" depends="clean">
+    <target name="generate">
         <exec dir="${basedir}/build" executable="php" failonerror="true">
             <arg line="run.php raincolour --ansi"></arg>
         </exec>
@@ -29,7 +29,19 @@
         </exec>
     </target>
 
+    <!-- Fix VIM paths. -->
+    <target name="vim">
+        <mkdir dir="${basedir}/vim/colors"/>
+        <move todir="${basedir}/vim/colors">
+            <fileset dir="${basedir}/vim/" includes="*.vim" />
+            <fileset dir="${basedir}/vim/contrast" includes="*.vim" />
+            <fileset dir="${basedir}/vim/light" includes="*.vim" />
+        </move>
+        <delete dir="${basedir}/vim/contrast"/>
+        <delete dir="${basedir}/vim/light"/>
+    </target>
+
     <!-- Execute the build process. -->
-    <target name="build" depends="clean, generate, screenshots"/>
+    <target name="build" depends="clean, generate, vim, screenshots"/>
 
 </project>

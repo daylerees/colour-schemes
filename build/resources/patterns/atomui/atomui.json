@@ -1,0 +1,19 @@
+{
+    "type":         "Atom UI Colour Scheme",
+    "directory":       "atomui",
+
+    "templates": [
+        {
+            "file":         "style.pattern",
+            "name":         "%theme.slug%/index",
+            "directory":    "",
+            "extension":    ".less"
+        },
+        {
+            "file":         "package.pattern",
+            "name":         "%theme.slug%/package",
+            "directory":    "",
+            "extension":    ".json"
+        }
+    ]
+}

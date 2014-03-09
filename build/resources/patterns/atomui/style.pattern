@@ -1,0 +1,117 @@
+.tab-bar {
+    background-color: lighten({{ background }}, 8%);
+    height:26px;
+
+    .tab {
+        position: relative;
+        color: lighten({{ background }}, 40%);
+        transition: background-color .2s ease-in;
+        background-color: lighten({{ background }}, 10%);
+
+        .title {
+            margin-top:5px;
+        }
+
+        .close-icon {
+            position:absolute;
+            top:5px;
+            right:5px;
+            color: lighten({{ background }}, 20%);
+
+            &:hover {
+                color: lighten({{ background }}, 60%);
+            }
+        }
+
+        &.active {
+            color: lighten({{ second }}, 60%);
+            background-color: {{ second }};
+
+            .close-icon {
+                color: lighten({{ second }}, 30%);
+
+                &:hover {
+                    color: lighten({{ second }}, 60%);
+                }
+            }
+        }
+    }
+
+    .tab:first-child {
+        padding-left:10px;
+    }
+}
+
+.tool-panel {
+    background-color: lighten({{ background }}, 2%);
+    color: lighten({{ background }}, 30%);
+    font-size:0.8em;
+}
+
+.list-item {
+    transition: background-color .2s ease-in;
+
+    &.selected {
+        color:#ffffff;
+
+        &:before {
+            background-color: {{ second }};
+        }
+    }
+}
+
+
+.list-item.header:before {
+            color: lighten({{ second }}, 0%);
+}
+
+.list-item .icon:before {
+    color: lighten({{ background }}, 40%);
+}
+
+.list-item.selected .icon:before {
+    color: lighten({{ second }}, 60%);
+}
+
+.tree-view {
+    padding:10px;
+}
+
+.inline-block {
+    color: lighten({{ background }}, 30%);
+}
+
+.status-bar .icon {
+    color: lighten({{ second }}, 0%);
+}
+
+.status-bar a {
+    color: lighten({{ background }}, 55%);
+
+    &:hover {
+        text-decoration:none;
+        color: lighten({{ background }}, 75%);
+    }
+}
+
+.overlay {
+    background-color: lighten({{ background }}, 8%);
+    color: lighten({{ background }}, 30%);
+}
+
+.panes .pane .item-views .pane-item {
+    color: {{ foreground }};
+    background-color: {{ background }};
+}
+
+.section-heading,
+.styleguide section .section-heading {
+    color: {{ foreground }};
+}
+
+.select-list {
+    li.selected {
+        color: lighten({{ second }}, 60%);
+        background-color: {{ second }};
+    }
+}

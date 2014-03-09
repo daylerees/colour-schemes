@@ -1,0 +1,117 @@
+.tab-bar {
+    background-color: lighten(#2E2B2C, 8%);
+    height:26px;
+
+    .tab {
+        position: relative;
+        color: lighten(#2E2B2C, 40%);
+        transition: background-color .2s ease-in;
+        background-color: lighten(#2E2B2C, 10%);
+
+        .title {
+            margin-top:5px;
+        }
+
+        .close-icon {
+            position:absolute;
+            top:5px;
+            right:5px;
+            color: lighten(#2E2B2C, 20%);
+
+            &:hover {
+                color: lighten(#2E2B2C, 60%);
+            }
+        }
+
+        &.active {
+            color: lighten(#ED1153, 60%);
+            background-color: #ED1153;
+
+            .close-icon {
+                color: lighten(#ED1153, 30%);
+
+                &:hover {
+                    color: lighten(#ED1153, 60%);
+                }
+            }
+        }
+    }
+
+    .tab:first-child {
+        padding-left:10px;
+    }
+}
+
+.tool-panel {
+    background-color: lighten(#2E2B2C, 2%);
+    color: lighten(#2E2B2C, 30%);
+    font-size:0.8em;
+}
+
+.list-item {
+    transition: background-color .2s ease-in;
+
+    &.selected {
+        color:#ffffff;
+
+        &:before {
+            background-color: #ED1153;
+        }
+    }
+}
+
+
+.list-item.header:before {
+            color: lighten(#ED1153, 0%);
+}
+
+.list-item .icon:before {
+    color: lighten(#2E2B2C, 40%);
+}
+
+.list-item.selected .icon:before {
+    color: lighten(#ED1153, 60%);
+}
+
+.tree-view {
+    padding:10px;
+}
+
+.inline-block {
+    color: lighten(#2E2B2C, 30%);
+}
+
+.status-bar .icon {
+    color: lighten(#ED1153, 0%);
+}
+
+.status-bar a {
+    color: lighten(#2E2B2C, 55%);
+
+    &:hover {
+        text-decoration:none;
+        color: lighten(#2E2B2C, 75%);
+    }
+}
+
+.overlay {
+    background-color: lighten(#2E2B2C, 8%);
+    color: lighten(#2E2B2C, 30%);
+}
+
+.panes .pane .item-views .pane-item {
+    color: #F8F8F2;
+    background-color: #2E2B2C;
+}
+
+.section-heading,
+.styleguide section .section-heading {
+    color: #F8F8F2;
+}
+
+.select-list {
+    li.selected {
+        color: lighten(#ED1153, 60%);
+        background-color: #ED1153;
+    }
+}
