@@ -97,7 +97,7 @@ Download or clone the colour schemes repository with git into your `.vim/colors`
 Add the following to your `.vimrc`:
 
 ```viml
-Bundle "daylerees/colour-schemes", { "rtp": "vim-themes/" }
+Bundle "daylerees/colour-schemes", { "rtp": "vim/" }
 ```
 
 ---
