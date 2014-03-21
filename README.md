@@ -41,7 +41,7 @@ VIM                                        | 70%
 Google Pretty Print                        | 95%
 HTML Previews                              | 100%
 Highlight.JS                               | 60%
-XCode                                      | 90%
+Xcode                                      | 90%
 
 ## Installation
 
@@ -132,13 +132,13 @@ Where `<themename>` is the lowercase filename of the theme located in the `/subl
 
 Enjoy!
 
-### X Code Colour Schemes
+### Xcode Colour Schemes
 
 Copy the schemes that you choose from the `xcode` folder to:
 
     ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
-Now the schemes will be available within the XCode preferences.
+Now the schemes will be available within the Xcode preferences.
 
 ### Bootstrap
 
