@@ -97,7 +97,7 @@
 }
 
 .variable {
-  color: {{ foreground }};
+  color: {{ variables }};
 }
 
 .delimiter, .brace {
