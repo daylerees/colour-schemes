@@ -456,12 +456,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="DB784D" />
+        <option name="FOREGROUND" value="60A365" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="F8BB39" />
+        <option name="FOREGROUND" value="60A365" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -488,7 +488,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="DB784D" />
+        <option name="FOREGROUND" value="95CC5E" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -524,7 +524,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="DB784D" />
+        <option name="FOREGROUND" value="60A365" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
