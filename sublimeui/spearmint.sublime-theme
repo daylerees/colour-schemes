@@ -1062,7 +1062,22 @@
         "class": "tabset_control",
         "settings": ["spacegray_tabs_xlarge"],
         "tab_height": 40
-    }
+    },
+//
+// DISABLE SIDEBAR DEFAULT ICONS
+//
 
+        {
+            "class": "icon_file_type",
+            "content_margin": [0,0]
+        },
+        {
+            "class": "icon_folder",
+            "content_margin": [0,0]
+        },
+        {
+            "class": "icon_folder_loading",
+            "content_margin": [0,0]
+        }
 ]
 
