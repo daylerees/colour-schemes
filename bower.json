@@ -17,6 +17,20 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "atom",
+    "atomui",
+    "build",
+    "coda",
+    "jedit",
+    "jetbrains",
+    "kate",
+    "legacy",
+    "preview",
+    "screenshots",
+    "sublime",
+    "sublimeui",
+    "vim",
+    "xcode"
   ]
 }
