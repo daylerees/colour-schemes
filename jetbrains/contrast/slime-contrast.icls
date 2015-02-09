@@ -1,8 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Slime Contrast" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
@@ -177,6 +176,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="80c0ba" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -356,11 +356,13 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="faffdb" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="bbb529" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -591,7 +593,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="faffdb" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -623,6 +625,7 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="4f5a63" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -730,6 +733,7 @@
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="80919f" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -988,6 +992,7 @@
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="bbb529" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1027,50 +1032,41 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_COMMA">
-      <value>
-        <option name="FOREGROUND" value="689dc5" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="4f5a63" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
       <value>
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JAVA_DOC_TAG">
       <value>
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
-        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="FOREGROUND" value="ec0e00" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JAVA_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="689dc5" />
-        <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
       <value>
-        <option name="FOREGROUND" value="faffdb" />
+        <option name="FOREGROUND" value="bbb529" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1082,13 +1078,7 @@
     </option>
     <option name="JAVA_STRING">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="JAVA_VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="689dc5" />
+        <option name="FOREGROUND" value="a9ae92" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1239,6 +1229,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="faffdb" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1376,6 +1367,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="bbb529" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1944,7 +1936,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6a9ec5" />
+        <option name="FOREGROUND" value="aeacc6" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -2046,7 +2038,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="507874" />
+        <option name="FOREGROUND" value="faffdb" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -2305,3 +2297,4 @@
     </option>
   </attributes>
 </scheme>
+
