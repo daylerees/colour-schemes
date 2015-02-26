@@ -91,7 +91,7 @@
     </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="b0c95" />
+        <option name="FOREGROUND" value="749aa0" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -144,7 +144,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="292d30" />
+       <option name="BACKGROUND" value="3d5054" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -764,7 +764,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="292d30" />
+        <option name="BACKGROUND" value="3d5054" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
