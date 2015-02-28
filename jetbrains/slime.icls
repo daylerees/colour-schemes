@@ -8,7 +8,7 @@
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="7b7d83" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="292d30" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -36,7 +36,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
-    <option name="SELECTION_BACKGROUND" value="161a1f" />
+    <option name="SELECTION_BACKGROUND" value="2f7454" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="303134" />
     <option name="WHITESPACES" value="505050" />
@@ -144,7 +144,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-       <option name="BACKGROUND" value="3d5054" />
+        <option name="BACKGROUND" value="3d5054" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1463,6 +1463,12 @@
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="4cd6a3" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="86bba8" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>

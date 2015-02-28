@@ -32,7 +32,7 @@
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="ffffff" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
@@ -123,7 +123,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3d5054" />
+        <option name="BACKGROUND" value="194d43" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
