@@ -1,0 +1,13 @@
+{
+    "type":         "Slack Sidebar Theme",
+    "directory":       "slack",
+
+    "templates": [
+        {
+            "file":         "slack.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".csv"
+        }
+    ]
+}
