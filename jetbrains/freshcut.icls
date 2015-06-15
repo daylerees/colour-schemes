@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="FreshCut" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="7b7d83" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2f3030" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -145,7 +152,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2f3030" />
+        <option name="BACKGROUND" value="393a33" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -769,7 +776,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2f3030" />
+        <option name="BACKGROUND" value="6a6f59" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1437,7 +1444,14 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="4ecdc4" />
+        <option name="FOREGROUND" value="a9ae92" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="aedf34" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1447,10 +1461,34 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="a9ae92" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="a9ae92" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="a9ae92" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="a9ae92" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="a9ae92" />
+        <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="REGEXP.BRACES">
