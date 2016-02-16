@@ -1,0 +1,73 @@
+/*
+ * {{ theme.name }}
+ * Jekyll CSS Theme.
+ *
+ * Copyright (c) {{ year }} {{ theme.author }}
+ */
+
+.highlight code { background-color: {{ background }} };
+.highlight pre { background-color: {{ background }}; }
+.highlight .hll { background-color: {{ background }}; }
+.highlight .c { color: {{ comment }} } /* Comment */
+.highlight .err { color: #960050; background-color: #1e0010 } /* Error */
+.highlight .k { color: {{ first }} } /* Keyword */
+.highlight .l { color: {{ third }} } /* Literal */
+.highlight .n { color: {{ foreground }} } /* Name */
+.highlight .o { color: {{ first }} } /* Operator */
+.highlight .p { color: {{ foreground }} } /* Punctuation */
+.highlight .cm { color: {{ comment }} } /* Comment.Multiline */
+.highlight .cp { color: {{ foreground }} } /* Comment.Preproc */
+.highlight .c1 { color: {{ comment }} } /* Comment.Single */
+.highlight .cs { color: {{ docblock }} } /* Comment.Special */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .kc { color: {{ second }} } /* Keyword.Constant */
+.highlight .kd { color: {{ second }} } /* Keyword.Declaration */
+.highlight .kn { color: {{ first }} } /* Keyword.Namespace */
+.highlight .kp { color: {{ first }} } /* Keyword.Pseudo */
+.highlight .kr { color: {{ second }} } /* Keyword.Reserved */
+.highlight .kt { color: {{ first }} } /* Keyword.Type */
+.highlight .ld { color: {{ third }} } /* Literal.Date */
+.highlight .m { color: {{ third }} } /* Literal.Number */
+.highlight .s { color: {{ third }} } /* Literal.String */
+.highlight .na { color: {{ foreground }} } /* Name.Attribute */
+.highlight .nb { color: {{ foreground }} } /* Name.Builtin */
+.highlight .nc { color: {{ foreground }} } /* Name.Class */
+.highlight .no { color: {{ second }} } /* Name.Constant */
+.highlight .nd { color: {{ first }} } /* Name.Decorator */
+.highlight .ni { color: {{ foreground }} } /* Name.Entity */
+.highlight .ne { color: {{ foreground }} } /* Name.Exception */
+.highlight .nf { color: {{ third }} } /* Name.Function */
+.highlight .nl { color: {{ foreground }} } /* Name.Label */
+.highlight .nn { color: {{ foreground }} } /* Name.Namespace */
+.highlight .nx { color: {{ foreground }} } /* Name.Other */
+.highlight .py { color: {{ foreground }} } /* Name.Property */
+.highlight .nt { color: {{ first }} } /* Name.Tag */
+.highlight .nv { color: {{ foreground }} } /* Name.Variable */
+.highlight .ow { color: {{ first }} } /* Operator.Word */
+.highlight .w { color: {{ foreground }} } /* Text.Whitespace */
+.highlight .mf { color: {{ number }} } /* Literal.Number.Float */
+.highlight .mh { color: {{ number }} } /* Literal.Number.Hex */
+.highlight .mi { color: {{ number }} } /* Literal.Number.Integer */
+.highlight .mo { color: {{ number }} } /* Literal.Number.Oct */
+.highlight .sb { color: {{ string }} } /* Literal.String.Backtick */
+.highlight .sc { color: {{ string }} } /* Literal.String.Char */
+.highlight .sd { color: {{ comment }} } /* Literal.String.Doc */
+.highlight .s2 { color: {{ string }} } /* Literal.String.Double */
+.highlight .se { color: {{ second }} } /* Literal.String.Escape */
+.highlight .sh { color: {{ comment }} } /* Literal.String.Heredoc */
+.highlight .si { color: {{ string }} } /* Literal.String.Interpol */
+.highlight .sx { color: {{ string }} } /* Literal.String.Other */
+.highlight .sr { color: {{ string }} } /* Literal.String.Regex */
+.highlight .s1 { color: {{ string }} } /* Literal.String.Single */
+.highlight .ss { color: {{ string }} } /* Literal.String.Symbol */
+.highlight .bp { color: {{ foreground }} } /* Name.Builtin.Pseudo */
+.highlight .vc { color: {{ foreground }} } /* Name.Variable.Class */
+.highlight .vg { color: {{ foreground }} } /* Name.Variable.Global */
+.highlight .vi { color: {{ foreground }} } /* Name.Variable.Instance */
+.highlight .il { color: {{ number }} } /* Literal.Number.Integer.Long */
+
+.highlight .gh { } /* Generic Heading & Diff Header */
+.highlight .gu { color: {{ comment }}; } /* Generic.Subheading & Diff Unified/Comment? */
+.highlight .gd { color: {{ first }}; } /* Generic.Deleted & Diff Deleted */
+.highlight .gi { color: {{ foreground }}; } /* Generic.Inserted & Diff Inserted */
