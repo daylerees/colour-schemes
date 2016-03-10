@@ -259,7 +259,7 @@
                     <key>foreground</key>
                     <string>#a71d5d</string>
                     <key>fontStyle</key>
-                    <string>bold</string>
+                    <string>normal</string>
                 </dict>
             </dict>
 
