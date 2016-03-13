@@ -9,7 +9,7 @@
 <plist version="1.0">
     <dict>
         <key>name</key>
-        <string>GitHub</string>
+        <string>GitHub v2</string>
         <key>settings</key>
         <array>
 
@@ -21,7 +21,7 @@
                 <dict>
                     <!-- General -->
                     <key>background</key>
-                    <string>#f7f7f7</string>
+                    <string>#eee9cb</string>
                     <key>foreground</key>
                     <string>#323232</string>
                     <key>invisibles</key>
@@ -31,27 +31,19 @@
 
                     <!-- Gutter -->
                     <key>gutter</key>
-                    <string>#ffffff</string>
+                    <string>#eee9cb</string>
                     <key>gutterForeground</key>
-                    <string>#b3b3b3</string>
-
-                    <!-- Guides -->
-                    <key>guide</key>
-                    <string>#e8e8e8</string>
-                    <key>stackGuide</key>
-                    <string>#e8e8e8</string>
-                    <key>activeGuide</key>
                     <string>#b3b3b3</string>
 
                     <!-- Highlighting -->
                     <key>lineHighlight</key>
-                    <string>#f5f5f5</string>
+                    <string>#faffbb</string>
                     <key>findHighlight</key>
                     <string>#f8eec7</string>
                     <key>findHighlightForeground</key>
                     <string>#323232</string>
                     <key>selection</key>
-                    <string>#f8eec7</string>
+                    <string>#f8eeaa</string>
                     <key>selectionBorder</key>
                     <string>#ffffff</string>
 
