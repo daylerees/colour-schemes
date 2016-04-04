@@ -1,11 +1,9 @@
 @import "syntax-variables";
 
-.editor-colors {
+atom-text-editor, :host {
 	background-color: {{ background }};
 	color: {{ foreground }};
-}
 
-.editor {
 	.invisible-character,
 	.indent-guide {
 		color: {{ line_highlight }};
