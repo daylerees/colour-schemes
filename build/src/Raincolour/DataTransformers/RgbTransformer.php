@@ -54,7 +54,7 @@ class RgbTransformer implements TransformerInterface
         }
 
         // Set the current year for copyrights.
-        $data['year'] = date('Y');
+        $data['year'] = gmdate('Y');
 
         // Create a UUID for the sublime text themes.
         $md5 = md5($data['theme']['name']);
