@@ -6,17 +6,17 @@
 // General colors
 @syntax-text-color: {{ foreground }};
 @syntax-cursor-color: @base3;
-// @syntax-selection-color: lighten(@dark-gray, 10%);
+@syntax-selection-color: {{ selection_background }};
 @syntax-background-color: @base03;
 
 // Guide colors
 // @syntax-wrap-guide-color: @dark-gray;
 // @syntax-indent-guide-color: @gray;
-// @syntax-invisible-character-color: @gray;
+@syntax-invisible-character-color: {{ invisibles }};
 
 // For find and replace markers
-// @syntax-result-marker-color: @light-gray;
-// @syntax-result-marker-color-selected: white;
+@syntax-result-marker-color: {{ selection_foreground }};
+@syntax-result-marker-color-selected: {{ selection_background }};
 
 // Gutter colors
 // @syntax-gutter-text-color: @very-light-gray;
