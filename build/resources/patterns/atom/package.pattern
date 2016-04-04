@@ -1,5 +1,5 @@
 {
-  "name": "{{ theme.name }}-syntax",
+  "name": "{{ theme.slug }}-syntax",
   "theme": "syntax",
   "version": "1.0.0",
   "private": false,
