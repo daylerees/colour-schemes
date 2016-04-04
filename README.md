@@ -8,6 +8,7 @@ Oh also, I'm British. I'm not making a spelling mistake. It is COLOUR. With the 
 
 This package currently supports colour schemes for:
 
+- [Atom](http://www.atom.io/) (2 & 3)
 - [Sublime Text](http://www.sublimetext.com/) (2 & 3)
 - [Sublime Text UI](http://www.sublimetext.com/) (2 & 3)
 - [Textmate](http://macromates.com/) (Use sublime schemes)
@@ -46,6 +47,18 @@ Xcode                                      | 90%
 ## Installation
 
 Installation of the colour schemes depends greatly upon the type of software that you intend to use them with. Here are the guides for common editors and libraries.
+
+* [Atom](#atom)
+* [Bootstrap](#bootstrap)
+* [Coda 2](#coda-2)
+* [HighlightJS](#highlightjs)
+* [IntelliJ](#intellij)
+* [Sublime Text](#sublime-text)
+* [Sublime UI Themes](#sublime-ui-themes)
+* [TextMate 1.5.x](#textmate-15x)
+* [Textmate 2](#textmate-2)
+* [VIM](#vim)
+* [Xcode Colour Schemes](#xcode-colour-schemes)
 
 ### Sublime Text
 
