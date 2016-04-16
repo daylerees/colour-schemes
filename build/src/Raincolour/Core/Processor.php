@@ -243,7 +243,12 @@ class Processor
         // Build path array from directory locations.
         $path[] = $this->config->dir('output');
         $path[] = $pattern->get('directory');
-        $path[] = $theme->get('theme.dir');
+
+        // @NOTE Atom doesn't display packages in subdirectories.
+        if ($pattern->get('directory') !== 'atom') {
+        	$path[] = $theme->get('theme.dir');
+        }
+
         $path[] = $template->get('directory');
         $name = $this->buildFileName($template->get('name'), $theme);
         $path[] = $name.$template->get('extension');

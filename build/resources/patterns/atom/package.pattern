@@ -1,12 +1,16 @@
 {
-  "name": "{{ theme.name }}",
+  "name": "{{ theme.slug }}-syntax",
   "theme": "syntax",
   "version": "1.0.0",
   "private": false,
   "description": "Theme by Dayle Rees.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
   "repository": "https://github.com/daylerees/colour-schemes",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }

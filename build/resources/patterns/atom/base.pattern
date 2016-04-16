@@ -1,0 +1,126 @@
+@import "syntax-variables";
+
+atom-text-editor, :host {
+	background-color: {{ background }};
+	color: {{ foreground }};
+
+	.invisible-character,
+	.indent-guide {
+		color: {{ line_highlight }};
+	}
+
+	.gutter {
+		background-color: {{ background }};
+	}
+
+	.gutter .line-number {
+		opacity: 0.3;
+	}
+
+	.gutter .line-number.folded,
+	.gutter .line-number:after,
+	.fold-marker:after {
+		color: {{ second }};
+	}
+
+	.cursor {
+		border-color: {{ caret }};
+	}
+
+	.selection .region {
+		background-color: {{ selection_background }};
+		color: {{ selection_foreground }};
+	}
+
+	.line-number.cursor-line-no-selection {
+		background-color: {{ line_highlight }};
+	}
+}
+
+.bracket-matcher {
+	background-color: {{ second }};
+	opacity: 0.4;
+}
+
+.comment {
+	color: {{ comment }};
+}
+
+.entity {
+	color: {{ third }};
+}
+
+.entity.name.type.class {
+	color: {{ foreground }};
+}
+
+.keyword {
+	color: {{ fourth }};
+}
+
+.storage.type {
+	color: {{ first }};
+}
+
+.storage.modifier {
+	color: {{ second }};
+}
+
+.constant {
+	color: {{ second }};
+
+	&.numeric,
+	&.boolean {
+		color: {{ number }};
+	}
+}
+
+.variable {
+	color: {{ foreground }};
+}
+
+.delimiter, .brace {
+	color: {{ foreground }};
+}
+
+.delimiter.period {
+	color: {{ second }};
+}
+
+.invalid.deprecated {
+	text-decoration: underline;
+	color: @red;
+}
+
+.invalid.illegal {
+	color: @red;
+}
+
+.string {
+	color: {{ string }};
+
+	.constant.character.escape {
+		color: @red;
+	}
+
+	&.regexp {
+		color: {{ number }};
+
+		.source.ruby.embedded,
+		.string.regexp.arbitrary-repitition {
+			color: @red;
+		}
+	}
+}
+
+.keyword.other.phpdoc {
+	color: {{ docblock }};
+}
+
+.entity.name.tag {
+	color: {{ first }};
+}
+
+.entity.other.attribute-name {
+	color: {{ second }};
+}

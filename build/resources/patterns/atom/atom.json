@@ -3,17 +3,35 @@
     "directory":       "atom",
 
     "templates": [
+	    {
+            "file":         "package.pattern",
+            "name":         "%theme.slug%-syntax/package",
+            "directory":    "",
+            "extension":    ".json"
+        },
         {
-            "file":         "style.pattern",
-            "name":         "%theme.slug%/index",
+            "file":         "index.pattern",
+            "name":         "%theme.slug%-syntax/index",
             "directory":    "",
             "extension":    ".less"
         },
         {
-            "file":         "package.pattern",
-            "name":         "%theme.slug%/package",
+            "file":         "base.pattern",
+            "name":         "%theme.slug%-syntax/styles/base",
             "directory":    "",
-            "extension":    ".json"
+            "extension":    ".less"
+        },
+        {
+            "file":         "colors.pattern",
+            "name":         "%theme.slug%-syntax/styles/colors",
+            "directory":    "",
+            "extension":    ".less"
+        },
+        {
+            "file":         "syntax-variables.pattern",
+            "name":         "%theme.slug%-syntax/styles/syntax-variables",
+            "directory":    "",
+            "extension":    ".less"
         }
     ]
 }
