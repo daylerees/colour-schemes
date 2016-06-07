@@ -1,0 +1,36 @@
+{
+  "name": "colour-schemes",
+  "version": "0.0.0",
+  "homepage": "http://daylerees.github.io",
+  "authors": [
+    "Dayle Rees <thepunkfan@gmail.com>"
+  ],
+  "description": "Colour schemes for a variety of editors created by Dayle Rees.",
+  "keywords": [
+    "colors",
+    "css",
+    "less"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "atom",
+    "atomui",
+    "build",
+    "coda",
+    "jedit",
+    "jetbrains",
+    "kate",
+    "legacy",
+    "preview",
+    "screenshots",
+    "sublime",
+    "sublimeui",
+    "vim",
+    "xcode"
+  ]
+}
