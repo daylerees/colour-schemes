@@ -13,6 +13,7 @@
         <delete dir="${basedir}/sublimeui"/>
         <delete dir="${basedir}/xcode"/>
         <delete dir="${basedir}/highlightjs"/>
+        <delete dir="${basedir}/emacs"/>
     </target>
 
     <!-- Generate themes. -->

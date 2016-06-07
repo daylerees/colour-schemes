@@ -1,0 +1,193 @@
+(deftheme {{ theme.slug }} "{{ theme.description }}")
+
+(custom-theme-set-faces
+  '{{ colour.first('emacs_theme', 'theme').get().slug }}
+  '(default ((t (:family "DejaVu Sans Mono"
+                 :foundry "unknown"
+                 :width normal
+                 :height 113
+                 :weight normal
+                 :slant normal
+                 :underline nil
+                 :overline nil
+                 :strike-through nil
+                 :box nil
+                 :inverse-video nil
+                 :foreground "{{ colour.first('emacs_foreground', 'foreground').get()}}"
+                 :background "{{ colour.first('emacs_background', 'background').get()}}"
+                 :stipple nil
+                 :inherit nil))))
+'(cursor ((t (:background "{{ colour.first('emacs_caret', 'caret').get() }}"))))
+'(fixed-pitch ((t (:family "Monospace"))))
+'(variable-pitch ((t (:family "Sans Serif"))))
+'(escape-glyph ((t (:foreground "brown"))))
+'(minibuffer-prompt ((t (:foreground "{{ colour.first('emacs_first', 'first').get()}}"))))
+'(highlight ((t (:background "{{ colour.first('emacs_find_background', 'find_background').get() }}" :foreground "{{ colour.first('emacs_find_foreground', 'find_foreground').get() }}"))))
+'(region ((t (:background "{{ colour.first('emacs_selection_background', 'selection_background').get() }}"
+              :foreground "{{ colour.first('emacs_selection_foreground', 'selection_foreground').get() }}"))))
+'(shadow ((t (:foreground "{{ colour.first('emacs_invisibles', 'invisibles').get() }}"))))
+{# This is probably wrong - but I've never used the secondary-selection feature so I can't work out what colour it *should* be #}
+'(secondary-selection ((t (:background "{{ colour.first('emacs_selection_background', 'selection_background').get() }}"))))
+'(font-lock-builtin-face ((t (:foreground "{{ colour.first('emacs_first', 'first').get() }}"))))
+'(font-lock-comment-delimiter-face ((default (:inherit (font-lock-comment-face)))))
+'(font-lock-comment-face ((t (:foreground "{{ colour.first('emacs_comment', 'comment').get() }}"))))
+'(font-lock-constant-face ((t (:foreground "{{ colour.first('emacs_second', 'second').get() }}"))))
+'(font-lock-doc-face ((t (:foreground "{{ colour.first('emacs_docblock', 'docblock').get() }}"))))
+'(font-lock-function-name-face ((t (:foreground "{{ colour.first('emacs_third', 'third').get() }}"))))
+'(font-lock-keyword-face ((t (:foreground "{{ colour.first('emacs_fifth', 'fifth').get() }}"))))
+'(font-lock-negation-char-face ((t nil)))
+'(font-lock-preprocessor-face ((t (:foreground "{{ colour.first('emacs_fifth', 'fifth').get() }}"))))
+'(font-lock-regexp-grouping-backslash ((t (:inherit (bold)))))
+'(font-lock-regexp-grouping-construct ((t (:inherit (bold)))))
+'(font-lock-string-face ((t (:foreground "{{ colour.first('emacs_string', 'string').get() }}"))))
+'(font-lock-type-face ((t (:inherit 'default))))
+'(font-lock-variable-name-face ((t (:foreground "{{ colour.first('emacs_first', 'first').get() }}"))))
+'(font-lock-warning-face ((t (:background "{{ colour.first('emacs_invalid_background', 'invalid_background').get() }}" :foreground "{{ colour.first('emacs_invalid_foreground', 'invalid_foreground').get() }}"))))
+'(button ((t (:inherit (link)))))
+'(link ((((class color) (min-colors 88) (background light)) (:underline (:color foreground-color :style line) :foreground "RoyalBlue3")) (((class color) (background light)) (:underline (:color foreground-color :style line) :foreground "blue")) (((class color) (min-colors 88) (background dark)) (:underline (:color foreground-color :style line) :foreground "cyan1")) (((class color) (background dark)) (:underline (:color foreground-color :style line) :foreground "cyan")) (t (:inherit (underline)))))
+'(link-visited ((default (:inherit (link))) (((class color) (background light)) (:foreground "magenta4")) (((class color) (background dark)) (:foreground "violet"))))
+'(fringe ((((class color) (background light)) (:background "grey95")) (((class color) (background dark)) (:background "grey10")) (t (:background "gray"))))
+'(header-line ((default (:inherit (mode-line))) (((type tty)) (:underline (:color foreground-color :style line) :inverse-video nil)) (((class color grayscale) (background light)) (:box nil :foreground "grey20" :background "grey90")) (((class color grayscale) (background dark)) (:box nil :foreground "grey90" :background "grey20")) (((class mono) (background light)) (:underline (:color foreground-color :style line) :box nil :inverse-video nil :foreground "black" :background "white")) (((class mono) (background dark)) (:underline (:color foreground-color :style line) :box nil :inverse-video nil :foreground "white" :background "black"))))
+'(tooltip ((((class color)) (:inherit (variable-pitch) :foreground "black" :background "lightyellow")) (t (:inherit (variable-pitch)))))
+'(mode-line ((((class color) (min-colors 88)) (:foreground "black" :background "grey75" :box (:line-width -1 :color nil :style released-button))) (t (:inverse-video t))))
+'(mode-line-buffer-id ((t (:weight bold))))
+'(mode-line-emphasis ((t (:weight bold))))
+'(mode-line-highlight ((((class color) (min-colors 88)) (:box (:line-width 2 :color "grey40" :style released-button))) (t (:inherit (highlight)))))
+'(mode-line-inactive ((default (:inherit (mode-line))) (((class color) (min-colors 88) (background light)) (:background "grey90" :foreground "grey20" :box (:line-width -1 :color "grey75" :style nil) :weight light)) (((class color) (min-colors 88) (background dark)) (:background "grey30" :foreground "grey80" :box (:line-width -1 :color "grey40" :style nil) :weight light))))
+'(isearch ((t (:background "{{ colour.first('emacs_find_background', 'find_background').get() }}" :foreground "{{ colour.first('emacs_find_foreground', 'find_foreground').get() }}"))))
+'(isearch-fail ((t (:background "{{ colour.first('emacs_invalid_background', 'invalid_background').get() }}" :foreground "{{ colour.first('emacs_invalid_foreground', 'invalid_foreground').get() }}"))))
+'(lazy-highlight ((t (:background "{{ colour.first('emacs_find_background', 'find_background').get() }}" :foreground "{{ colour.first('emacs_find_foreground', 'find_foreground').get() }}"))))
+'(match ((t (:background "{{ colour.first('emacs_find_background', 'find_background').get() }}" :foreground "{{ colour.first('emacs_find_foreground', 'find_foreground').get() }}"))))
+'(next-error ((t (:inherit (region)))))
+'(query-replace ((t (:inherit (isearch)))))
+)
+
+(provide-theme '{{ theme.slug }} )
+
+{#[first] => #A2A797#}
+{#[second] => #516B6B#}
+{#[third] => #70807B#}
+{#[fourth] => #A2A797#}
+{#[fifth] => #cf433e#}
+{#[comment] => #3f3a36#}
+{#[string] => #a5e3d0#}
+{#[number] => #a5e3d0#}
+{#[selection_foreground] => #ffffff#}
+{#[selection_background] => #516B6B#}
+{#[selection_border] => #222218#}
+{#[find_foreground] => #000000#}
+{#[find_background] => #ffe792#}
+{#[line_highlight] => #292725#}
+{#[caret] => #f8f8f0#}
+{#[invisibles] => #3b3a32#}
+{#[scope_guide] => #9d550fb0#}
+{#[brackets] => #A2A797#}
+{#[bracket_content] => #516B6B#}
+{#[invalid_foreground] => #f8f8f0#}
+{#[invalid_background] => #00a8c6#}
+{#[docblock] => #605852#}
+{#[variables] => #EDEBE6#}
+{#[background_h] => 211f1e#}
+{#[background_r] => 33#}
+{#[background_g] => 31#}
+{#[background_b] => 30#}
+{#[foreground_h] => EDEBE6#}
+{#[foreground_r] => 237#}
+{#[foreground_g] => 235#}
+{#[foreground_b] => 230#}
+{#[first_h] => A2A797#}
+{#[first_r] => 162#}
+{#[first_g] => 167#}
+{#[first_b] => 151#}
+{#[second_h] => 516B6B#}
+{#[second_r] => 81#}
+{#[second_g] => 107#}
+{#[second_b] => 107#}
+{#[third_h] => 70807B#}
+{#[third_r] => 112#}
+{#[third_g] => 128#}
+{#[third_b] => 123#}
+{#[fourth_h] => A2A797#}
+{#[fourth_r] => 162#}
+{#[fourth_g] => 167#}
+{#[fourth_b] => 151#}
+{#[fifth_h] => cf433e#}
+{#[fifth_r] => 207#}
+{#[fifth_g] => 67#}
+{#[fifth_b] => 62#}
+{#[comment_h] => 3f3a36#}
+{#[comment_r] => 63#}
+{#[comment_g] => 58#}
+{#[comment_b] => 54#}
+{#[string_h] => a5e3d0#}
+{#[string_r] => 165#}
+{#[string_g] => 227#}
+{#[string_b] => 208#}
+{#[number_h] => a5e3d0#}
+{#[number_r] => 165#}
+{#[number_g] => 227#}
+{#[number_b] => 208#}
+{#[selection_foreground_h] => ffffff#}
+{#[selection_foreground_r] => 255#}
+{#[selection_foreground_g] => 255#}
+{#[selection_foreground_b] => 255#}
+{#[selection_background_h] => 516B6B#}
+{#[selection_background_r] => 81#}
+{#[selection_background_g] => 107#}
+{#[selection_background_b] => 107#}
+{#[selection_border_h] => 222218#}
+{#[selection_border_r] => 34#}
+{#[selection_border_g] => 34#}
+{#[selection_border_b] => 24#}
+{#[find_foreground_h] => 000000#}
+{#[find_foreground_r] => 0#}
+{#[find_foreground_g] => 0#}
+{#[find_foreground_b] => 0#}
+{#[find_background_h] => ffe792#}
+{#[find_background_r] => 255#}
+{#[find_background_g] => 231#}
+{#[find_background_b] => 146#}
+{#[line_highlight_h] => 292725#}
+{#[line_highlight_r] => 41#}
+{#[line_highlight_g] => 39#}
+{#[line_highlight_b] => 37#}
+{#[caret_h] => f8f8f0#}
+{#[caret_r] => 248#}
+{#[caret_g] => 248#}
+{#[caret_b] => 240#}
+{#[invisibles_h] => 3b3a32#}
+{#[invisibles_r] => 59#}
+{#[invisibles_g] => 58#}
+{#[invisibles_b] => 50#}
+{#[scope_guide_h] => 9d550fb0#}
+{#[scope_guide_r] => 157#}
+{#[scope_guide_g] => 85#}
+{#[scope_guide_b] => 15#}
+{#[brackets_h] => A2A797#}
+{#[brackets_r] => 162#}
+{#[brackets_g] => 167#}
+{#[brackets_b] => 151#}
+{#[bracket_content_h] => 516B6B#}
+{#[bracket_content_r] => 81#}
+{#[bracket_content_g] => 107#}
+{#[bracket_content_b] => 107#}
+{#[invalid_foreground_h] => f8f8f0#}
+{#[invalid_foreground_r] => 248#}
+{#[invalid_foreground_g] => 248#}
+{#[invalid_foreground_b] => 240#}
+{#[invalid_background_h] => 00a8c6#}
+{#[invalid_background_r] => 0#}
+{#[invalid_background_g] => 168#}
+{#[invalid_background_b] => 198#}
+{#[docblock_h] => 605852#}
+{#[docblock_r] => 96#}
+{#[docblock_g] => 88#}
+{#[docblock_b] => 82#}
+{#[variables_h] => EDEBE6#}
+{#[variables_r] => 237#}
+{#[variables_g] => 235#}
+{#[variables_b] => 230#}
+{#[ui_bg] => #211f1e#}
+{#[year] => 2014#}
+{#[uuid] => 20531614-5db8-c07f-8885-2afd41d72631#}
+{#)#}

@@ -1,0 +1,13 @@
+{
+    "type":         "Emacs theme",
+    "directory":       "emacs",
+
+    "templates": [
+        {
+            "file":         "emacs.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    "-theme.el"
+        }
+    ]
+}
