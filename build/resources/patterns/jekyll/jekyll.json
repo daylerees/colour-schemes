@@ -1,0 +1,13 @@
+{
+    "type":          "Jekyll Theme",
+    "directory":     "jekyll",
+
+    "templates": [
+        {
+            "file":         "jekyll.pattern",
+            "name":         "",
+            "directory":    "",
+            "extension":    ".css"
+        }
+    ]
+}
