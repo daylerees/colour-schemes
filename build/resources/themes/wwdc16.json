@@ -1,0 +1,34 @@
+{
+  "theme": {
+    "name":             "wwdc16",
+    "description":      "wwdc16 theme.",
+    "author":           "John Ryan",
+    "slug":             "wwdc16",
+    "type":             "dark"
+  },
+
+  "background":               "#25272f",
+  "foreground":               "#ffffff",
+  "first":                    "#00aba5",
+  "second":                   "#52bd58",
+  "third":                    "#4670d8",
+  "fourth":                   "#00aba5",
+  "fifth":                    "#b73999",
+  "comment":                  "#666666",
+  "string":                   "#7fb660",
+  "number":                   "#8485ce",
+  "selection_foreground":     "#ffffff",
+  "selection_background":     "#666666",
+  "selection_border":         "#333333",
+  "find_foreground":          "#000000",
+  "find_background":          "#95c76f",
+  "line_highlight":           "#333333",
+  "caret":                    "#999999",
+  "invisibles":               "#333333",
+  "scope_guide":              "#dc3c3c",
+  "brackets":                 "#b73999",
+  "bracket_content":          "#4670d8",
+  "invalid_foreground":       "#ffffff",
+  "invalid_background":       "#dc3c3c",
+  "docblock":                 "#999999"
+}
