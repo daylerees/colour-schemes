@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Doogie",
+        "description":      "Doogie.",
+        "author":           "Ryan Tablada",
+        "slug":             "doogie",
+        "type":             "journal"
+    },
+
+    "background":               "#0000FF",
+    "foreground":               "#ffffff",
+    "first":                    "#ffffff",
+    "second":                   "#ffffff",
+    "third":                    "#ffffff",
+    "fourth":                   "#ffffff",
+    "fifth":                    "#ffffff",
+    "comment":                  "#ffffff",
+    "string":                   "#ffffff",
+    "number":                   "#ffffff",
+    "selection_foreground":     "#ffffff",
+    "selection_background":     "#574DFF",
+    "selection_border":         "#ffffff",
+    "find_foreground":          "#ffffff",
+    "find_background":          "#574DFF",
+    "line_highlight":           "#ffffff",
+    "caret":                    "#ffffff",
+    "invisibles":               "#ffffff",
+    "scope_guide":              "#ffffff",
+    "brackets":                 "#ffffff",
+    "bracket_content":          "#ffffff",
+    "invalid_foreground":       "#ffffff",
+    "invalid_background":       "#574DFF",
+    "docblock":                 "#ffffff",
+    "variables":                "#ffffff"
+}
