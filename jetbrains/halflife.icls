@@ -88,7 +88,7 @@
     </option>
     <option name="BNF_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="BNF_NUMBER">
@@ -307,7 +307,7 @@
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="CSS.NUMBER">
@@ -355,7 +355,7 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -488,7 +488,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -648,7 +648,7 @@
     </option>
     <option name="GROOVY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="GString">
@@ -858,7 +858,7 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
@@ -1088,7 +1088,7 @@
     </option>
     <option name="OC.CPP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="OC.DIRECTIVE">
@@ -1099,7 +1099,7 @@
     </option>
     <option name="OC.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
       </value>
     </option>
     <option name="OC.NUMBER">
@@ -1469,7 +1469,7 @@
     </option>
     <option name="SQL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1623,7 +1623,7 @@
     </option>
     <option name="VELOCITY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1718,7 +1718,7 @@
     </option>
     <option name="XPATH.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7D8991" />
+        <option name="FOREGROUND" value="FC913A" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
