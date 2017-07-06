@@ -1,0 +1,19 @@
+{
+    "type":         "Visual Studio Code Colour Scheme",
+    "directory":    "vscode",
+
+    "templates": [
+	      {
+          "file":         "package.pattern",
+          "name":         "daylerees.theme.%theme.slug%/package",
+          "directory":    "",
+          "extension":    ".json"
+        },
+        {
+            "file":         "vscode.pattern",
+            "name":         "daylerees.theme.%theme.slug%/%theme.slug%",
+            "directory":    "",
+            "extension":    ".json"
+        }
+    ]
+}
