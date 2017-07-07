@@ -179,7 +179,8 @@ and you can then select it using `m-x load-theme` or set it as the default.
 *Heads up. It'll ask you whether you really want to load the theme because it involves running lisp code. Feel free to check everything's safe before you do*
 
 ### Visual Studio Code
-Copy the theme you want from the `vscode` directory to `~/.vscode/extensions`. Start vscode (or reload the window) and select the theme in your preferences.
+
+Copy the theme you want from the `vscode` directory to `~/.vscode/extensions` (Mac/Linux) or `%USERPROFILE%\.vscode\extensions` (Windows). Start vscode (or reload the window) and select the theme in your preferences.
 
 ## Requests
 
