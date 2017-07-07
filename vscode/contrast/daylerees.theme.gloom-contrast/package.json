@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Gloom Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./gloom-contrast.json"
             }
         ]

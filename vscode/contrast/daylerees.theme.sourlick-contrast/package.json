@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Sourlick Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./sourlick-contrast.json"
             }
         ]

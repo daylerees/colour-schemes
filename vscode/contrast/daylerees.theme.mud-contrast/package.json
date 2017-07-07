@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Mud Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./mud-contrast.json"
             }
         ]

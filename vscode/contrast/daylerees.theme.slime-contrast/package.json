@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Slime Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./slime-contrast.json"
             }
         ]

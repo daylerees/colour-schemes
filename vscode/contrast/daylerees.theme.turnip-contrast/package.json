@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Turnip Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./turnip-contrast.json"
             }
         ]

@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Keen Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./keen-contrast.json"
             }
         ]

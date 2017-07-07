@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Iceberg Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./iceberg-contrast.json"
             }
         ]

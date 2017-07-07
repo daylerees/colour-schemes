@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Laravel Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./laravel-contrast.json"
             }
         ]

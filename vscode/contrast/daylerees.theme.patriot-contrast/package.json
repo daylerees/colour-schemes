@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Patriot Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./patriot-contrast.json"
             }
         ]

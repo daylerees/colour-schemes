@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Revelation Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./revelation-contrast.json"
             }
         ]

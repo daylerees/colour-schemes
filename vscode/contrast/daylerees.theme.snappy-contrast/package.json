@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Snappy Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./snappy-contrast.json"
             }
         ]

@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Peacock Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./peacock-contrast.json"
             }
         ]

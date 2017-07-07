@@ -1,3 +1,6 @@
+{% set uiTheme = 'vs' %}
+{% set uiTheme = theme.type == 'dark' ? 'vs-dark' : uiTheme %}
+{% set uiTheme = theme.dir == 'contrast' ? 'hc-black' : uiTheme %}
 {
     "name": "{{ theme.slug }}",
     "version": "1.0.0",
@@ -16,7 +19,7 @@
         "themes": [
             {
                 "label": "{{ theme.name }}",
-                "uiTheme": "vs{{ theme.type == 'dark' ? '-dark' : '' }}",
+                "uiTheme": "{{ uiTheme }}",
                 "path": "./{{ theme.slug }}.json"
             }
         ]

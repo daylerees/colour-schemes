@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "FreshCut Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./freshcut-contrast.json"
             }
         ]

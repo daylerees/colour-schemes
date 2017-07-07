@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Halflife Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./halflife-contrast.json"
             }
         ]

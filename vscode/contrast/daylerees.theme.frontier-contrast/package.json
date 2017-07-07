@@ -16,7 +16,7 @@
         "themes": [
             {
                 "label": "Frontier Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "hc-black",
                 "path": "./frontier-contrast.json"
             }
         ]
