@@ -437,6 +437,6 @@
         "editor.foreground": "{{ foreground }}",
         "editorWhitespace.foreground": "{{ invisibles }}",
         "editor.lineHighlightBackground": "{{ line_highlight }}",
-        "editor.selectionBackground": "{{ selection_background }}"
+        "editor.selectionBackground": "{{ selection_background }}{{ selection_background|length < 9 ? '4D' : '' }}"
     }
 }

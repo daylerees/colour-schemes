@@ -437,6 +437,6 @@
         "editor.foreground": "#CAD9E3",
         "editorWhitespace.foreground": "#3b3a32",
         "editor.lineHighlightBackground": "#40484D",
-        "editor.selectionBackground": "#DE333C"
+        "editor.selectionBackground": "#DE333C4D"
     }
 }
