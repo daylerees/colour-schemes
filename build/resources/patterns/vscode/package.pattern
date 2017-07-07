@@ -1,7 +1,7 @@
 {
     "name": "{{ theme.slug }}",
     "version": "1.0.0",
-    "displayName": "Dayle Rees colour Schemes",
+    "displayName": "{{ theme.name }} Theme",
     "description": "{{ theme.name }} theme by {{ theme.author }}",
     "publisher": "Dayle Rees",
     "repository": "https://github.com/daylerees/colour-schemes",
