@@ -1,0 +1,24 @@
+{
+    "name": "boxuk",
+    "version": "1.0.0",
+    "displayName": "Box UK Theme",
+    "description": "Box UK theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Box UK",
+                "uiTheme": "vs-dark",
+                "path": "./boxuk.json"
+            }
+        ]
+    }
+}

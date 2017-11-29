@@ -1,0 +1,24 @@
+{
+    "name": "frontier-contrast",
+    "version": "1.0.0",
+    "displayName": "Frontier Contrast Theme",
+    "description": "Frontier Contrast theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Frontier Contrast",
+                "uiTheme": "hc-black",
+                "path": "./frontier-contrast.json"
+            }
+        ]
+    }
+}

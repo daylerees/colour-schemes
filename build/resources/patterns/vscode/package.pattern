@@ -1,0 +1,27 @@
+{% set uiTheme = 'vs' %}
+{% set uiTheme = theme.type == 'dark' ? 'vs-dark' : uiTheme %}
+{% set uiTheme = theme.dir == 'contrast' ? 'hc-black' : uiTheme %}
+{
+    "name": "{{ theme.slug }}",
+    "version": "1.0.0",
+    "displayName": "{{ theme.name }} Theme",
+    "description": "{{ theme.name }} theme by {{ theme.author }}",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "{{ theme.name }}",
+                "uiTheme": "{{ uiTheme }}",
+                "path": "./{{ theme.slug }}.json"
+            }
+        ]
+    }
+}

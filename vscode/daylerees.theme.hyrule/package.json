@@ -1,0 +1,24 @@
+{
+    "name": "hyrule",
+    "version": "1.0.0",
+    "displayName": "Hyrule Theme",
+    "description": "Hyrule theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hyrule",
+                "uiTheme": "vs-dark",
+                "path": "./hyrule.json"
+            }
+        ]
+    }
+}

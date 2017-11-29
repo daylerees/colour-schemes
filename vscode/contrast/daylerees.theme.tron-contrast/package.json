@@ -1,0 +1,24 @@
+{
+    "name": "tron-contrast",
+    "version": "1.0.0",
+    "displayName": "Tron Contrast Theme",
+    "description": "Tron Contrast theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tron Contrast",
+                "uiTheme": "hc-black",
+                "path": "./tron-contrast.json"
+            }
+        ]
+    }
+}

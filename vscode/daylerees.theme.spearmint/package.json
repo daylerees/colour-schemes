@@ -1,0 +1,24 @@
+{
+    "name": "spearmint",
+    "version": "1.0.0",
+    "displayName": "Spearmint Theme",
+    "description": "Spearmint theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spearmint",
+                "uiTheme": "vs",
+                "path": "./spearmint.json"
+            }
+        ]
+    }
+}

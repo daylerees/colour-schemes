@@ -1,0 +1,24 @@
+{
+    "name": "peacocks-in-space",
+    "version": "1.0.0",
+    "displayName": "Peacocks In Space Theme",
+    "description": "Peacocks In Space theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Peacocks In Space",
+                "uiTheme": "vs-dark",
+                "path": "./peacocks-in-space.json"
+            }
+        ]
+    }
+}

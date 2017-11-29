@@ -1,0 +1,24 @@
+{
+    "name": "sourlick-contrast",
+    "version": "1.0.0",
+    "displayName": "Sourlick Contrast Theme",
+    "description": "Sourlick Contrast theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sourlick Contrast",
+                "uiTheme": "hc-black",
+                "path": "./sourlick-contrast.json"
+            }
+        ]
+    }
+}

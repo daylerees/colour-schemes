@@ -1,0 +1,24 @@
+{
+    "name": "earthsong-contrast",
+    "version": "1.0.0",
+    "displayName": "Earthsong Contrast Theme",
+    "description": "Earthsong Contrast theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Earthsong Contrast",
+                "uiTheme": "hc-black",
+                "path": "./earthsong-contrast.json"
+            }
+        ]
+    }
+}

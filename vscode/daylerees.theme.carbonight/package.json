@@ -1,0 +1,24 @@
+{
+    "name": "carbonight",
+    "version": "1.0.0",
+    "displayName": "Carbonight Theme",
+    "description": "Carbonight theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Carbonight",
+                "uiTheme": "vs-dark",
+                "path": "./carbonight.json"
+            }
+        ]
+    }
+}

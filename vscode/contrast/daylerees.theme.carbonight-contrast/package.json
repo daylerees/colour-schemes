@@ -1,0 +1,24 @@
+{
+    "name": "carbonight-contrast",
+    "version": "1.0.0",
+    "displayName": "Carbonight Contrast Theme",
+    "description": "Carbonight Contrast theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Carbonight Contrast",
+                "uiTheme": "hc-black",
+                "path": "./carbonight-contrast.json"
+            }
+        ]
+    }
+}

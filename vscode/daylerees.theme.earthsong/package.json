@@ -1,0 +1,24 @@
+{
+    "name": "earthsong",
+    "version": "1.0.0",
+    "displayName": "Earthsong Theme",
+    "description": "Earthsong theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Earthsong",
+                "uiTheme": "vs-dark",
+                "path": "./earthsong.json"
+            }
+        ]
+    }
+}

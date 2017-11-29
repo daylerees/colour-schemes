@@ -1,0 +1,24 @@
+{
+    "name": "potpourri-contrast",
+    "version": "1.0.0",
+    "displayName": "Potpourri Contrast Theme",
+    "description": "Potpourri Contrast theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Potpourri Contrast",
+                "uiTheme": "hc-black",
+                "path": "./potpourri-contrast.json"
+            }
+        ]
+    }
+}

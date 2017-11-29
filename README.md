@@ -19,6 +19,7 @@ This package currently supports colour schemes for:
 - [Highlight JS](http://highlightjs.org/)
 - [Xcode](https://developer.apple.com/xcode/)
 - [Bootstrap](http://getbootstrap.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - Previews - HTML previews of all schemes.
 
 ## Preview
@@ -59,6 +60,7 @@ Installation of the colour schemes depends greatly upon the type of software tha
 * [Textmate 2](#textmate-2)
 * [VIM](#vim)
 * [Xcode Colour Schemes](#xcode-colour-schemes)
+* [Visual Studio Code](#visual-studio-code)
 
 ### Sublime Text
 
@@ -175,6 +177,10 @@ To install an emacs theme, just copy it from the `emacs` directory to `~/.emacs.
 and you can then select it using `m-x load-theme` or set it as the default.
 
 *Heads up. It'll ask you whether you really want to load the theme because it involves running lisp code. Feel free to check everything's safe before you do*
+
+### Visual Studio Code
+
+Copy the theme you want from the `vscode` directory to `~/.vscode/extensions` (Mac/Linux) or `%USERPROFILE%\.vscode\extensions` (Windows). Start vscode (or reload the window) and select the theme in your preferences.
 
 ## Requests
 

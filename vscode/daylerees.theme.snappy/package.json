@@ -1,0 +1,24 @@
+{
+    "name": "snappy",
+    "version": "1.0.0",
+    "displayName": "Snappy Theme",
+    "description": "Snappy theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Snappy",
+                "uiTheme": "vs-dark",
+                "path": "./snappy.json"
+            }
+        ]
+    }
+}

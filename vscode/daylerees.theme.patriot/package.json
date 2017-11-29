@@ -1,0 +1,24 @@
+{
+    "name": "patriot",
+    "version": "1.0.0",
+    "displayName": "Patriot Theme",
+    "description": "Patriot theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Patriot",
+                "uiTheme": "vs-dark",
+                "path": "./patriot.json"
+            }
+        ]
+    }
+}

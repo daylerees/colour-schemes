@@ -1,0 +1,24 @@
+{
+    "name": "pastel",
+    "version": "1.0.0",
+    "displayName": "Pastel Theme",
+    "description": "Pastel theme by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/daylerees/colour-schemes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pastel",
+                "uiTheme": "vs-dark",
+                "path": "./pastel.json"
+            }
+        ]
+    }
+}
