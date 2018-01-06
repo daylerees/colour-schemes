@@ -67,7 +67,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Spacegray/assets/close.png",
         "layer0.opacity": 0,
         "layer0.tint": [255, 255, 255] // 03
     },
@@ -79,7 +79,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Spacegray/assets/close.png",
         "layer0.opacity": 1
     },
     {
@@ -98,7 +98,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png",
+        "layer0.texture": "Theme - Spacegray/assets/circle.png",
         "layer0.tint": [248, 187, 57], // 0A
         "layer0.opacity": 1
     },
@@ -112,7 +112,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Spacegray/assets/close.png",
         "attributes": ["hover"],
         "layer0.opacity": 1,
         "layer0.tint": [45, 51, 39] // 08
@@ -199,7 +199,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-closed.png",
+        "layer0.texture": "Theme - Spacegray/assets/folder-closed.png",
         "layer0.tint": [105, 111, 99], // 04
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0,
@@ -213,7 +213,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Theme - Spacegray/assets/folder-open.png"
     },
     {
         "class": "fold_button_control",
@@ -565,7 +565,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Spacegray/assets/close.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": [255, 255, 255], // 03
@@ -585,7 +585,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png",
+        "layer0.texture": "Theme - Spacegray/assets/circle.png",
         "layer0.opacity": 1,
         "layer0.tint": [248, 187, 57] // 0A
     },
@@ -593,7 +593,7 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png"
+        "layer0.texture": "Theme - Spacegray/assets/circle.png"
     },
     // Sidebar file close hover
     {
@@ -605,7 +605,7 @@
         "class": "close_button",
         "attributes": ["dirty", "hover"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Spacegray/assets/close.png",
         "layer0.tint": [248, 187, 57] // 08
     },
 
@@ -617,7 +617,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8,8],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-closed.png",
+        "layer0.texture": "Theme - Spacegray/assets/folder-closed.png",
         "layer0.tint": [179, 80, 37], // 02
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
@@ -635,7 +635,7 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Theme - Spacegray/assets/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -646,7 +646,7 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Theme - Spacegray/assets/folder-open.png"
     },
 
 //
@@ -872,7 +872,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Spacegray/Spacegray/regex.png",
+        "layer0.texture": "Theme - Spacegray/assets/regex.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -886,7 +886,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Spacegray/Spacegray/casesens.png",
+        "layer0.texture": "Theme - Spacegray/assets/casesens.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -899,7 +899,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Spacegray/Spacegray/wholeword.png",
+        "layer0.texture": "Theme - Spacegray/assets/wholeword.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -917,7 +917,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Spacegray/Spacegray/context.png",
+        "layer0.texture": "Theme - Spacegray/assets/context.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -930,7 +930,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Spacegray/Spacegray/buffer.png",
+        "layer0.texture": "Theme - Spacegray/assets/buffer.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -947,7 +947,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Spacegray/Spacegray/reverse.png",
+        "layer0.texture": "Theme - Spacegray/assets/reverse.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -960,7 +960,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Spacegray/Spacegray/wrap.png",
+        "layer0.texture": "Theme - Spacegray/assets/wrap.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -973,7 +973,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Spacegray/Spacegray/selection.png",
+        "layer0.texture": "Theme - Spacegray/assets/selection.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -991,7 +991,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Spacegray/Spacegray/lock.png",
+        "layer0.texture": "Theme - Spacegray/assets/lock.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1009,7 +1009,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Spacegray/Spacegray/highlight.png",
+        "layer0.texture": "Theme - Spacegray/assets/highlight.png",
         "layer0.tint": [35, 41, 29], // 02
         "layer0.opacity": 1,
         "content_margin": 8
