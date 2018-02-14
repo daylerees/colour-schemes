@@ -107,6 +107,12 @@ There are multiple methods of installing the colour schemes when using VIM.
 
 Download or clone the colour schemes repository with git into your `.vim/colors` directory.
 
+On Linux, you may do it like this:
+
+    cd ~/.vim
+    svn export https://github.com/daylerees/colour-schemes.git/trunk/vim/colors/
+
+
 #### Vundle
 
 Add the following to your `.vimrc`:
